@@ -7,6 +7,7 @@ from sklearn import metrics
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import svm
 from sklearn.model_selection import train_test_split
+from sklearn.model_selection import GridSearchCV
 
 # Tensor Flow Versions
 import tensorflow as tf
@@ -147,6 +148,28 @@ def compare_models(filename, iterations) :
     print("Model SVM score: {}".format(round(score,3)))
     test_tensorflow(filename, iterations*2)
 
+def hyper_tune_knn(filename) :
+    X, y = generate_model_data(filename + '.csv', 50000)
+    # Test the models predication score. This is best done on smaller datasets.
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+    n_space = list(range(1,3))
+    param_grid = {'n_neighbors': n_space}
+    knn = KNeighborsClassifier(n_neighbors=3)
+    knn.fit(X_train, y_train)
+    print("KNN Score: {}".format(knn.score(X_test, y_test)))
+
+    # Fit the classifier to the training data
+    start = time.time()
+    knn_cv = GridSearchCV(knn, param_grid, cv=5)
+    knn_cv.fit(X_train, y_train)
+    end = time.time()
+    print("Elapsed Tune time (sec): {}".format(round(end - start)))
+    n = knn_cv.best_params_['n_neighbors']
+    print("KNN Best n_neighbors: {}".format(n))
+    knn = KNeighborsClassifier(n_neighbors=n)
+    knn.fit(X_train, y_train)
+    print("KNN Score with n_neighbors={} : {}".format(n ,knn.score(X_test, y_test)))
+
 def build_model(filename) :
     X, y = generate_model_data(filename+'.csv')
     knn = KNeighborsClassifier(n_neighbors = 10)
@@ -186,4 +209,5 @@ def main(first_time = False) :
     print("Elapsed time (sec): {}".format(round(end - start)))
 
 #main()
-compare_models('misspellings',5000)
+# compare_models('misspellings',5000)
+hyper_tune_knn('misspellings')
