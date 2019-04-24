@@ -58,6 +58,29 @@ def generate_model_data(filename, row_count = 0) :
 
     return X, y
 
+# Alternative approach to generating a column for each possible value of a field.
+# Here each possible value is the possible answers. Each new column will have 0/1 values for the combination of the
+# column name-answer_value.
+# With a small enough sample set we would generate a new column for each possible value of the answer. So for 100
+# rows we could have as many as 100 columns each with 0 or 1..  ex: 'answer_Kenneth Branaugh'
+# For all permutations this would grow lineraly with the dataset so is not viable for this dataset.
+def generate_dummy_model_data(filename, row_count = 0) :
+    if row_count == 0 :
+        data = pd.read_csv(filename)
+    else:
+        data = pd.read_csv(filename, nrows = row_count)
+
+    data['answers'] =  data['answer'].apply(str).apply(str.lower)
+
+    df = data.drop('correct_answer',axis=1)
+    converted_answers = pd.get_dummies(df)
+
+    y =  data['correct_answer']
+    X = np.array(converted_answers)
+    print("X shape: {}, y shape: {}".format(X.shape, y.shape))
+
+    return X, y
+
 def map_to_int(filename, data) :
     df = pd.read_csv(filename, header=None)
     actors = df[0].values.tolist()
@@ -121,7 +144,7 @@ def test_tensorflow(filename, iterations) :
     print("Model TensorFlow DNNClassifier score: {}".format(metrics.accuracy_score(y_test, predictions)))
 
 def compare_models(filename, iterations) :
-    X, y = generate_model_data(filename+'.csv', 100000)
+    X, y = generate_model_data(filename+'.csv')
     # Test the models predication score. This is best done on smaller datasets.
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42, stratify=y)
     knn = KNeighborsClassifier(n_neighbors = 10)
@@ -146,7 +169,7 @@ def compare_models(filename, iterations) :
     end = time.time()
     print("Elapsed SVM time (sec): {}".format(round(end - start)))
     print("Model SVM score: {}".format(round(score,3)))
-    test_tensorflow(filename, iterations*2)
+    # test_tensorflow(filename, iterations*2)
 
 def hyper_tune_knn(filename) :
     X, y = generate_model_data(filename + '.csv', 50000)
@@ -209,5 +232,13 @@ def main(first_time = False) :
     print("Elapsed time (sec): {}".format(round(end - start)))
 
 #main()
-# compare_models('misspellings',5000)
-hyper_tune_knn('misspellings')
+compare_models('misspellings',50)
+#test_tensorflow('misspellings', 100)
+# hyper_tune_knn('misspellings')
+
+X, y = generate_dummy_model_data('misspellings.csv', 100)
+print("Dummies data shape: {}".format(X.shape))
+print(X)
+print(X)
+
+

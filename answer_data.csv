@@ -1,0 +1,4576 @@
+index,answer,correct_answer,score,correct
+1,,Jane Fonda,0,FALSE
+2,Malcolm macdowel,Malcolm McDowell,0.938,TRUE
+3,David schwimmer,David Schwimmer,1,TRUE
+4,George Lopez,John Leguizamo,0.552,FALSE
+5,Matthew broderick,Matthew Broderick,1,TRUE
+6,John c Riely,John C. Reilly,0.917,TRUE
+7,Penelopi Cruze,Penelope Cruz,0.95,TRUE
+8,Ryan Reynolds,Ryan Reynolds,1,TRUE
+9,Barbara hershey,Barbara Hershey,1,TRUE
+10,Jennifer jason Lee,Jennifer Jason Leigh,0.943,TRUE
+11,Jamie Lee curtis,Jamie Lee Curtis,1,TRUE
+12,Jeff bridges,Jeff Bridges,1,TRUE
+13,Renee zelwiger,Renee Zellweger,0.915,TRUE
+14,Dan android,Dan Aykroyd,0.815,FALSE
+15,Mike Myers,Mike Myers,1,TRUE
+16,Mel Gibson,Mel Gibson,1,TRUE
+17,Anette Benning,Annette Bening,0.937,TRUE
+18,Robert Redfoed,Robert Redford,0.993,TRUE
+19,Jowakine pheonix,Joaquin Phoenix,0.82,FALSE
+20,Albert Finney,Albert Finney,1,TRUE
+21,Steve Buschemi,Steve Buscemi,0.993,TRUE
+22,Kevin Costner,Kevin Costner,1,TRUE
+23,Ryan Gosling,Ryan Gosling,1,TRUE
+24,Stanley Tucci,Stanley Tucci,1,TRUE
+25,Sally Fields,Sally Fields,1,TRUE
+26,Liev Schreiber,Liev Schreiber,1,TRUE
+27,Tom Arnold,Tom Arnold,1,TRUE
+28,Richard Guere,Richard Gere,0.992,TRUE
+29,Jim Carry,Jim Carrey,0.993,TRUE
+30,Orlando Bloome,Orlando Bloom,0.998,TRUE
+31,Bill Murray,Bill Murray,1,TRUE
+32,Kierra Knightly,Keira Knightley,0.936,TRUE
+33,John Travolta,John Travolta,1,TRUE
+34,Peter O'toole,Peter O'toole,1,TRUE
+35,Kenneth Branaugh,Kenneth Branagh,0.996,TRUE
+36,Morgan Freeman,Morgan Freeman,1,TRUE
+37,Rickey Jervais,Ricky Gervais,0.928,TRUE
+38,Jamie Foxx,Jamie Foxx,1,TRUE
+39,Daniel Craig,Daniel Craig,1,TRUE
+40,Orlando Bloome,Orlando Bloom,0.998,TRUE
+41,Julia Roberts,Julia Roberts,1,TRUE
+42,Chalize Theron,Charlize Theron,0.982,TRUE
+43,Danny Devito,Danny DeVito,1,TRUE
+44,Jenifer Aniston,Jennifer Aniston,0.875,TRUE
+45,John Travolta,John Travolta,1,TRUE
+46,Vince Vaughn,Vince Vaughn,1,TRUE
+47,Laura Dern,Laura Dern,1,TRUE
+48,Kristen Scott Thomas,Kristin Scott Thomas,0.975,TRUE
+49,Peter O'tolle,Peter O'toole,0.988,TRUE
+50,Dan Ackeroid,Dan Aykroyd,0.916,TRUE
+51,Paul Rudd,Seth Rogen,0.474,FALSE
+52,Frank Langella,Frank Langella,1,TRUE
+53,Blair Underwood,Blair Underwood,1,TRUE
+54,Brad Pitt,Brad Pitt,1,TRUE
+55,Colin Firth,Colin Firth,1,TRUE
+56,Christian Slater,Christian Slater,1,TRUE
+57,Drew Barrymore,Drew Barrymore,1,TRUE
+58,Caterine Zeta Jones,Catherine Zeta-Jones,0.957,TRUE
+59,Sam Shepard,Sam Shepard,1,TRUE
+60,Brook Shields,Brooke Shields,0.952,TRUE
+61,Daniel Radcilffe,Daniel Radcliffe,0.993,TRUE
+62,Toby McGuire,Tobey Maguire,0.898,TRUE
+63,Alec Baldwin,Alec Baldwin,1,TRUE
+64,Tia Leoni,Tea Leoni,0.933,TRUE
+65,Mary Louise Parker,Mary-Louise Parker,0.925,TRUE
+66,James Gandolfini,James Gandolfini,1,TRUE
+67,Candice Began,Candice Bergen,0.979,TRUE
+68,Forest Wittiker,Forest Whitaker,0.959,TRUE
+69,Kevin James,Kevin James,1,TRUE
+70,Bridgette Fonda,Bridget Fonda,0.976,TRUE
+71,Al Pacino,Al Pacino,1,TRUE
+72,Steve Martin,Steve Martin,1,TRUE
+73,Anthony Quinn,Anthony Quinn,1,TRUE
+74,Kirsten Dunst,Kirsten Dunst,1,TRUE
+75,Anna Paquine,Anna Paquin,0.998,TRUE
+76,Alan Alda,Alan Alda,1,TRUE
+77,Ben Stiller,Ben Stiller,1,TRUE
+78,Christoph Waltz,Christoph Waltz,1,TRUE
+79,Jason Bateman,Jason Bateman,1,TRUE
+80,Timmothy Dalton,Timothy Dalton,0.982,TRUE
+81,Jonah Hill,Jonah Hill,1,TRUE
+82,Meryl Streep,Meryl Streep,1,TRUE
+83,Kathy Bates,Kathy Bates,1,TRUE
+84,Kathleen Turner,Kathleen Turner,1,TRUE
+85,Alan Rickman,Alan Rickman,1,TRUE
+86,Minnie Driver,Minnie Driver,1,TRUE
+87,Kyle McGlaughlan,Kyle MacLachlan,0.889,TRUE
+88,Paul Newman,Paul Newman,1,TRUE
+89,Dennis Leary,Denis Leary,0.979,TRUE
+90,Jeremy Irons,Jeremy Irons,1,TRUE
+91,Jennifer Aniston,Jennifer Aniston,1,TRUE
+92,Darryl Hannah,Daryl Hannah,0.98,TRUE
+93,Chris Rock,Chris Rock,1,TRUE
+94,Eva Mendes,Eva Mendes,1,TRUE
+95,Vince Vaughn,Vince Vaughn,1,TRUE
+96,Don Cheatle,Don Cheadle,0.983,TRUE
+97,James Woods,James Woods,1,TRUE
+98,Daniel Day-Lewis,Daniel Day-Lewis,1,TRUE
+99,Tom Hanks,Tom Hanks,1,TRUE
+100,Kate Hudson,Kate Hudson,1,TRUE
+101,Elliott Gould,Elliott Gould,1,TRUE
+102,Jamie Bell,Jamie Bell,1,TRUE
+103,Sean Connery,Sean Connery,1,TRUE
+104,Michael Douglas,Michael Douglas,1,TRUE
+105,Mira Servino,Mira Sorvino,0.942,TRUE
+106,Maggie Gyllanhaal,Maggie Gyllenhaal,0.979,TRUE
+107,Philip Seymour Hoffmann,Philip Seymour Hoffman,0.999,TRUE
+108,Burt Reynolds,Burt Reynolds,1,TRUE
+109,Kim basinger,Kim Basinger,1,TRUE
+110,Mick nolty,Nick Nolte,0.8,FALSE
+111,David spade,David Spade,1,TRUE
+112,Jennifer lawrence,Jennifer Lawrence,1,TRUE
+113,Tom wilkenson,Tom Wilkinson,0.929,TRUE
+114,Julia roberts,Julia Roberts,1,TRUE
+115,Danny Glover,Danny Glover,1,TRUE
+116,Renee russo,Rene Russo,0.94,TRUE
+117,Sylvester stalone,Sylvester Stallone,0.975,TRUE
+118,Richard Guere,Richard Gere,0.992,TRUE
+119,Oliver platt,Oliver Platt,1,TRUE
+120,Liev schriber,Liev Schreiber,0.935,TRUE
+121,Matthew broderick,Matthew Broderick,1,TRUE
+122,Christopher plummer,Christopher Plummer,1,TRUE
+123,Hugh jackman,Hugh Jackman,1,TRUE
+124,Jeremy irons,Jeremy Irons,1,TRUE
+125,Ed harris,Ed Harris,1,TRUE
+126,Beau bridges,Beau Bridges,1,TRUE
+127,Helena Bonham Carter,Helena Bonham Carter,1,TRUE
+128,Michele phifer,Michelle Pfeiffer,0.888,TRUE
+129,Tim robbins,Tim Robbins,1,TRUE
+130,Juliane Moore,Julianne Moore,0.986,TRUE
+131,Paul Rudd,Paul Rudd,1,TRUE
+132,Rachel MacAdams,Rachel McAdams,0.967,TRUE
+133,Danny devito,Danny DeVito,1,TRUE
+134,Alfred Molina,Alfred Molina,1,TRUE
+135,Penelope Cruze,Penelope Cruz,0.998,TRUE
+136,Miranda Richardson,Miranda Richardson,1,TRUE
+137,Jim.Carrey,Jim Carrey,0.953,TRUE
+138,John leguzamo,John Leguizamo,0.953,TRUE
+139,Javier bardem,Javier Bardem,1,TRUE
+140,Kristin Scott Thomas,Catherine Zeta-Jones,0.522,FALSE
+141,Demi moore,Demi Moore,1,TRUE
+142,Mark.ruffalo,Mark Ruffalo,0.926,TRUE
+143,Will smith,Will Smith,1,TRUE
+144,Malcolm mcdowell,Malcolm McDowell,1,TRUE
+145,Orlando Bloome,Orlando Bloom,0.998,TRUE
+146,Charlie sheen,Charlie Sheen,1,TRUE
+147,Mickey Rhoarke,Mickey Rourke,0.969,TRUE
+148,Emily blunt,Emily Blunt,1,TRUE
+149,Kathy bates,Kathy Bates,1,TRUE
+150,Alan akin,Alan Arkin,0.948,TRUE
+151,Elizabeth Shue,Elizabeth Perkins,0.922,TRUE
+152,Mary louise-parker,Mary-Louise Parker,0.926,TRUE
+153,Daryl Hannah,Daryl Hannah,1,TRUE
+154,,Tim Blake Nelson,0,FALSE
+155,Paul Newman,Paul Newman,1,TRUE
+156,Gweneth Paltrow,Gwyneth Paltrow,0.941,TRUE
+157,Michael Keaton,Michael Keaton,1,TRUE
+158,Goldie Hawn,Goldie Hawn,1,TRUE
+159,Nicole Kidman,Nicole Kidman,1,TRUE
+160,Iam Holm,Ian Holm,0.933,TRUE
+161,Marisa Tomei,Marisa Tomei,1,TRUE
+162,Dennis Hopper,Dennis Hopper,1,TRUE
+163,Anthony Quinn,Anthony Quinn,1,TRUE
+164,Tom Hanks,Tom Hanks,1,TRUE
+165,Bill Pullman,Bill Pullman,1,TRUE
+166,Al Pacino,Al Pacino,1,TRUE
+167,Colin Firth,Colin Firth,1,TRUE
+168,Alan Alda,Alan Alda,1,TRUE
+169,Naomi  Watts,Naomi Watts,1,TRUE
+170,Bridget Fonda,Bridget Fonda,1,TRUE
+171,Christian Slater,Christian Slater,1,TRUE
+172,Michael Douglas,Michael Douglas,1,TRUE
+173,Woody Allen,Woody Allen,1,TRUE
+174,Joan Cusack,Joan Cusack,1,TRUE
+175,Isabella  Rosellini,Isabella Rossellini,0.982,TRUE
+176,Jamie Bell,Jamie Bell,1,TRUE
+177,Glenn Close,Glenn Close,1,TRUE
+178,Alan Rickman,Alan Rickman,1,TRUE
+179,Ryan Reynolds,Ryan Reynolds,1,TRUE
+180,Jack Nickelson,Jack Nicholson,0.947,TRUE
+181, Hugh Grant,Hugh Grant,1,TRUE
+182,Timothy Dalton,Timothy Dalton,1,TRUE
+183,Laura Dern,Laura Dern,1,TRUE
+184,Sean Penn,Sean Penn,1,TRUE
+185,Ben Stiller,Ben Stiller,1,TRUE
+186,Leonardo DeCapprio,Leonardo DiCaprio,0.956,TRUE
+187,Keifer Sutherland,Kiefer Sutherland,0.982,TRUE
+188,Keano Reeves,Keanu Reeves,0.963,TRUE
+189,Sarah Jessica Parker,Sarah Jessica Parker,1,TRUE
+190,Jack Black,Jack Black,1,TRUE
+191,Ewen McGreggor,Ewan McGregor,0.937,TRUE
+192,Chevy Chase,Chevy Chase,1,TRUE
+193,Jeffery Wright,Jeffrey Wright,0.983,TRUE
+194,Jimmy Smiths,Jimmy Smits,0.995,TRUE
+195,Meryl Streep,Meryl Streep,1,TRUE
+196,Kyle McGloughlan,Kyle MacLachlan,0.86,TRUE
+197,Sean Connery,Sean Connery,1,TRUE
+198,Daniel Day-Lewis,Daniel Day-Lewis,1,TRUE
+199,Chris Cooper,Chris Cooper,1,TRUE
+200,James Gandolfini,James Gandolfini,1,TRUE
+201,Dan Ackroid,Dan Aykroyd,0.934,TRUE
+202,Joe Pecci,Joe Pesci,0.97,TRUE
+203,Nicholas Cage,Nicholas Cage,1,TRUE
+204,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+205,Sidney Poitier,Sidney Poitier,1,TRUE
+206,Brad Pitt,Brad Pitt,1,TRUE
+207,Martin Sheen,Martin Sheen,1,TRUE
+208,Sally Fields,Sally Fields,1,TRUE
+209,Jody Foster,Jodie Foster,0.861,TRUE
+210,Juliette Binoche,Juliette Binoche,1,TRUE
+211,Danny Davito,Danny DeVito,0.954,TRUE
+212,Burt Reynolds,Burt Reynolds,1,TRUE
+214,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+213,Kelly MacAdams,Kelly MacDonald,0.924,FALSE
+215,Rosie Perez,Rosie Perez,1,TRUE
+216,Elen Page,Emma Stone,0.531,FALSE
+217,Demi Moore,Demi Moore,1,TRUE
+218,Toni Collette,Toni Collette,1,TRUE
+219,Jason Bateman,Jason Bateman,1,TRUE
+220,Arnold Schwarzenger,Arnold Schwarzenegger,0.988,TRUE
+221,Sean Connery,Sean Connery,1,TRUE
+222,Michael Shannon,Michael Shannon,1,TRUE
+223,Mini Driver,Minnie Driver,0.891,TRUE
+224,Rachel MacAdams,Rachel McAdams,0.967,TRUE
+225,Penelope Cruz,Penelope Cruz,1,TRUE
+226,Clint Eastwood,Clint Eastwood,1,TRUE
+227,Mel Gibson,Mel Gibson,1,TRUE
+228,Brian Cox,Brian Cox,1,TRUE
+229,Alan Arkin,Alan Arkin,1,TRUE
+230,Debora  Winger,Debra Winger,0.963,TRUE
+231,Kristin Scott  Thomas,Kristin Scott Thomas,1,TRUE
+232,John Malcovitch,John Malkovich,0.944,TRUE
+233,Rober DeNiro,Robert De Niro,0.969,TRUE
+234,Anthony Hopkins,Anthony Hopkins,1,TRUE
+235,Christopher Walken,Christopher Walken,1,TRUE
+236,Orlando Bloom,Orlando Bloom,1,TRUE
+237,Sarah Jesica Parker,Sarah Jessica Parker,0.991,TRUE
+238,Johah Hill,Jonah Hill,0.917,TRUE
+239,Christian Slater,Christian Slater,1,TRUE
+240,Emma Watson,Emma Watson,1,TRUE
+241,Miranda Richardson,Miranda Richardson,1,TRUE
+242,Ewan McGreggor,Ewan McGregor,0.995,TRUE
+243,George Clooney,George Clooney,1,TRUE
+244,Liam Neeson,Liam Neeson,1,TRUE
+245,Roger Moore,Roger Moore,1,TRUE
+246,Kirsten Dunst,Kirsten Dunst,1,TRUE
+247,Tommy Lee Jones,Tommy Lee Jones,1,TRUE
+248,Joan Cusack,Joan Cusack,1,TRUE
+249,Paul Rudd,Paul Rudd,1,TRUE
+250,Sidney Poitier,Sidney Poitier,1,TRUE
+251,Alfred Molina,Alfred Molina,1,TRUE
+252,Mat Daimon,Matt Damon,0.953,TRUE
+253,Richard Guere,Richard Gere,0.992,TRUE
+254,Laura Dern,Laura Dern,1,TRUE
+255,Willem Defo,Willem Dafoe,0.981,TRUE
+256,Ben Aflec,Ben Affleck,0.972,TRUE
+257,Jon Hamm,Jon Hamm,1,TRUE
+258,Mary Steinburgen,Mary Steenburgen,0.946,TRUE
+259,Jude Law,Jude Law,1,TRUE
+260,Mira Sorvino,Mira Sorvino,1,TRUE
+261,Andy Garcia,Andy Garcia,1,TRUE
+262,Steve Corell,Steve Carell,0.977,TRUE
+263,Kevin Bacon,Kevin Bacon,1,TRUE
+264,Daniel Day-Lewis,Daniel Day-Lewis,1,TRUE
+265,Isabella Rossillini,Isabella Rossellini,0.977,TRUE
+266,Hugh  Jackman,Hugh Jackman,1,TRUE
+267,John Hawkes,John Hawkes,1,TRUE
+268,Mickey Rhourke,Mickey Rourke,0.99,TRUE
+269,Tracy Ullman,Tracey Ullman,0.982,TRUE
+270,Martin  Lawrence,Martin Lawrence,1,TRUE
+271,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+272,Johny Depp,Johnny Depp,0.981,TRUE
+273,Tom Cruise,Tom Cruise,1,TRUE
+274,Al Paccino,Al Pacino,0.987,TRUE
+275,Timothy Dalton,Timothy Dalton,1,TRUE
+276,Candice Burgen,Candice Bergen,0.974,TRUE
+277,Jamie Bell,Jamie Bell,1,TRUE
+278,Chris Cooper,Chris Cooper,1,TRUE
+279,Michelle Phiffer,Michelle Pfeiffer,0.957,TRUE
+280,Jeff Bridges,Jeff Bridges,1,TRUE
+281,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+282,Amanda Peet,Amanda Peet,1,TRUE
+283,John Turtoro,John Turturro,0.966,TRUE
+284,Julia Roberts,Julia Roberts,1,TRUE
+285,Chevy Chase,Chevy Chase,1,TRUE
+286,Oliver Platt,Oliver Platt,1,TRUE
+287,Joe Pesci,Joe Pesci,1,TRUE
+288,Billy Crystal,Billy Crystal,1,TRUE
+289,Macaully  Caulken,Macaulay Culkin,0.932,TRUE
+290,Benecio Del Torro,Benicio Del Toro,0.914,TRUE
+291,Tea Lenoi,Tea Leoni,0.985,TRUE
+292,Francis Mcdormand,Frances McDormand,0.898,TRUE
+293,Blair Underwood,Blair Underwood,1,TRUE
+294,Mark Whalburg,Mark Wahlberg,0.957,TRUE
+295,June Page,Ellen Page,0.778,FALSE
+296,Uma Thurmon,Uma Thurman,0.989,TRUE
+297,Meryl Streep,Meryl Streep,1,TRUE
+298,,Joseph Gordon-Levitt,0,FALSE
+299,Paul Dano,Paul Dano,1,TRUE
+300,Elen Barken,Ellen Barkin,0.928,TRUE
+301,William Hurt,William Hurt,1,TRUE
+302,Bill Murray,Bill Murray,1,TRUE
+303,David Hasselhoff,David Hasselhoff,1,TRUE
+304,Gary Oldman,Gary Oldman,1,TRUE
+305,Mathew  Broderick,Matthew Broderick,0.968,TRUE
+306,Christoph  Waltz,Christoph Waltz,1,TRUE
+307,Marisa Tomei,Marisa Tomei,1,TRUE
+308,Helen hunt,Helen Hunt,1,TRUE
+309,Eva Mendez,Eva Mendes,0.993,TRUE
+310,Kevin Stacey,Kevin Spacey,0.977,TRUE
+311,Chris rock,Chris Rock,1,TRUE
+312,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+313,Jennifer Sutherland,Kiefer Sutherland,0.907,TRUE
+314,Silvestre Stallone,Sylvester Stallone,0.947,TRUE
+315,Lib Tyler,Liv Tyler,0.941,TRUE
+316,Greg kinder,Greg Kinnear,0.916,TRUE
+317,Toby McGuire,Tobey Maguire,0.898,TRUE
+318,Kenneth brandish,Kenneth Branagh,0.925,TRUE
+319,Val Kilmer,Val Kilmer,1,TRUE
+320,Ethan Hawke,Ethan Hawke,1,TRUE
+321,Ellen degeneres,Ellen Degeneres,1,TRUE
+322,Jessica Chastaine,Jessica Chastain,0.999,TRUE
+323,Jamie Foxx,Jamie Foxx,1,TRUE
+324,David Schwimmer,David Schwimmer,1,TRUE
+325,Dustin Hoffman,Dustin Hoffman,1,TRUE
+326,Tom Wilkenson,Tom Wilkinson,0.98,TRUE
+327,Michael Keaton,Michael Keaton,1,TRUE
+328,Andie McDowell,Andie MacDowell,0.988,TRUE
+329,Tom Hanks,Tom Hanks,1,TRUE
+330,Leonardo DiCapprio,Leonardo DiCaprio,0.996,TRUE
+331,Malcolm McDowel,Malcolm McDowell,0.999,TRUE
+332,Elijah Wood,Elijah Wood,1,TRUE
+333,Steve Buschemi,Steve Buscemi,0.993,TRUE
+334,Drew Barrymore,Drew Barrymore,1,TRUE
+335,Brook Shields,Brooke Shields,0.952,TRUE
+336,Hope Davis,Hope Davis,1,TRUE
+337,Anthony Hopkins,Anthony Hopkins,1,TRUE
+338,Jeffery Rush,Geoffrey Rush,0.891,TRUE
+339,Benecio Del Toro,Benicio Del Toro,0.93,TRUE
+340,Kristin Dunst,Kirsten Dunst,0.927,TRUE
+341,Zack Gallafanikis,Zach Galifianakis,0.881,TRUE
+342,Naomi Watts,Naomi Watts,1,TRUE
+343,Paul Rudd,Paul Rudd,1,TRUE
+344,Eddie Murphy,Eddie Murphy,1,TRUE
+345,Elliot Gould,Elliott Gould,0.986,TRUE
+346,Sean Connery,Sean Connery,1,TRUE
+347,Julianne Moore,Julianne Moore,1,TRUE
+348,Scarlett Johnason,Scarlett Johansson,0.987,TRUE
+349,Kelly MacDonald,Kelly MacDonald,1,TRUE
+350,George Clooney,George Clooney,1,TRUE
+351,Julia Roberts,Julia Roberts,1,TRUE
+352,JImmy Smitts,Jimmy Smits,0.921,TRUE
+353,Reese Witherspoon,Reese Witherspoon,1,TRUE
+354,Anne Hathaway,Anne Hathaway,1,TRUE
+355,Robert Redford,Robert Redford,1,TRUE
+356,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+357,Darryl Hannah,Daryl Hannah,0.98,TRUE
+358,Toni Collette,Toni Collette,1,TRUE
+359,Roger Moore,Roger Moore,1,TRUE
+360,Michael Fasbender,Michael Fassbender,0.993,TRUE
+361,James Macavoy,James McAvoy,0.964,TRUE
+362,Michael Douglas,Michael Douglas,1,TRUE
+363,Ben Kingsley,Ben Kingsley,1,TRUE
+364,Don Cheetle,Don Cheadle,0.942,TRUE
+365,Michelle Phiffer,Michelle Pfeiffer,0.957,TRUE
+366,Nathan Lane,Nathan Lane,1,TRUE
+367,John Voit,Jon Voight,0.917,TRUE
+368,Blair Underwood,Blair Underwood,1,TRUE
+369,Will Smith,Will Smith,1,TRUE
+370,Tom Hardy,Tom Hardy,1,TRUE
+371,Sandra Bulloch,Sandra Bullock,0.997,TRUE
+372,George Leguzamo,John Leguizamo,0.727,FALSE
+373,Martin Sheen,Martin Sheen,1,TRUE
+374,Bill Murry,Bill Murray,0.994,TRUE
+375,Candice Bergan,Candice Bergen,0.993,TRUE
+376,Sam Worthington,Sam Worthington,1,TRUE
+377,Glenn Close,Glenn Close,1,TRUE
+378,Peter Otoole,Peter O'toole,0.988,TRUE
+379,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+380,Christian  Bale,Christian Bale,1,TRUE
+381,Orlando Bloome,Orlando Bloom,0.998,TRUE
+382,Danny GLover,Danny Glover,1,TRUE
+383,Marissa Tomei,Marisa Tomei,0.984,TRUE
+384,Cate Blanchette,Cate Blanchett,0.999,TRUE
+385,Clint Eastwood,Clint Eastwood,1,TRUE
+386,Minnie Driver,Minnie Driver,1,TRUE
+387,Sally FIelds,Sally Fields,1,TRUE
+388,Uma Thurmon,Uma Thurman,0.989,TRUE
+389,Arnold Schwatzengger,Arnold Schwarzenegger,0.957,TRUE
+390,Beau Bridges,Beau Bridges,1,TRUE
+391,Nicholas Cage,Nicholas Cage,1,TRUE
+392,Gary Sinese,Gary Sinise,0.974,TRUE
+393,Al Pacino,Al Pacino,1,TRUE
+394,Dennis Hopper,Dennis Hopper,1,TRUE
+395,Ellen Barkin,Ellen Barkin,1,TRUE
+396,William  Hurt,William Hurt,1,TRUE
+397,Bart Giamatti,Paul Giamatti,0.846,FALSE
+398,June Page,Ellen Page,0.778,FALSE
+399,Sean Penn,Sean Penn,1,TRUE
+400,Gerry Lewis,Jerry Lewis,0.939,TRUE
+401,Maggie Gyllenhall,Maggie Gyllenhaal,0.995,TRUE
+402,Seth Rogen,Seth Rogen,1,TRUE
+403,Owen Wilson,Owen Wilson,1,TRUE
+404,Alan Rickman,Alan Rickman,1,TRUE
+405,Ryan Gossling,Ryan Gosling,0.99,TRUE
+406,Debora Winger,Debra Winger,0.98,TRUE
+407,Jason Bateman,Jason Bateman,1,TRUE
+408,Bruce Willis,Bruce Willis,1,TRUE
+409,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+410,Tom Cruize,Tom Cruise,0.987,TRUE
+411,Ellen Page,Ellen Page,1,TRUE
+412,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+413,Ewan MacGreggor,Ewan McGregor,0.973,TRUE
+414,Jeff Goldblum,Jeff Goldblum,1,TRUE
+415,Jennifer Connely,Jennifer Connelly,0.998,TRUE
+416,Meg Ryan,Meg Ryan,1,TRUE
+417,Malcolm MacDowel,Malcolm McDowell,0.982,TRUE
+418,Christian Slater,Christian Slater,1,TRUE
+419,Holly Hunter,Holly Hunter,1,TRUE
+420,Andy MacDowell,Andie MacDowell,0.945,TRUE
+421,Rachel MacAdams,Rachel McAdams,0.967,TRUE
+422,George Lopez,George Lopez,1,TRUE
+423,Jake Gylenhaal,Jake Gyllenhaal,0.967,TRUE
+424,Kate Winslet,Kate Winslet,1,TRUE
+425,Willem Defoe,Willem Dafoe,0.971,TRUE
+426,Ben Alfleck,Ben Affleck,0.949,TRUE
+427,Alan Alda,Alan Alda,1,TRUE
+428,Tom Arnold,Tom Arnold,1,TRUE
+429,Bill Cosby,Bill Cosby,1,TRUE
+430,Edward Nortan,Edward Norton,0.992,TRUE
+431,Julia Roberts,Julia Roberts,1,TRUE
+432,Tilda Swinton,Tilda Swinton,1,TRUE
+433,Keano Reeves,Keanu Reeves,0.963,TRUE
+434,Tony Colette,Toni Collette,0.939,TRUE
+435,Halie Barry,Halle Berry,0.912,TRUE
+436,Candice Bergen,Candice Bergen,1,TRUE
+437,Charlie Sheen,Charlie Sheen,1,TRUE
+438,Guy Peirce,Guy Pearce,0.973,TRUE
+439,Blair Underwood,Blair Underwood,1,TRUE
+440,Mira Sorvino,Mira Sorvino,1,TRUE
+441,Chevy Chase,Chevy Chase,1,TRUE
+442,Jodi Foster,Jodie Foster,0.921,TRUE
+443,Elijah Wood,Elijah Wood,1,TRUE
+444,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+445,Christian Bale,Christian Bale,1,TRUE
+446,Mike Myers,Mike Myers,1,TRUE
+447,Vigo Mortenson,Viggo Mortensen,0.945,TRUE
+448,Signorny Weaver,Sigourney Weaver,0.851,TRUE
+449,Danny Glover,Danny Glover,1,TRUE
+450,Cameron Diaz,Cameron Diaz,1,TRUE
+451,Jeremy Renner,Jeremy Renner,1,TRUE
+452,Robin Williams,Robin Williams,1,TRUE
+453,Christopher Plummer,Christopher Plummer,1,TRUE
+454,Joan Cussack,Joan Cusack,0.991,TRUE
+455,Stanley Tucci,Stanley Tucci,1,TRUE
+456,Catherine Zeta-Jones,Catherine Zeta-Jones,1,TRUE
+457,Jim Carrey,Jim Carrey,1,TRUE
+458,Anne Hathaway,Anne Hathaway,1,TRUE
+459,Jeff Daniels,Jeff Daniels,1,TRUE
+460,Rober De Niro,Robert De Niro,0.985,TRUE
+461,Alfred Molina,Alfred Molina,1,TRUE
+462,Sarah Jessica Parker,Sarah Jessica Parker,1,TRUE
+463,Helena Bonham-Carter,Helena Bonham Carter,0.988,TRUE
+464,Selma Hyeck,Salma Hayek,0.856,TRUE
+465,Jeff Bridges,Jeff Bridges,1,TRUE
+466,Anna Pacquin,Anna Paquin,0.988,TRUE
+467,Kurt Russel,Kurt Russell,0.998,TRUE
+468,Paul Rudd,Paul Rudd,1,TRUE
+469,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+470,Greg Kinner,Greg Kinnear,0.995,TRUE
+471,Miranda Richardson,Miranda Richardson,1,TRUE
+472,Jamie Foxx,Jamie Foxx,1,TRUE
+473,Colin Firth,Colin Firth,1,TRUE
+474,Andy Garcia,Andy Garcia,1,TRUE
+475,Ethan Hawke,Ethan Hawke,1,TRUE
+476,Patricia Arquette,Patricia Arquette,1,TRUE
+477,Nicole Kidman,Nicole Kidman,1,TRUE
+478,Tom Hardey,Tom Hardy,0.993,TRUE
+479,Bill Pullman,Bill Pullman,1,TRUE
+480,Demi Moore,Demi Moore,1,TRUE
+481,Bradley Cooper,Bradley Cooper,1,TRUE
+482,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+483,Alec Baldwin,Alec Baldwin,1,TRUE
+484,Billy Crystal,Billy Crystal,1,TRUE
+485,Martin Lawrence,Martin Lawrence,1,TRUE
+486,Sean Connery,Sean Connery,1,TRUE
+487,Emma Stone,Emma Stone,1,TRUE
+488,Scarlet Johanson,Scarlett Johansson,0.977,TRUE
+489,Francis MacDormand,Frances McDormand,0.914,TRUE
+490,Paul Giamati,Paul Giamatti,0.996,TRUE
+491,Tim Robbins,Tim Robbins,1,TRUE
+492,Keiver Sutherland,Kiefer Sutherland,0.943,TRUE
+493,Michal Keaton,Michael Keaton,0.952,TRUE
+494,Gabriel Byrne,Gabriel Byrne,1,TRUE
+495,Burt Reynolds,Burt Reynolds,1,TRUE
+497,Donald Sutherland,Donald Sutherland,1,TRUE
+498,Dustin Hoffman,Dustin Hoffman,1,TRUE
+499,Brendan Frasier,Brendan Fraser,0.996,TRUE
+500,Will Smith,Will Smith,1,TRUE
+501,Ryan Gossling,Ryan Gosling,0.99,TRUE
+502,Sam Shepard,Sam Shepard,1,TRUE
+503,Peter Cayote,Peter Coyote,0.964,TRUE
+504,Bridgette Fonda,Bridget Fonda,0.976,TRUE
+505,Tea Leoni,Tea Leoni,1,TRUE
+506,Dennis Leary,Denis Leary,0.979,TRUE
+507,Brian Cox,Brian Cox,1,TRUE
+496,Jennifer Lawrence,Jennifer Lopez,0.922,FALSE
+508,Helen Bonham-Carter,Helena Bonham Carter,0.906,TRUE
+509,Gary Oldman,Gary Oldman,1,TRUE
+510,Hope Davis,Hope Davis,1,TRUE
+511,Jennifer Jason Leigh,Jennifer Jason Leigh,1,TRUE
+512,Jeff Daniels,Jeff Daniels,1,TRUE
+513,Jody Foster,Jodie Foster,0.861,TRUE
+514,Ryan Gosling,Ryan Gosling,1,TRUE
+515,Martin Lawrence,Martin Lawrence,1,TRUE
+516,James Woods,James Woods,1,TRUE
+517,Michelle Phfiffer,Michelle Pfeiffer,0.975,TRUE
+518,Jim Belushi,Jim Belushi,1,TRUE
+519,Jamie Foxx,Jamie Foxx,1,TRUE
+520,Kevin James,Kevin James,1,TRUE
+521,Halley Bary,Halle Berry,0.934,TRUE
+522,John Hawkes,John Hawkes,1,TRUE
+523,John Malcovich,John Malkovich,0.958,TRUE
+524,Kevin Cosner,Kevin Costner,0.992,TRUE
+525,Jeffrey Wright,Jeffrey Wright,1,TRUE
+526,Alec Baldwin,Alec Baldwin,1,TRUE
+527,Marissa Tomei,Marisa Tomei,0.984,TRUE
+528,Helen Mirren,Helen Mirren,1,TRUE
+529,Harrison Ford,Harrison Ford,1,TRUE
+530,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+531,,Winona Ryder,0,FALSE
+532,John C. Reilly,John C. Reilly,1,TRUE
+533,Laura Dern,Laura Dern,1,TRUE
+534,John Torturro,John Turturro,0.957,TRUE
+535,Sam Wilkenson,Sam Worthington,0.818,FALSE
+536,John Cusack,John Cusack,1,TRUE
+537,Anthony Hopkins,Anthony Hopkins,1,TRUE
+538,Francis MacDormand,Frances McDormand,0.914,TRUE
+539,Andy MacDowell,Andie MacDowell,0.945,TRUE
+540,Greg Kineer,Greg Kinnear,0.971,TRUE
+541,Ewan MacGreggor,Ewan McGregor,0.973,TRUE
+542,Lucy Liu,Lucy Liu,1,TRUE
+543,Toby McGuire,Tobey Maguire,0.898,TRUE
+544,John Travolta,John Travolta,1,TRUE
+545,Clint Eastwood,Clint Eastwood,1,TRUE
+546,Mickey Rourke,Mickey Rourke,1,TRUE
+547,Peter O'tolle,Peter O'toole,0.988,TRUE
+548,David Ducovney,David Duchovny,0.983,TRUE
+549,Juakeem Phoenix,Joaquin Phoenix,0.778,FALSE
+550,,Kenneth Branagh,0,FALSE
+551,Bill Cosbey,Bill Cosby,0.994,TRUE
+552,Laura Liney,Laura Linney,0.993,TRUE
+553,Tom Hanks,Tom Hanks,1,TRUE
+554,Alan Arkin,Alan Arkin,1,TRUE
+555,Clive Owen,Clive Owen,1,TRUE
+556,Liv Tyler,Liv Tyler,1,TRUE
+557,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+558,Chris Rock,Chris Rock,1,TRUE
+559,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+560,Daniel Day-Lewis,Daniel Day-Lewis,1,TRUE
+561,John Cooper,Chris Cooper,0.756,FALSE
+562,Danny Glover,Danny Glover,1,TRUE
+563,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+564,Charlize Theron,Charlize Theron,1,TRUE
+565,Michael Keaton,Michael Keaton,1,TRUE
+566,Paul Rudd,Paul Rudd,1,TRUE
+567,Emma Stone,Emma Stone,1,TRUE
+568,Holly Hunter,Holly Hunter,1,TRUE
+569,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+570,Elliot Gould,Elliott Gould,0.986,TRUE
+571,Robin Williams,Robin Williams,1,TRUE
+572,Rob Lowe,Rob Lowe,1,TRUE
+573,Tonni Colette,Toni Collette,0.961,TRUE
+574,Jim Carey,Jim Carrey,0.99,TRUE
+575,Jennifer Aniston,Jennifer Aniston,1,TRUE
+576,Steve Martin,Steve Martin,1,TRUE
+577,Daryl Hannah,Daryl Hannah,1,TRUE
+578,David Schwimer,David Schwimmer,0.996,TRUE
+579,Bruce Willis,Bruce Willis,1,TRUE
+580,Jeff Goldblum,Jeff Goldblum,1,TRUE
+581,Oliver Platt,Oliver Platt,1,TRUE
+582,Christopher Walken,Christopher Walken,1,TRUE
+583,Keaneu Reeves,Keanu Reeves,0.925,TRUE
+584,Colin Farrel,Colin Farrell,0.998,TRUE
+585,David Hasselhoff,David Hasselhoff,1,TRUE
+586,Ed Burns,Ed Burns,1,TRUE
+587,Candice Bergan,Candice Bergen,0.993,TRUE
+588,Jeffrey Rush,Geoffrey Rush,0.921,TRUE
+589,Elen Degeneris,Ellen Degeneres,0.941,TRUE
+590,Joan Cusack,Joan Cusack,1,TRUE
+591,Kyle McGloughlan,Kyle MacLachlan,0.86,TRUE
+592,Robert Duval,Robert Duvall,0.998,TRUE
+593,Jake Gyllenhaal,Jake Gyllenhaal,1,TRUE
+594,Patricia Arquette,Patricia Arquette,1,TRUE
+595,Steven Segal,Steven Seagal,0.984,TRUE
+596,Ben Stiller,Ben Stiller,1,TRUE
+597,Elijah Wood,Elijah Wood,1,TRUE
+598,Jeremy Renner,Jeremy Renner,1,TRUE
+599,Danny Devito,Danny DeVito,1,TRUE
+600,Don Cheatle,Don Cheadle,0.983,TRUE
+601,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+602,Beau Bridges,Beau Bridges,1,TRUE
+603,Amanda Peet,Amanda Peet,1,TRUE
+604,Willem Defoe,Willem Dafoe,0.971,TRUE
+605,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+606,Rickey Jervais,Ricky Gervais,0.928,TRUE
+607,Michael J. Fox,Michael J. Fox,1,TRUE
+608,Brendan Frasier,Brendan Fraser,0.996,TRUE
+609,Tea Lenoi,Tea Leoni,0.985,TRUE
+610,Juaquim Phoenix,Joaquin Phoenix,0.821,FALSE
+611,Michael Fasbender,Michael Fassbender,0.993,TRUE
+612,Sandra Bulloch,Sandra Bullock,0.997,TRUE
+613,Michael Shannon,Michael Shannon,1,TRUE
+614,Patricia Arquette,Patricia Arquette,1,TRUE
+615,Peter Coyote,Peter Coyote,1,TRUE
+616,Rosanna Arquette,Rosanna Arquette,1,TRUE
+617,John Goodman,John Goodman,1,TRUE
+618,Christian Slater,Christian Slater,1,TRUE
+619,Bill Murray,Bill Murray,1,TRUE
+620,Oliver Platt,Oliver Platt,1,TRUE
+621,Michael J. Fox,Michael J. Fox,1,TRUE
+622,Jake Jyllenhaal,Jake Gyllenhaal,0.97,TRUE
+623,Brian Cox,Ian Holm,0.648,FALSE
+624,Amy Adams,Amy Adams,1,TRUE
+625,Christen Scott Thomas,Catherine Zeta-Jones,0.613,FALSE
+626,Arnold Schwartzeneger,Arnold Schwarzenegger,0.988,TRUE
+627,George Clooney,George Clooney,1,TRUE
+628,Ethan Hawke,Ethan Hawke,1,TRUE
+629,Kelly MacGillis,Kelly MacDonald,0.911,TRUE
+630,Uma Thurman,Uma Thurman,1,TRUE
+631,Morgan Freeman,Morgan Freeman,1,TRUE
+632,Rene Russo,Rene Russo,1,TRUE
+633,Val Kilmer,Val Kilmer,1,TRUE
+634,Michael Keaton,Michael Keaton,1,TRUE
+635,John Travolta,John Travolta,1,TRUE
+636,Jonah Hill,Jonah Hill,1,TRUE
+637,Denzel  Washington,Denzel Washington,1,TRUE
+638,Kurt Russel,Kurt Russell,0.998,TRUE
+639,Marissa Tomei,Marisa Tomei,0.984,TRUE
+640,Will Smith,Will Smith,1,TRUE
+641,Keyano Reeves,Keanu Reeves,0.933,TRUE
+642,Tobey McGuire,Tobey Maguire,0.953,TRUE
+643,Liv Tyler,Liv Tyler,1,TRUE
+644,Alan Alda,Alan Alda,1,TRUE
+645,Nicholas Cage,Nicholas Cage,1,TRUE
+646,Billy Crystal,Billy Crystal,1,TRUE
+647,Steve Correll,Steve Carell,0.964,TRUE
+648,Gene Hackman,Gene Hackman,1,TRUE
+649,Donald Sutherland,Donald Sutherland,1,TRUE
+650,Ewan MacGreggor,Ewan McGregor,0.973,TRUE
+651,Kevin James,Kevin James,1,TRUE
+652,Naomi Watts,Naomi Watts,1,TRUE
+653,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+654,Candice Bergen,Candice Bergen,1,TRUE
+655,John Hawkes,John Hawkes,1,TRUE
+656,Edward Norton,Edward Norton,1,TRUE
+657,Guy Pierce,Guy Pearce,0.967,TRUE
+658,David Ducovny,David Duchovny,0.991,TRUE
+659,Sean Connery,Sean Connery,1,TRUE
+660,Ben stiller,Ben Stiller,1,TRUE
+661,debra winger,Debra Winger,1,TRUE
+662,ellen degeneres,Ellen Degeneres,1,TRUE
+663,paul rudd,Paul Rudd,1,TRUE
+664,alec baldwin,Alec Baldwin,1,TRUE
+665,kirstin dunst,Kirsten Dunst,0.846,FALSE
+666,Miranda Richardson,Miranda Richardson,1,TRUE
+667,Jill Clayburg,Jill Clayburgh,0.998,TRUE
+668,Geoffrey Shine,Geoffrey Rush,0.939,TRUE
+669,Kevin Bacon,Kevin Bacon,1,TRUE
+670,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+671,Jeff Daniels,Jeff Daniels,1,TRUE
+672,Andy McDowell,Andie MacDowell,0.859,TRUE
+673,Orlando Bloome,Orlando Bloom,0.998,TRUE
+674,Ellen Page,Ellen Page,1,TRUE
+675,Paul Newman,Paul Newman,1,TRUE
+676,Scarlete Johanson,Scarlett Johansson,0.965,TRUE
+677,Demi Moore,Demi Moore,1,TRUE
+678,Willem Defoe,Willem Dafoe,0.971,TRUE
+679,Burt Reynolds,Burt Reynolds,1,TRUE
+680,Mira Survino,Mira Sorvino,0.942,TRUE
+681,Jon Voight,Jon Voight,1,TRUE
+682,Barbara Hershey,Barbara Hershey,1,TRUE
+683,Timmothy Dalton,Timothy Dalton,0.982,TRUE
+684,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+685,Kevin Costner,Kevin Costner,1,TRUE
+686,Ryan GOsling,Ryan Gosling,1,TRUE
+687,Toni Collette,Toni Collette,1,TRUE
+688,Paul Giamatti,Paul Giamatti,1,TRUE
+689,Matt Daimon,Matt Damon,0.989,TRUE
+690,Mark Ruffolo,Mark Ruffalo,0.979,TRUE
+691,Emma Thompson,Emma Thompson,1,TRUE
+692,Sam Worthington,Sam Worthington,1,TRUE
+693,Martin Lawrence,Martin Lawrence,1,TRUE
+694,Elijah Wood,Elijah Wood,1,TRUE
+695,Meg Ryan,Meg Ryan,1,TRUE
+696,Dustin Hoffman,Dustin Hoffman,1,TRUE
+697,Emma Stone,Emma Stone,1,TRUE
+698,Judy Dench,Judi Dench,0.953,TRUE
+699,Javier Bardem,Javier Bardem,1,TRUE
+700,Angelina Jolli,Angelina Jolie,0.993,TRUE
+701,Emely Blunt,Emily Blunt,0.95,TRUE
+702,Jack Black,Jack Black,1,TRUE
+703,Brook Shields,Brooke Shields,0.952,TRUE
+704,Brad PItt,Brad Pitt,1,TRUE
+705,Clive Owen,Clive Owen,1,TRUE
+706,Laura Linney,Laura Linney,1,TRUE
+707,Don Chadle,Don Cheadle,0.956,TRUE
+708,Sean Penn,Sean Penn,1,TRUE
+709,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+710,Anna Paquin,Anna Paquin,1,TRUE
+711,Lisa Liu,Lucy Liu,0.775,FALSE
+712,Mira Sorvion,Mira Sorvino,0.995,TRUE
+713,Kevin James,Kevin James,1,TRUE
+714,Robin Williams,Robin Williams,1,TRUE
+715,Naomi Watts,Naomi Watts,1,TRUE
+716,Jesica Castain,Jessica Chastain,0.908,TRUE
+717,Keifer Sutherland,Kiefer Sutherland,0.982,TRUE
+718,,Kenneth Branagh,0,FALSE
+719,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+720,Michael Fassbender,Michael Fassbender,1,TRUE
+721,George Lopez,George Lopez,1,TRUE
+722,Selma Hayek,Salma Hayek,0.854,TRUE
+723,Keven Bacon,Kevin Bacon,0.956,TRUE
+724,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+725,Kiera Knightly,Keira Knightley,0.957,TRUE
+726,Emily Blunt,Emily Blunt,1,TRUE
+727,Anthony Quinn,Anthony Quinn,1,TRUE
+728,Debora Winger,Debra Winger,0.98,TRUE
+729,David Spade,David Spade,1,TRUE
+730,James Mcavoy,James McAvoy,1,TRUE
+731,Matthew Borderick,Matthew Broderick,0.991,TRUE
+732,Tracy Ullman,Tracey Ullman,0.982,TRUE
+733,Jennifer Lopez,Jennifer Lopez,1,TRUE
+734,Colin Firth,Colin Firth,1,TRUE
+735,Michael Shannon,Michael Shannon,1,TRUE
+736,Peter Coyote,Peter Coyote,1,TRUE
+737,Kelly MacDonald,Kelly MacDonald,1,TRUE
+738,Blythe Danner,Blythe Danner,1,TRUE
+739,David Hasselhoff,David Hasselhoff,1,TRUE
+740,Liv Tyler,Liv Tyler,1,TRUE
+741,Roger Moore,Roger Moore,1,TRUE
+742,Cathy Bates,Kathy Bates,0.939,TRUE
+743,Andie MacDowell,Andie MacDowell,1,TRUE
+744,Kevin Spacey,Kevin Spacey,1,TRUE
+745,Antonio Banderas,Antonio Banderas,1,TRUE
+746,Francis Mcdormand,Frances McDormand,0.898,TRUE
+747,Tim Robbins,Tim Robbins,1,TRUE
+748,Val Kilmer,Val Kilmer,1,TRUE
+749,Billy Crystal,Billy Crystal,1,TRUE
+750,Pierce Brosnan,Pierce Brosnan,1,TRUE
+751,Denzel Washington,Denzel Washington,1,TRUE
+752,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+753,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+754,Ed Burns,Ed Burns,1,TRUE
+755,Michelle Phiffer,Michelle Pfeiffer,0.957,TRUE
+756,Don Cheatle,Don Cheadle,0.983,TRUE
+757,Scarlette Johanson,Scarlett Johansson,0.979,TRUE
+758,Richard Guerre,Richard Gere,0.983,TRUE
+759,Adrien Brody,Adrien Brody,1,TRUE
+760,Reese WItherspoon,Renee Zellweger,0.626,FALSE
+761,Jeff Daniels,Jeff Daniels,1,TRUE
+762,Toby Mcguire,Tobey Maguire,0.939,TRUE
+763,Orlando Bloome,Orlando Bloom,0.998,TRUE
+764,Liv Schriber,Liev Schreiber,0.935,TRUE
+765,Mike Myers,Mike Myers,1,TRUE
+766,Jeff Bridges,Jeff Bridges,1,TRUE
+767,Viggo Mortenson,Viggo Mortensen,0.994,TRUE
+768,Tom Cruise,Tom Cruise,1,TRUE
+769,Emma Stone,Emma Stone,1,TRUE
+770,Ellen Degeneris,Ellen Degeneres,0.994,TRUE
+771,Chevy Chase,Chevy Chase,1,TRUE
+772,James Woods,James Woods,1,TRUE
+773,Gene Hackman,Gene Hackman,1,TRUE
+774,Anthony Hopkins,Anthony Hopkins,1,TRUE
+775,John Malcovich,John Malkovich,0.958,TRUE
+776,Colin Farrel,Colin Farrell,0.998,TRUE
+777,Arnold   Schwatzengger,Arnold Schwarzenegger,0.911,TRUE
+778,Natalie Portman,Natalie Portman,1,TRUE
+779,Emma Watson,Emma Watson,1,TRUE
+780,Minnie Driver,Minnie Driver,1,TRUE
+781,Sam Shepard,Sam Shepard,1,TRUE
+782,Jim Carrey,Jim Carrey,1,TRUE
+783,Ryan Gossling,Ryan Gosling,0.99,TRUE
+784,Glenn Close,Glenn Close,1,TRUE
+785,Al Pacino,Al Pacino,1,TRUE
+786,Alan Rickman,Alan Rickman,1,TRUE
+787,Meg Ryan,Meg Ryan,1,TRUE
+788,Michael Keaton,Michael Keaton,1,TRUE
+789,Laura Linney,Laura Linney,1,TRUE
+790,Chris Cooper,Chris Cooper,1,TRUE
+791,Jack Nicholas,Jack Nicholson,0.984,TRUE
+792,John Turtoro,John Turturro,0.966,TRUE
+793,Isabella Rossalini,Isabella Rossellini,0.983,TRUE
+794,Chris Rock,Chris Rock,1,TRUE
+795,Joaquim Phoenix,Joaquin Phoenix,0.93,TRUE
+796,Eddie Murphy,Eddie Murphy,1,TRUE
+797,Mark  Walberg,Mark Wahlberg,0.968,TRUE
+798,John Travlota,John Travolta,0.992,TRUE
+799,Sandra Bullock,Sandra Bullock,1,TRUE
+800,Kirsten Dunst,Kirsten Dunst,1,TRUE
+801,Brian Cox,Ian Holm,0.648,FALSE
+802,Ben Stiller,Ben Stiller,1,TRUE
+803,Nicholas Cage,Nicholas Cage,1,TRUE
+804,Adam Sandler,Adam Sandler,1,TRUE
+805,Bruce Willis,Bruce Willis,1,TRUE
+806,Jackie Chan,Jackie Chan,1,TRUE
+807,Elliott Gould,Elliott Gould,1,TRUE
+808,Orlando Bloom,Orlando Bloom,1,TRUE
+809,Hugh Grant,Hugh Grant,1,TRUE
+810,David Hasselhoff,David Hasselhoff,1,TRUE
+811,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+812,Jamie Bell,Jamie Bell,1,TRUE
+813,Christian Bale,Christian Bale,1,TRUE
+814,Mickey Rourke,Mickey Rourke,1,TRUE
+815,Elliott Gould,Elliott Gould,1,TRUE
+816,Emma Watson,Emma Watson,1,TRUE
+817,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+818,Beau Bridges,Beau Bridges,1,TRUE
+819,Kevin Bacon,Kevin Bacon,1,TRUE
+820,Jude Law,Jude Law,1,TRUE
+821,Mira Survino,Mira Sorvino,0.942,TRUE
+822,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+823,Paul Rudd,Seth Rogen,0.474,FALSE
+824,Sean Penn,Sean Penn,1,TRUE
+825,Juliette Binouche,Juliette Binoche,0.995,TRUE
+826,David Ducovny,David Duchovny,0.991,TRUE
+827,Kim Bassinger,Kim Basinger,0.988,TRUE
+828,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+829,Edward Norton,Edward Norton,1,TRUE
+830,Holly Hunter,Holly Hunter,1,TRUE
+831,David Schwimmer,David Schwimmer,1,TRUE
+832,Daniel Day Lewis,Daniel Day-Lewis,0.984,TRUE
+833,David Spade,David Spade,1,TRUE
+834,Amy Adams,Amy Adams,1,TRUE
+835,Vigo Morgenstern,Viggo Mortensen,0.893,TRUE
+836,Martin Lawrence,Martin Lawrence,1,TRUE
+838,Paul Giancarlo,Paul Giamatti,0.905,TRUE
+839,Ann Hathaway,Anne Hathaway,0.98,TRUE
+841,Gary sinease,Gary Sinise,0.894,TRUE
+842,Joan cusack,Joan Cusack,1,TRUE
+844,Rob Schneider,Rob Schneider,1,TRUE
+845,James woods,James Woods,1,TRUE
+847,Zack galifinakis,Zach Galifianakis,0.898,TRUE
+848,Ben kingsley,Ben Kingsley,1,TRUE
+851,Mark wahlberg,Mark Wahlberg,1,TRUE
+852,Liam neeson,Liam Neeson,1,TRUE
+854,Kurt Russell,Kurt Russell,1,TRUE
+855,Joe pesce,Joe Pesci,0.911,TRUE
+857,Greg kinear,Greg Kinnear,0.95,TRUE
+859,Robert de niro,Robert De Niro,1,TRUE
+860,Goldie Hawn,Goldie Hawn,1,TRUE
+862,Mike Myers,Mike Myers,1,TRUE
+863,Tea leoni,Tea Leoni,1,TRUE
+865,Ewan McGregor,Ewan McGregor,1,TRUE
+866,Andy Gracia,Andy Garcia,0.986,TRUE
+870,Eddie Murphy,Eddie Murphy,1,TRUE
+871,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+873,Josh brolin,Josh Brolin,1,TRUE
+874,Tracy ullman,Tracey Ullman,0.945,TRUE
+877,Anthony Quinn,Anthony Quinn,1,TRUE
+878,Michael J. Fox,Michael J. Fox,1,TRUE
+880,Richard Guere,Richard Gere,0.992,TRUE
+881,Morgan Freeman,Morgan Freeman,1,TRUE
+883,Amanda Peet,Amanda Peet,1,TRUE
+884,Hugh Jackman,Hugh Jackman,1,TRUE
+886,Jennifer Jason-Lee,Jennifer Jason Leigh,0.969,TRUE
+887,Blythe Danner,Blythe Danner,1,TRUE
+889,Elijah Wood,Elijah Wood,1,TRUE
+890,Nicole Kiddman,Nicole Kidman,0.993,TRUE
+892,Anna Paquin,Anna Paquin,1,TRUE
+893,Peirce Brosnan,Pierce Brosnan,0.978,TRUE
+895,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+896,Jake Jyllenhaal,Jake Gyllenhaal,0.97,TRUE
+898,Steven Segal,Steven Seagal,0.984,TRUE
+899,Mark Ruffalo,Mark Ruffalo,1,TRUE
+901,Ellen Degeneris,Ellen Degeneres,0.994,TRUE
+902,Marisa Tomei,Marisa Tomei,1,TRUE
+904,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+905,Dennis Hopper,Dennis Hopper,1,TRUE
+907,Jon Ham,Jon Hamm,0.988,TRUE
+908,Jesica Chastain,Jessica Chastain,0.911,TRUE
+909,Joaquim Pheonix,Joaquin Phoenix,0.945,TRUE
+911,Sissy Spacek,Sissy Spacek,1,TRUE
+912,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+913,Jason Gordon Levitt,Jon Hamm,0.496,FALSE
+914,,Scarlett Johansson,0,FALSE
+915,John Travolta,John Travolta,1,TRUE
+917,All pacino,Al Pacino,0.917,TRUE
+918,Will Smith,Will Smith,1,TRUE
+920,Malcolm McDowell,Malcolm McDowell,1,TRUE
+921,James macevoy,James McAvoy,0.929,TRUE
+924,Hugh Grant,Hugh Grant,1,TRUE
+925,Greg kaneer,Greg Kinnear,0.894,TRUE
+837,Alfred Molina,Alfred Molina,1,TRUE
+840,Winona Ryder,Winona Ryder,1,TRUE
+843,Mel Gibson,Mel Gibson,1,TRUE
+846,Woody Allen,Woody Allen,1,TRUE
+849,Julianne Moore,Julianne Moore,1,TRUE
+850,Liev Schreiber,Liev Schreiber,1,TRUE
+853,Bruce Willis,Bruce Willis,1,TRUE
+856,Dustin Hoffman,Dustin Hoffman,1,TRUE
+858,John malcovich,John Malkovich,0.903,TRUE
+861,Michael Douglas,Michael Douglas,1,TRUE
+864,Geoffrey rush,Geoffrey Rush,1,TRUE
+867,Reese Witherspoon,Reese Witherspoon,1,TRUE
+868,Keifer Sutherland,Kiefer Sutherland,0.982,TRUE
+869,Jack Nicholson,Jack Nicholson,1,TRUE
+872,Barbara Hershey,Barbara Hershey,1,TRUE
+875,Jennifer Aniston,Jennifer Aniston,1,TRUE
+876,,Joseph Gordon-Levitt,0,FALSE
+879,Mary Louise-Parker,Mary-Louise Parker,0.986,TRUE
+882,Penolope Cruise,Penelope Cruz,0.864,TRUE
+885,James Gandolfini,James Gandolfini,1,TRUE
+888,Bill Pullman,Bill Pullman,1,TRUE
+891,Hope Davis,Hope Davis,1,TRUE
+894,Jeremy Renner,Jeremy Renner,1,TRUE
+897,Meryl Streep,Meryl Streep,1,TRUE
+900,Blair Underwood,Blair Underwood,1,TRUE
+903,Peter O'toole,Peter O'toole,1,TRUE
+906,Kyle Mcglachlan,Kyle MacLachlan,0.931,TRUE
+910,Brian  Cox,Brian Cox,1,TRUE
+916,Chris rock,Chris Rock,1,TRUE
+919,Lucy Liu,Lucy Liu,1,TRUE
+922,Chris Cooper,Chris Cooper,1,TRUE
+923,Elijah wood,Elijah Wood,1,TRUE
+926,Guy pierce,Guy Pearce,0.92,TRUE
+927,Jody foster,Jodie Foster,0.836,FALSE
+928,Juliette binoche,Juliette Binoche,1,TRUE
+929,Scarlet Johanson,Elliott Gould,0.499,FALSE
+930,John Turtoro,John Turturro,0.966,TRUE
+931,Don Cheadle,Don Cheadle,1,TRUE
+932,Mark Ruffolo,Mark Ruffalo,0.979,TRUE
+933,Tom Arnold,Tom Arnold,1,TRUE
+934,Alec Baldwin,Alec Baldwin,1,TRUE
+935,Orlando Bloom,Orlando Bloom,1,TRUE
+936,Ed Harris,Ed Harris,1,TRUE
+937,Denzel   Washington,Denzel Washington,1,TRUE
+938,Brendan Frasier,Brendan Fraser,0.996,TRUE
+939,Patricia Arquette,Patricia Arquette,1,TRUE
+940,Steve Buscemi,Steve Buscemi,1,TRUE
+941,Kurt Russel,Kurt Russell,0.998,TRUE
+942,Steve Correl,Steve Carell,0.954,TRUE
+943,Benicio Del Torro,Benicio Del Toro,0.998,TRUE
+944,Jennifer Aniston,Jennifer Aniston,1,TRUE
+945,Tom Hanks,Tom Hanks,1,TRUE
+946,Rob Schnider,Rob Schneider,0.979,TRUE
+947,Vince Vaugn,Vince Vaughn,0.995,TRUE
+948,Kevin Bacon,Kevin Bacon,1,TRUE
+949,Helen Hunt,Helen Hunt,1,TRUE
+950,Naomi Watts,Naomi Watts,1,TRUE
+951,Tracy Ullman,Tracey Ullman,0.982,TRUE
+952,Jack Black,Jack Black,1,TRUE
+953,John Hawkes,John Hawkes,1,TRUE
+954,Liam Neeson,Liam Neeson,1,TRUE
+955,Helena Bonham Carter,Helena Bonham Carter,1,TRUE
+956,John Goodman,John Goodman,1,TRUE
+957,Dan Ackaroid,Dan Aykroyd,0.916,TRUE
+958,Tim Robbins,Tim Robbins,1,TRUE
+959,Amy Adams,Amy Adams,1,TRUE
+960,Reese Witherspoon,Reese Witherspoon,1,TRUE
+961,John C. Rielly,John C. Reilly,0.991,TRUE
+962,Seth Rogan,Seth Rogen,0.987,TRUE
+963,David Spade,David Spade,1,TRUE
+964,Blythe Danner,Blythe Danner,1,TRUE
+965,Chevy Chase,Chevy Chase,1,TRUE
+966,Kate Hudson,Kate Hudson,1,TRUE
+967,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+968,Peter O'toole,Peter O'toole,1,TRUE
+969,Jamie FOxx,Jamie Foxx,1,TRUE
+970,Emma Thompson,Emma Thompson,1,TRUE
+973,Rosanna Arquette,Rosanna Arquette,1,TRUE
+976,Catherine  Zeta-Jones,Catherine Zeta-Jones,1,TRUE
+979,Ryan Gosling,Ryan Gosling,1,TRUE
+982,Rosie Perez,Rosie Perez,1,TRUE
+985,Charlie Sheen,Charlie Sheen,1,TRUE
+988,Marion Cotilard,Marion Cotillard,0.995,TRUE
+991,Dennis Leary,Denis Leary,0.979,TRUE
+994,Colin Farrel,Colin Farrell,0.998,TRUE
+997,Renee Russo,Rene Russo,0.981,TRUE
+1000,Morgan Freeman,Morgan Freeman,1,TRUE
+1003,Sigourney Weaver,Sigourney Weaver,1,TRUE
+1006,Kathleen Turner,Kathleen Turner,1,TRUE
+1011,Philip seymour hoffman,Philip Seymour Hoffman,1,TRUE
+1014,Bradley Cooper ,Bradley Cooper,1,TRUE
+1018,Winona ryder,Winona Ryder,1,TRUE
+1021,Michele pfiffer,Michelle Pfeiffer,0.932,TRUE
+971,Emma Stone,Emma Stone,1,TRUE
+974,George Clooney,George Clooney,1,TRUE
+977,Kevin Spacey,Kevin Spacey,1,TRUE
+980,Kristen  Scott-Thomas,Kristin Scott Thomas,0.936,TRUE
+983,Goldie Hawn,Goldie Hawn,1,TRUE
+986,Winona Ryder,Winona Ryder,1,TRUE
+989,Meg Ryan,Meg Ryan,1,TRUE
+992,Roger Moore,Roger Moore,1,TRUE
+995,Will Farrell,Will Ferrell,0.957,TRUE
+998,Joseph Gordon Levitt,Joseph Gordon-Levitt,0.988,TRUE
+1001,Cate Blanchet,Cate Blanchett,0.998,TRUE
+1004,Sally Fields,Sally Fields,1,TRUE
+1007,Josh Brolin,Josh Brolin,1,TRUE
+1009,Sylvester Stallone,Sylvester Stallone,1,TRUE
+1012,Demi moore,Demi Moore,1,TRUE
+1015,Kethlene turner,Kathleen Turner,0.821,FALSE
+1016,Kevin spacey,Kevin Spacey,1,TRUE
+1019,Pierce brosnan ,Pierce Brosnan,1,TRUE
+1022,Candice Bergen,Candice Bergen,1,TRUE
+972,Glen Close,Glenn Close,0.981,TRUE
+975,Gabriel Byrne,Gabriel Byrne,1,TRUE
+978,Geoffrey Rush,Geoffrey Rush,1,TRUE
+981,Jeff Bridges,Jeff Bridges,1,TRUE
+984,Laura Dern,Laura Dern,1,TRUE
+987,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+990,Tommy Lee Jones,Tommy Lee Jones,1,TRUE
+993,Beau Bridges,Beau Bridges,1,TRUE
+996,Clive Owen,Clive Owen,1,TRUE
+999,Bradley Cooper,Bradley Cooper,1,TRUE
+1002,Paul Newman,Paul Newman,1,TRUE
+1005,Michael J. Fox,Michael J. Fox,1,TRUE
+1008,Tilda Swinton,Tilda Swinton,1,TRUE
+1010,Christian slater,Christian Slater,1,TRUE
+1013,Adrien brody,Adrien Brody,1,TRUE
+1017,Lucy liu,Lucy Liu,1,TRUE
+1020,Woody allen ,Woody Allen,1,TRUE
+1023,Paul Dano,Paul Dano,1,TRUE
+1024,Martin Lawrence ,Martin Lawrence,1,TRUE
+1025,Martin Sheen,Martin Sheen,1,TRUE
+1026,Elizabeth shue,Elizabeth Perkins,0.929,TRUE
+1027,Jeff goldblum ,Jeff Goldblum,1,TRUE
+1028,John Goodman ,John Goodman,1,TRUE
+1029,Cameron diaz,Cameron Diaz,1,TRUE
+1030,Billy crystal ,Billy Crystal,1,TRUE
+1031,Rickey Gervais,Ricky Gervais,0.946,TRUE
+1032,Francis mcdormand,Frances McDormand,0.867,TRUE
+1033,In Sam worthington ,Sam Worthington,0.842,FALSE
+1034,Robert redford,Robert Redford,1,TRUE
+1035,Anette Benning,Annette Bening,0.937,TRUE
+1036,Kelly Macadams,Kelly MacDonald,0.936,TRUE
+1037,Meryl streep,Meryl Streep,1,TRUE
+1038,Jet bridges,Jeff Bridges,0.88,TRUE
+1039,Will smith,Will Smith,1,TRUE
+1040,Angelina jolie,Angelina Jolie,1,TRUE
+1041,Christian bale,Josh Brolin,0.569,FALSE
+1042,Tim robbins,Tim Robbins,1,TRUE
+1043,Nicholas cage,Nicholas Cage,1,TRUE
+1044,Frank Langella,Frank Langella,1,TRUE
+1045,Kristen Scott thomas,Kristin Scott Thomas,0.95,TRUE
+1046,John hawkes,John Hawkes,1,TRUE
+1047,Joaquin Pheonix ,Joaquin Phoenix,0.984,TRUE
+1048,Chris rock,Chris Rock,1,TRUE
+1049,Colin firth,Colin Firth,1,TRUE
+1050,Selma hyack,Salma Hayek,0.693,FALSE
+1051,Jim carrey,Jim Carrey,1,TRUE
+1052,Drew barrymore,Drew Barrymore,1,TRUE
+1053,Eddie murphy,Eddie Murphy,1,TRUE
+1054,Albert brooks,Albert Brooks,1,TRUE
+1055,Glenn close,Glenn Close,1,TRUE
+1056,Tom wilksnson,Tom Wilkinson,0.908,TRUE
+1057,Laura linney,Laura Linney,1,TRUE
+1058,Ian holm,Ian Holm,1,TRUE
+1059,Laura dern,Laura Dern,1,TRUE
+1060,Emma watson,Emma Watson,1,TRUE
+1061,Bill murry,Bill Murray,0.949,TRUE
+1062,Javier Bardem,Javier Bardem,1,TRUE
+1063,Jon Hamm,Jon Hamm,1,TRUE
+1064,Michael Douglas,Michael Douglas,1,TRUE
+1065,Ed Burns,Ed Burns,1,TRUE
+1066,Oliver Platt,Oliver Platt,1,TRUE
+1067,Morgan Freeman,Morgan Freeman,1,TRUE
+1068,Seth Rogan,Seth Rogen,0.987,TRUE
+1069,Ellen Degeneres,Ellen Degeneres,1,TRUE
+1070,Elijah Wood,Elijah Wood,1,TRUE
+1071,Jane Fonda,Jane Fonda,1,TRUE
+1072,Greg Kineer,Greg Kinnear,0.971,TRUE
+1073,Tom Cruise,Tom Cruise,1,TRUE
+1074,Reese Witherspoon,Reese Witherspoon,1,TRUE
+1075,Ellen Barkin,Ellen Barkin,1,TRUE
+1076,Rene Zelwegger,Renee Zellweger,0.875,TRUE
+1077,David Hasselhoff,David Hasselhoff,1,TRUE
+1078,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+1079,Albert Finley,Albert Finney,0.988,TRUE
+1080,Sean Penn,Sean Penn,1,TRUE
+1081,Uma Thurmon,Uma Thurman,0.989,TRUE
+1082,Isabella Rossellini,Isabella Rossellini,1,TRUE
+1085,Robert De Niro,Robert De Niro,1,TRUE
+1088,Sally Fields,Sally Fields,1,TRUE
+1091,Nicole Kidman,Nicole Kidman,1,TRUE
+1094,Debora Winger,Debra Winger,0.98,TRUE
+1097,Rosie Perez,Rosie Perez,1,TRUE
+1100,Ethan Hawks,Ethan Hawke,0.994,TRUE
+1103,Marion Cotilard ,Marion Cotillard,0.99,TRUE
+1106,Burt Reynolds,Burt Reynolds,1,TRUE
+1109,Colin Farrell ,Colin Farrell,1,TRUE
+1110,Dennis leary,Denis Leary,0.936,TRUE
+1111,Hugh grant,Hugh Grant,1,TRUE
+1112,Goldie hawn,Goldie Hawn,1,TRUE
+1113,Nicole kidman,Nicole Kidman,1,TRUE
+1114,Robert duval,Robert Duvall,0.964,TRUE
+1115,,Dustin Hoffman,0,FALSE
+1083,Jennifer Connely,Jennifer Connelly,0.998,TRUE
+1086,Dan Akyroid,Dan Aykroyd,0.949,TRUE
+1089,Joney Depp,Johnny Depp,0.923,TRUE
+1092,Benecio Del Torro,Benicio Del Toro,0.914,TRUE
+1095,David Schwimmer,David Schwimmer,1,TRUE
+1098,Paul Rudd,Paul Rudd,1,TRUE
+1101,Ryan Reynolds,Ryan Reynolds,1,TRUE
+1104,Dennis Miller,Dennis Miller,1,TRUE
+1107,Jack Black,Jack Black,1,TRUE
+1118,Willem Defoe,Willem Dafoe,0.971,TRUE
+1119,Miranda Richardson,Miranda Richardson,1,TRUE
+1120,Alan alda,Alan Alda,1,TRUE
+1121,Sissy spacek,Sissy Spacek,1,TRUE
+1122,Scarletth,Scarlett Johansson,0.907,TRUE
+1123,Joe pesce,Joe Pesci,0.911,TRUE
+1124,Francis mcformand ,Frances McDormand,0.87,TRUE
+1084,Hugh Grant,Hugh Grant,1,TRUE
+1087,Christopher Waltz,Christoph Waltz,0.982,TRUE
+1090,Mary Steinbrugen,Mary Steenburgen,0.957,TRUE
+1093,Tracy Ullman,Tracey Ullman,0.982,TRUE
+1096,Cathy Bates,Kathy Bates,0.939,TRUE
+1099,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+1102,Nick Norte,Nick Nolte,0.98,TRUE
+1105,Steve Buscemi,Steve Buscemi,1,TRUE
+1108,Ben Afleck,Ben Affleck,0.986,TRUE
+1116,Emma stone,Emma Stone,1,TRUE
+1117,Dennis miller,Dennis Miller,1,TRUE
+1125,Ellen Barkin ,Ellen Barkin,1,TRUE
+1126,Keanu reeves ,Keanu Reeves,1,TRUE
+1127,Chevy chase,Chevy Chase,1,TRUE
+1128,Andie McDowell ,Andie MacDowell,0.976,TRUE
+1129,Kathlene Turner,Kathleen Turner,0.987,TRUE
+1130,Anna Pacquin,Anna Paquin,0.988,TRUE
+1131,Brooke Shields,Brooke Shields,1,TRUE
+1132,Amanda Peete,Amanda Peet,0.998,TRUE
+1133,Eva Mendez,Eva Mendes,0.993,TRUE
+1134,Sandra Bulock,Sandra Bullock,0.993,TRUE
+1135,Leonardo Di Caprio,Leonardo DiCaprio,1,TRUE
+1136,Candice Burgen,Candice Bergen,0.974,TRUE
+1137,Emma Watson,Emma Watson,1,TRUE
+1138,Jeff Goldblum,Jeff Goldblum,1,TRUE
+1139,Val Kilmer,Val Kilmer,1,TRUE
+1140,Elijah Wood,Elijah Wood,1,TRUE
+1141,Chris Rock,Chris Rock,1,TRUE
+1142,Tea Leoni,Tea Leoni,1,TRUE
+1143,Kate Hudson,Kate Hudson,1,TRUE
+1144,Philip Semore Hoffman,Philip Seymour Hoffman,0.973,TRUE
+1145,Orlando Bloome,Orlando Bloom,0.998,TRUE
+1146,,Hope Davis,0,FALSE
+1147,Ben Affleck,Ben Affleck,1,TRUE
+1148,Zack Galifanakis,Zach Galifianakis,0.914,TRUE
+1149,David Spade,David Spade,1,TRUE
+1150,Stanley Tucci,Stanley Tucci,1,TRUE
+1151,John Malcovitch,John Malkovich,0.944,TRUE
+1152,Christoph Waltz,Christoph Waltz,1,TRUE
+1153,Rickey Gervais,Ricky Gervais,0.946,TRUE
+1154,Mary Louise Parker,Mary-Louise Parker,0.925,TRUE
+1155,Marion Cotilard,Marion Cotillard,0.995,TRUE
+1156,Adam Sandler,Adam Sandler,1,TRUE
+1157,Jim Beluchi,Jim Belushi,0.983,TRUE
+1158,John Turturo,John Turturro,0.996,TRUE
+1159,Sally Fields,Sally Fields,1,TRUE
+1160,Alec Baldwin,Alec Baldwin,1,TRUE
+1161,Martin Sheen,Martin Sheen,1,TRUE
+1162,Jeffrey Wright,Jeffrey Wright,1,TRUE
+1163,Clive Owen,Clive Owen,1,TRUE
+1164,John Leguzamo,John Leguizamo,0.991,TRUE
+1165,John Cusack,John Cusack,1,TRUE
+1166,Marisa Tomei,Marisa Tomei,1,TRUE
+1167,Sidney Poitier,Sidney Poitier,1,TRUE
+1168,Tom Wilkenson,Tom Wilkinson,0.98,TRUE
+1169,Albert Brooks,Albert Brooks,1,TRUE
+1170,Emma Thompson,Emma Thompson,1,TRUE
+1171,Beau Bridges,Beau Bridges,1,TRUE
+1172,Ben Kingsley,Ben Kingsley,1,TRUE
+1173,Bill Pullman,Bill Pullman,1,TRUE
+1174,Angelina Jolie,Jennifer Lopez,0.571,FALSE
+1175,Katherine Keener,Catherine Keener,0.958,TRUE
+1176,Elliot Gould,Elliott Gould,0.986,TRUE
+1177,Patricia Arquette,Patricia Arquette,1,TRUE
+1178,George Lopez,George Lopez,1,TRUE
+1179,Judi Dench,Judi Dench,1,TRUE
+1180,Mark Walburg,Mark Wahlberg,0.964,TRUE
+1181,Christopher Walkin,Christopher Walken,0.996,TRUE
+1182,James Galdolphini,James Gandolfini,0.934,TRUE
+1183,Ann Hathaway,Anne Hathaway,0.98,TRUE
+1184,Jeremy Irons,Jeremy Irons,1,TRUE
+1185,Alan Arkin,Alan Arkin,1,TRUE
+1186,Charlie Sheen,Charlie Sheen,1,TRUE
+1187,Michael Fasbender,Michael Fassbender,0.993,TRUE
+1188,Kevin James,Kevin James,1,TRUE
+1189,Forest Witaker,Forest Whitaker,0.99,TRUE
+1190,Steve Martin,Steve Martin,1,TRUE
+1193,Tilda Swinton,Tilda Swinton,1,TRUE
+1196,Blithe Danner,Blythe Danner,0.957,TRUE
+1199,Sam Worthington,Sam Worthington,1,TRUE
+1202,Jude Law,Jude Law,1,TRUE
+1205,Jennifer Jason Leigh,Jennifer Jason Leigh,1,TRUE
+1208,Viggo Mortenson,Viggo Mortensen,0.994,TRUE
+1210,Tim Blake nelson,Tim Blake Nelson,1,TRUE
+1213,Sean Penn,Sean Penn,1,TRUE
+1216,Morgan  freeman ,Morgan Freeman,1,TRUE
+1219,Ryan Gosling,Ryan Gosling,1,TRUE
+1232,Daniel Craig ,Daniel Craig,1,TRUE
+1191,Nick Nolte,Nick Nolte,1,TRUE
+1194,Nick Nolte,Nicholas Cage,0.699,FALSE
+1197,Laura Dern,Laura Dern,1,TRUE
+1200,Roger Moore,Roger Moore,1,TRUE
+1203,Javier Bardem,Javier Bardem,1,TRUE
+1206,Kelly MacDonnald,Kelly MacDonald,0.995,TRUE
+1209,Viggo mortenson,Viggo Mortensen,0.947,TRUE
+1211,Emma stone,Emma Stone,1,TRUE
+1214,Bill Cosby,Bill Cosby,1,TRUE
+1217,Jane Fonda ,Jane Fonda,1,TRUE
+1220,Sigourney weaver ,Sigourney Weaver,1,TRUE
+1225,toni  colette,Toni Collette,0.846,FALSE
+1226,David Schwimmer ,David Schwimmer,1,TRUE
+1192,Owen Wilson,Owen Wilson,1,TRUE
+1195,Ryan Reynolds,Ryan Gosling,0.863,TRUE
+1198,Chris Cooper,Chris Cooper,1,TRUE
+1201,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+1204,Michael Shannon,Michael Shannon,1,TRUE
+1207,William Hurt,William Hurt,1,TRUE
+1212,Bridget Fonda,Bridget Fonda,1,TRUE
+1215,Sam Worthington,Sam Worthington,1,TRUE
+1218,Rosie perez ,Rosie Perez,1,TRUE
+1221,Viggo Mortensen ,Viggo Mortensen,1,TRUE
+1222,,Sandra Bullock,0,FALSE
+1223,Meg ryan,Meg Ryan,1,TRUE
+1224,Anthony Hopkins ,Anthony Hopkins,1,TRUE
+1227,Nicole kiddman,Nicole Kidman,0.963,TRUE
+1228,Will Farrell ,Will Ferrell,0.941,TRUE
+1229,Natalie Portman ,Natalie Portman,1,TRUE
+1230,Jeremy irons,Jeremy Irons,1,TRUE
+1231,Mark wahlberg,Mark Wahlberg,1,TRUE
+1233,Elizabeth Shue ,Elisabeth Shue,0.945,TRUE
+1234,Emma Thompson ,Emma Thompson,1,TRUE
+1235,Renee Russo ,Rene Russo,0.963,TRUE
+1236,Ian Holm ,Ian Holm,1,TRUE
+1237,Steve Martin ,Steve Martin,1,TRUE
+1238,Steve correl,Steve Carell,0.917,TRUE
+1239,Steve correl,Peter Coyote,0.627,FALSE
+1240,Daniel Radcliffe ,Daniel Radcliffe,1,TRUE
+1241,Sarah Louisema,Sarah Jessica Parker,0.793,FALSE
+1242,Sarah Louisema,Gabriel Byrne,0.514,FALSE
+1243,Sarah Louisema,Sam Shepard,0.602,FALSE
+1244,William Hurt,William Hurt,1,TRUE
+1245,Chris Cooper,Chris Cooper,1,TRUE
+1246,John Hawks,John Hawkes,0.994,TRUE
+1247,Vince Vaughn,Vince Vaughn,1,TRUE
+1248,Jamie Bell,Jamie Bell,1,TRUE
+1249,Jack Black,Jack Black,1,TRUE
+1250,Selma Hyaek,Salma Hayek,0.854,TRUE
+1251,Eddie Murphy,Eddie Murphy,1,TRUE
+1252,Juilette Binoche,Juliette Binoche,0.982,TRUE
+1253,Pierce Brosnan,Pierce Brosnan,1,TRUE
+1254,Charlie Sheen,Charlie Sheen,1,TRUE
+1255,Roger MOore,Roger Moore,1,TRUE
+1256,Owen Wilson,Owen Wilson,1,TRUE
+1257,Andy Garcia,Andy Garcia,1,TRUE
+1258,Catherine Keener,Catherine Keener,1,TRUE
+1259,Cathy Bates,Kathy Bates,0.939,TRUE
+1260,Lindsey lohan,Lindsay Lohan,0.937,TRUE
+1261,Kiera Knigtly,Keira Knightley,0.935,TRUE
+1262,Alfred Molina,Alfred Molina,1,TRUE
+1263,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+1264,Tom Arnold,Tom Arnold,1,TRUE
+1265,Kevin James,Kevin James,1,TRUE
+1266,Miney Driver,Minnie Driver,0.893,TRUE
+1267,Jill Clayburg,Jill Clayburgh,0.998,TRUE
+1268,Michael Keeton,Michael Keaton,0.986,TRUE
+1269,Dan  Aykroid,Dan Aykroyd,0.943,TRUE
+1270,Steven Segal,Steven Seagal,0.984,TRUE
+1271,Jeff Bridges,Jeff Bridges,1,TRUE
+1272,Alan Rickman,Alan Rickman,1,TRUE
+1273,Viggo Mortenson,Viggo Mortensen,0.994,TRUE
+1274,Forest Wittaker,Forest Whitaker,0.979,TRUE
+1275,Robert De Niro,Robert De Niro,1,TRUE
+1276,Andie MacDowel,Andie MacDowell,0.999,TRUE
+1277,Paul Giamatti,Paul Giamatti,1,TRUE
+1278,Bill Murray,Bill Murray,1,TRUE
+1279,Josh Brolin,Josh Brolin,1,TRUE
+1280,Jeff Daniels,Jeff Daniels,1,TRUE
+1281,Billy Crystal,Billy Crystal,1,TRUE
+1282,Martin Lawrence,Martin Lawrence,1,TRUE
+1283,Timothy Dalton,Timothy Dalton,1,TRUE
+1284,Edward  Norten,Edward Norton,0.963,TRUE
+1285,Hugh Jackman,Hugh Jackman,1,TRUE
+1286,Dustin Hoffman,Dustin Hoffman,1,TRUE
+1287,Antonia Banderas,Antonio Banderas,0.918,TRUE
+1288,Penelopi Cruise,Penelope Cruz,0.925,TRUE
+1289,David Spade,David Spade,1,TRUE
+1290,John Goodman,John Goodman,1,TRUE
+1291,Paul Rudd,Paul Rudd,1,TRUE
+1294,Woody Allen,Woody Allen,1,TRUE
+1297,Tilda Swinton,Tilda Swinton,1,TRUE
+1300,Jude Law,Jude Law,1,TRUE
+1303,Marion Cotillard,Marion Cotillard,1,TRUE
+1306,Gweneth Paltrow,Gwyneth Paltrow,0.941,TRUE
+1309,Kenneth Branaugh,Kenneth Branagh,0.996,TRUE
+1313,,Ewan McGregor,0,FALSE
+1316,Richard Gere,Richard Gere,1,TRUE
+1319,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+1322,Reese WItherspoone,Reese Witherspoon,0.965,TRUE
+1325,Val Kilmer,Val Kilmer,1,TRUE
+1328,Rosie Perez,Rosie Perez,1,TRUE
+1331,Joe Pesce,Joe Pesci,0.985,TRUE
+1334,Jeff Goldblum,Jeff Goldblum,1,TRUE
+1337,Joaquim Phoenix,Joaquin Phoenix,0.93,TRUE
+1340,Alec Baldwin,Alec Baldwin,1,TRUE
+1343,Meg Ryan,Meg Ryan,1,TRUE
+1292,Naomi Watts,Naomi Watts,1,TRUE
+1295,Elliott Guild,Elliott Gould,0.984,TRUE
+1298,Rickey Gervais,Ricky Gervais,0.946,TRUE
+1301,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+1304,Kate Hudson,Kate Hudson,1,TRUE
+1307,Ellen Degeneris,Ellen Degeneres,0.994,TRUE
+1310,Barbara Hershey,Barbara Hershey,1,TRUE
+1312,Jimmy Smits,Jimmy Smits,1,TRUE
+1315,Sandra Bullock,Sandra Bullock,1,TRUE
+1318,Cate Blanchett,Cate Blanchett,1,TRUE
+1321,Robin Williams,Robin Williams,1,TRUE
+1324,Tom Wilkenson,Tom Wilkinson,0.98,TRUE
+1327,Laura Linney,Laura Linney,1,TRUE
+1330,Patricia Arkette,Patricia Arquette,0.979,TRUE
+1333,Adam Sandler,Adam Sandler,1,TRUE
+1336,Blair Underwood,Blair Underwood,1,TRUE
+1339,Owen Wilson,Owen Wilson,1,TRUE
+1342,Julianne Moore,Julianne Moore,1,TRUE
+1293,James Gandolfini,James Gandolfini,1,TRUE
+1296,Elijah Wood,Elijah Wood,1,TRUE
+1299,Gary Oldman,Gary Oldman,1,TRUE
+1302,Kevin Costner,Kevin Costner,1,TRUE
+1305,Francis McDormand,Frances McDormand,0.972,TRUE
+1308,Jackie Chan,Jackie Chan,1,TRUE
+1311,Leiv Schriber,Liev Schreiber,0.93,TRUE
+1314,Woody Allen,Woody Allen,1,TRUE
+1317,Rickey Jervais,Ricky Gervais,0.928,TRUE
+1320,Emma Stone,Emma Stone,1,TRUE
+1323,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+1326,Kenneth Branaugh,Kenneth Branagh,0.996,TRUE
+1329,Clint Eastwood,Clint Eastwood,1,TRUE
+1332,Dennis Hopper,Dennis Hopper,1,TRUE
+1335,Jeff Daniles,Jeff Daniels,0.993,TRUE
+1338,Don Cheetle,Don Cheadle,0.942,TRUE
+1341,Naomi Watts,Naomi Watts,1,TRUE
+1344,Keano Reeves,Keanu Reeves,0.963,TRUE
+1345,Steve Martin,Steve Martin,1,TRUE
+1346,Kate Wislett,Kate Winslet,0.977,TRUE
+1347,David Hasselhoff,David Hasselhoff,1,TRUE
+1348,Arnold Schwartzeneger,Arnold Schwarzenegger,0.988,TRUE
+1349,Candice Burgen,Candice Bergen,0.974,TRUE
+1350,Jonny Depp,Johnny Depp,0.975,TRUE
+1351,Josh Brolin,Josh Brolin,1,TRUE
+1352,David Schwimmer,David Schwimmer,1,TRUE
+1353,Dennis Leary,Denis Leary,0.979,TRUE
+1354,Billy Crystal,Billy Crystal,1,TRUE
+1355,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+1356,John Travolta,John Travolta,1,TRUE
+1357,Tom Hanks,Tom Hanks,1,TRUE
+1358,Ben Kingsley,Ben Kingsley,1,TRUE
+1359,,Rob Schneider,0,FALSE
+1360,John Malcovitch,John Malkovich,0.944,TRUE
+1361,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+1362,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+1363,Helena Bonham Carter,Helena Bonham Carter,1,TRUE
+1364,John Leguzamo,John Leguizamo,0.991,TRUE
+1365,Mike Myers,Mike Myers,1,TRUE
+1366,Dustin Hoffman,Dustin Hoffman,1,TRUE
+1367,,Elliott Gould,0,FALSE
+1368,Christopher Plummer,Christopher Plummer,1,TRUE
+1369,Andie Mcdowell,Andie MacDowell,0.964,TRUE
+1370,,Kathy Bates,0,FALSE
+1371,Macauly Caulkin,Macaulay Culkin,0.973,TRUE
+1372,James Gandolfini,James Gandolfini,1,TRUE
+1373,Jamie Bell,Jamie Bell,1,TRUE
+1374,Kirstin Dunst,Scarlett Johansson,0.595,FALSE
+1375,James Woods,James Woods,1,TRUE
+1376,Benecio Del Toro,Benicio Del Toro,0.93,TRUE
+1377,Steve Correll,Steve Carell,0.964,TRUE
+1378,Daryl Hannah,Daryl Hannah,1,TRUE
+1379,Michael Douglas,Michael Douglas,1,TRUE
+1380,,Tim Blake Nelson,0,FALSE
+1381,George Lopez,George Lopez,1,TRUE
+1382,Orlando  Bloom,Orlando Bloom,1,TRUE
+1383,Alfred Molina,Alfred Molina,1,TRUE
+1384,Geoffrey Rush,Geoffrey Rush,1,TRUE
+1385,Jim Carrey,Jim Carrey,1,TRUE
+1386,Tilda Swinton,Tilda Swinton,1,TRUE
+1387,Jennifer Lopez,Jennifer Lopez,1,TRUE
+1388,Elizabeth Shue,Elizabeth Perkins,0.922,TRUE
+1389,Chris Rock,Chris Rock,1,TRUE
+1390,Jim Balushi,Jim Belushi,0.967,TRUE
+1391,Kim Bassenger,Kim Basinger,0.95,TRUE
+1392,Francis Mcdormand,Frances McDormand,0.898,TRUE
+1393,Gene Hackman,Gene Hackman,1,TRUE
+1394,Laura Dern,Laura Dern,1,TRUE
+1395,Jack Black,Jack Black,1,TRUE
+1396,Nathan lane,Nathan Lane,1,TRUE
+1397,Ian HOlm,Ian Holm,1,TRUE
+1398,Angelina Joli,Angelina Jolie,0.998,TRUE
+1399,Burt Reynolds,Burt Reynolds,1,TRUE
+1400,Emily Blunt,Emily Blunt,1,TRUE
+1401,Elijah Wood,Elijah Wood,1,TRUE
+1402,Matt Damon,Matt Damon,1,TRUE
+1403,Antonio Banderia,Antonio Banderas,0.995,TRUE
+1404,Daniel Craig,Daniel Craig,1,TRUE
+1405,Kurt Russel,Kurt Russell,0.998,TRUE
+1406,Robert De Niro,Robert De Niro,1,TRUE
+1407,Samuel L Jackson,Samuel L. Jackson,0.99,TRUE
+1408,Dennis Miller,Dennis Miller,1,TRUE
+1409,John Hardy,Tom Hardy,0.826,FALSE
+1410,Natalie Portman,Natalie Portman,1,TRUE
+1411,Anette Benning,Annette Bening,0.937,TRUE
+1412,Angelina Jolie,Angelina Jolie,1,TRUE
+1413,Christopher Walken,Christopher Walken,1,TRUE
+1414,Charlise Theron,Charlize Theron,0.973,TRUE
+1415,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+1416,Javier Bardem,Javier Bardem,1,TRUE
+1417,Glenn Close,Glenn Close,1,TRUE
+1418,Nicholas  Cage,Nicholas Cage,1,TRUE
+1419,,Kyle MacLachlan,0,FALSE
+1420,Kira Knightly,Keira Knightley,0.959,TRUE
+1421,Holly Hunter,Holly Hunter,1,TRUE
+1422,Daniel Day Lewis,Daniel Day-Lewis,0.984,TRUE
+1423,Tom Hardy,Tom Hardy,1,TRUE
+1424,Catherine Zeta Jones,Catherine Zeta-Jones,0.99,TRUE
+1425,David Spade,David Spade,1,TRUE
+1426,Maggie Jylenhall,Maggie Gyllenhaal,0.939,TRUE
+1427,Kristen Scott Thomas,Kristin Scott Thomas,0.975,TRUE
+1428,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+1429,Martin Lawrence,Martin Lawrence,1,TRUE
+1430,Anthony Hopkins,Anthony Hopkins,1,TRUE
+1431,Ed Burns,Ed Burns,1,TRUE
+1432,Bradley Cooper,Bradley Cooper,1,TRUE
+1433,Winona Rider,Winona Ryder,0.981,TRUE
+1434,,Laura Linney,0,FALSE
+1435,Andie MacDowell,Andie MacDowell,1,TRUE
+1436,Tim Robbins,Tim Robbins,1,TRUE
+1437,Kurt Russel,Kurt Russell,0.998,TRUE
+1438,Helen Hunt,Helen Hunt,1,TRUE
+1439,Andy Garcia,Andy Garcia,1,TRUE
+1440,Lucy Liu,Lucy Liu,1,TRUE
+1441,Burt Reynolds,Burt Reynolds,1,TRUE
+1442,Viggo Mortensen,Viggo Mortensen,1,TRUE
+1443,Paul Rudd,Paul Rudd,1,TRUE
+1444,Bridgette Fonda,Bridget Fonda,0.976,TRUE
+1445,Dennis Leary,Denis Leary,0.979,TRUE
+1446,Debora Winger,Debra Winger,0.98,TRUE
+1447,Robert Duval,Robert Duvall,0.998,TRUE
+1448,Michael Fasbender,Michael Fassbender,0.993,TRUE
+1449,Sam Worthington,Sam Worthington,1,TRUE
+1450,Matt Damon,Matt Damon,1,TRUE
+1451,Ellen ,Ellen Page,0.947,TRUE
+1452,Sarah Jesica Parker,Sarah Jessica Parker,0.991,TRUE
+1453,Kate Winslet,Kate Winslet,1,TRUE
+1454,Harrison Ford,Harrison Ford,1,TRUE
+1455,Tia Lenoi,Tea Leoni,0.896,TRUE
+1456,Drew Barrymore,Drew Barrymore,1,TRUE
+1457,Jennifer Lopez,Jennifer Lopez,1,TRUE
+1458,,Goldie Hawn,0,FALSE
+1459,John Kusack,John Cusack,0.967,TRUE
+1460,Daniel Craig,Daniel Craig,1,TRUE
+1461,Bill Muray,Bill Murray,0.992,TRUE
+1462,Jeffrey Right,Jeffrey Wright,0.969,TRUE
+1463,Rene Russo,Rene Russo,1,TRUE
+1464,Juliette Binoche,Juliette Binoche,1,TRUE
+1465,Colin Firth,Colin Firth,1,TRUE
+1466,Edward Norton,Edward Norton,1,TRUE
+1467,Hugh Jackman,Hugh Jackman,1,TRUE
+1468,Catherine Keener,Catherine Keener,1,TRUE
+1469,,Meryl Streep,0,FALSE
+1470,,Peter Gallagher,0,FALSE
+1471,Steve Carrel,Steve Carell,0.986,TRUE
+1472,Jeff Bridges,Jeff Bridges,1,TRUE
+1473,Michael Douglas,Michael Douglas,1,TRUE
+1474,Jack Black,Jack Black,1,TRUE
+1475,,Jonah Hill,0,FALSE
+1476,Sigourney Weaver,Sigourney Weaver,1,TRUE
+1477,Tobi Macguire,Tobey Maguire,0.921,TRUE
+1478,Brooke Shields,Brooke Shields,1,TRUE
+1479,Emily Blunt,Emily Blunt,1,TRUE
+1480,Tom Wilkenson,Tom Wilkinson,0.98,TRUE
+1481,Jeff Goldblum,Jeff Goldblum,1,TRUE
+1482,Dennis MIller,Dennis Miller,1,TRUE
+1483,Adrien Brody,Adrien Brody,1,TRUE
+1484,Rachel McAdams,Rachel McAdams,1,TRUE
+1485,Dennis Hopper,Dennis Hopper,1,TRUE
+1486,John Turtoro,John Turturro,0.966,TRUE
+1487,,Jason Bateman,0,FALSE
+1488,Peter O'Tool,Peter O'toole,0.97,TRUE
+1489,Helena Bonham Carter,Helena Bonham Carter,1,TRUE
+1490,Joan Cusack,Joan Cusack,1,TRUE
+1491,Blythe Danner,Blythe Danner,1,TRUE
+1492,,Richard Gere,0,FALSE
+1493,Jamie Foxx,Jamie Foxx,1,TRUE
+1494,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+1495,Albert Finney,Albert Finney,1,TRUE
+1496,Clint Eastwood,Clint Eastwood,1,TRUE
+1497,Colin Farrel,Colin Farrell,0.998,TRUE
+1498,Candice Bergan,Candice Bergen,0.993,TRUE
+1499,,Kenneth Branagh,0,FALSE
+1500,Julia Roberts,Julia Roberts,1,TRUE
+1501,,George Clooney,0,FALSE
+1502,James Mcavoy,James McAvoy,1,TRUE
+1503,Jodie Foster,Jodie Foster,1,TRUE
+1504,Dan Ackeroid,Dan Aykroyd,0.916,TRUE
+1505,Jack Nicolson,Jack Nicholson,0.99,TRUE
+1506,Miney Driver,Minnie Driver,0.893,TRUE
+1507,Scarlet Johanson,Scarlett Johansson,0.977,TRUE
+1508,Michael Keaton,Michael Keaton,1,TRUE
+1509,Jake Gyllenhaal,Jake Gyllenhaal,1,TRUE
+1510,Jeremy Irons,Jeremy Irons,1,TRUE
+1511,Jennifer Jason Leigh,Jennifer Jason Leigh,1,TRUE
+1512,Bill Pullman,Bill Pullman,1,TRUE
+1513,Peter Sarsgaard,Peter Sarsgaard,1,TRUE
+1514,Jeremy Renner,Jeremy Renner,1,TRUE
+1515,Tom Cruise,Tom Cruise,1,TRUE
+1516,Ben Stiller,Ben Stiller,1,TRUE
+1517,Tom Hardy,Tom Hardy,1,TRUE
+1518,Richard Gerre,Richard Gere,0.996,TRUE
+1519,Al Pacino,Al Pacino,1,TRUE
+1520,Rene  Zelwegger,Renee Zellweger,0.86,TRUE
+1521,David Hasselhof,David Hasselhoff,0.999,TRUE
+1522,Cristian Slater,Christian Slater,0.98,TRUE
+1523,Harrison Ford,Harrison Ford,1,TRUE
+1524,Robert Redford,Robert Redford,1,TRUE
+1525,Michael Fasbender,Michael Fassbender,0.993,TRUE
+1526,MIra Sirvino,Mira Sorvino,0.81,FALSE
+1527,Kiefer Sutherland,Kiefer Sutherland,1,TRUE
+1528,Keano Reeves,Keanu Reeves,0.963,TRUE
+1529,Robert Duval,Robert Duvall,0.998,TRUE
+1530,Andy Garcia,Andy Garcia,1,TRUE
+1531,,Mickey Rourke,0,FALSE
+1532,Frank Langella,Frank Langella,1,TRUE
+1533,Toby Mcguire,Tobey Maguire,0.939,TRUE
+1534,Forest Whitaker,Forest Whitaker,1,TRUE
+1535,Jon Ham,Jon Hamm,0.988,TRUE
+1536,Sean Penn,Sean Penn,1,TRUE
+1537,David Ducovny,David Duchovny,0.991,TRUE
+1538,Danny Davito,Danny DeVito,0.954,TRUE
+1539,John Hawks,John Hawkes,0.994,TRUE
+1540,Bridgette Fonda,Bridget Fonda,0.976,TRUE
+1541,Kevin James,Kevin James,1,TRUE
+1542,Jack Nicholsen,Jack Nicholson,0.993,TRUE
+1543,,Rob Schneider,0,FALSE
+1544,Donald Sutherland,Donald Sutherland,1,TRUE
+1545,Jennifer Aniston,Jennifer Aniston,1,TRUE
+1546,Zack Galifinakis,Zach Galifianakis,0.932,TRUE
+1547,Steve Martin,Steve Martin,1,TRUE
+1548,Daniel Craig,Daniel Craig,1,TRUE
+1549,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+1550,Helen Hunt,Helen Hunt,1,TRUE
+1551,Catherine Zeta Jones,Catherine Zeta-Jones,0.99,TRUE
+1552,Glenn Close,Glenn Close,1,TRUE
+1553,Jason Bateman,Jason Bateman,1,TRUE
+1554,Nathan Lane,Nathan Lane,1,TRUE
+1555,Cameron Diaz,Cameron Diaz,1,TRUE
+1556,Sean Connery,Sean Connery,1,TRUE
+1557,Willem Dafoe,Willem Dafoe,1,TRUE
+1558,Kathlene Turner,Kathleen Turner,0.987,TRUE
+1559,Francis Mcdormand,Frances McDormand,0.898,TRUE
+1560,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+1561,,Joseph Gordon-Levitt,0,FALSE
+1562,Jodie foster,Jodie Foster,1,TRUE
+1563,John Travolta,John Travolta,1,TRUE
+1564,Lucy liu,Lucy Liu,1,TRUE
+1565,Demi Moore,Demi Moore,1,TRUE
+1566,Alan Arkin,Alan Arkin,1,TRUE
+1567,Jackie Chan,Jackie Chan,1,TRUE
+1568,Emily Blunt,Emily Blunt,1,TRUE
+1569,Sidney Poitier,Sidney Poitier,1,TRUE
+1570,Isabela Rosselini,Isabella Rossellini,0.936,TRUE
+1571,Mathew Broderick,Matthew Broderick,0.984,TRUE
+1572,Kate Hudson,Kate Hudson,1,TRUE
+1573,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+1574,Michelle Phfifer,Michelle Pfeiffer,0.966,TRUE
+1575,Mike Myers,Mike Myers,1,TRUE
+1576,Billy Crystal,Billy Crystal,1,TRUE
+1577,Catherine Keener,Catherine Keener,1,TRUE
+1578,Liev Schriber,Liev Schreiber,0.982,TRUE
+1579,William Hurt,William Hurt,1,TRUE
+1580,Sharon Stone,Sharon Stone,1,TRUE
+1581,Dustin Hoffman,Dustin Hoffman,1,TRUE
+1582,Anette Benning,Annette Bening,0.937,TRUE
+1583,Nicholas Cage,Nicholas Cage,1,TRUE
+1584,Chevy Chase,Chevy Chase,1,TRUE
+1585,Rene Russo,Rene Russo,1,TRUE
+1586,Beau Bridges,Beau Bridges,1,TRUE
+1587,Naomi Watts,Naomi Watts,1,TRUE
+1588,Collin Farrell,Colin Farrell,0.981,TRUE
+1589,Meg Ryan,Meg Ryan,1,TRUE
+1590,Kurt Russel,Kurt Russell,0.998,TRUE
+1591,Jane Fonda,Jane Fonda,1,TRUE
+1592,Leonardo De Capprio,Leonardo DiCaprio,0.946,TRUE
+1593,David Spade,David Spade,1,TRUE
+1594,Antonio Banderas,Antonio Banderas,1,TRUE
+1595,Emma Stone,Emma Stone,1,TRUE
+1596,Dennis Hopper,Dennis Hopper,1,TRUE
+1597,Gene Hackman,Gene Hackman,1,TRUE
+1598,Christian Bale,Christian Bale,1,TRUE
+1599,Adriene Brodie,Adrien Brody,0.943,TRUE
+1600,Kim Bassinger,Kim Basinger,0.988,TRUE
+1601,Holly Hunter,Holly Hunter,1,TRUE
+1602,Halle Berrie,Halle Berry,0.986,TRUE
+1603,Owen Wilson,Owen Wilson,1,TRUE
+1604,Patricia Arquette,Patricia Arquette,1,TRUE
+1605,Chris Rock,Chris Rock,1,TRUE
+1606,Marissa Tomei,Marisa Tomei,0.984,TRUE
+1607,Natalie Portman,Natalie Portman,1,TRUE
+1608,Ryan Reynolds,Ryan Reynolds,1,TRUE
+1609,Joney Depp,Johnny Depp,0.923,TRUE
+1610,Brendan Fraiser,Brendan Fraser,0.994,TRUE
+1611,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+1612,Francis Mcdormand,Frances McDormand,0.898,TRUE
+1613,William Hurt,William Hurt,1,TRUE
+1614,Sharon Stone,Sharon Stone,1,TRUE
+1615,Michael J fox,Michael J. Fox,0.974,TRUE
+1616,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+1617,,Hope Davis,0,FALSE
+1618,Woddy Allen,Woody Allen,0.95,TRUE
+1619,Keifer Sutherland,Kiefer Sutherland,0.982,TRUE
+1620,Charlie Sheen,Charlie Sheen,1,TRUE
+1621,Ed Burns,Ed Burns,1,TRUE
+1622,Lucy liu,Lucy Liu,1,TRUE
+1623,Steve Buscemi,Steve Buscemi,1,TRUE
+1624,Mary Steinburgen,Mary Steenburgen,0.946,TRUE
+1625,Cate Blanchette,Cate Blanchett,0.999,TRUE
+1626,Dennis Hopper,Dennis Hopper,1,TRUE
+1627,James Gandolfini,James Gandolfini,1,TRUE
+1628,Kevin James,Kevin James,1,TRUE
+1629,Mel Gibson,Mel Gibson,1,TRUE
+1630,Anna Pacquen,Anna Paquin,0.964,TRUE
+1631,Isabella Rossellini,Isabella Rossellini,1,TRUE
+1632,Keano Reeves,Keanu Reeves,0.963,TRUE
+1633,Eddie murphy,Eddie Murphy,1,TRUE
+1634,Zack Galifinakis,Zach Galifianakis,0.932,TRUE
+1635,Javier Bardem,Javier Bardem,1,TRUE
+1636,Adam Schnider,Rob Schneider,0.758,FALSE
+1637,Gary Sinease,Gary Sinise,0.96,TRUE
+1638,James Woods,James Woods,1,TRUE
+1639,Reese Whitherspoon,Reese Witherspoon,0.977,TRUE
+1640,Jamie foxx,Jamie Foxx,1,TRUE
+1641,Hugh Grant,Hugh Grant,1,TRUE
+1642,Bill Cosby,Bill Cosby,1,TRUE
+1643,Anne Hathaway,Anne Hathaway,1,TRUE
+1644,Greg Kinnear,Greg Kinnear,1,TRUE
+1645,Patricia Arquette,Patricia Arquette,1,TRUE
+1646,,Joseph Gordon-Levitt,0,FALSE
+1647,Jeff Goldblum,Jeff Goldblum,1,TRUE
+1648,Edward Norton,Edward Norton,1,TRUE
+1649,Daniel Craig,Daniel Craig,1,TRUE
+1650,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+1651,Bridget Fonda,Bridget Fonda,1,TRUE
+1652,Emma Stone,Emma Stone,1,TRUE
+1653,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+1654,Rosie Perez,Rosie Perez,1,TRUE
+1655,Goldie Hawn,Goldie Hawn,1,TRUE
+1656,Adrien Brody,Adrien Brody,1,TRUE
+1657,Bil Muray,Bill Murray,0.956,TRUE
+1658,Ryan Reynolds,Ryan Reynolds,1,TRUE
+1659,Jonny Depp,Johnny Depp,0.975,TRUE
+1660,Al Pacino,Al Pacino,1,TRUE
+1661,Kathlene Turner,Kathleen Turner,0.987,TRUE
+1662,Ryan Gosling,Ryan Gosling,1,TRUE
+1663,Mackauly Caulkin,Macaulay Culkin,0.947,TRUE
+1664,Jeremy Renner,Jeremy Renner,1,TRUE
+1665,Gene Hackman,Gene Hackman,1,TRUE
+1666,Emily Blunt,Emily Blunt,1,TRUE
+1667,Dan Akyroyd,Dan Aykroyd,0.983,TRUE
+1668,Peirce Brosnan,Pierce Brosnan,0.978,TRUE
+1669,David Hasselhoff,David Hasselhoff,1,TRUE
+1670,Mary Louise-Parker,Mary-Louise Parker,0.986,TRUE
+1671,Daniel Day-Lewis,Daniel Day-Lewis,1,TRUE
+1672,Emma Thompson,Emma Thompson,1,TRUE
+1673,Helena Bonham-Carter,Helena Bonham Carter,0.988,TRUE
+1674,Kate Hudson,Kate Hudson,1,TRUE
+1675,Laura Linney,Laura Linney,1,TRUE
+1676,Juliette Binoche,Juliette Binoche,1,TRUE
+1677,Roy Schider,Roy Scheider,0.976,TRUE
+1678,Holly Hunter,Holly Hunter,1,TRUE
+1679,Gabriel Byrne,Gabriel Byrne,1,TRUE
+1680,Jerry Lewis,Jerry Lewis,1,TRUE
+1681,Robert De Niro,Robert De Niro,1,TRUE
+1682,Kenneth Branaugh,Kenneth Branagh,0.996,TRUE
+1683,,Sam Worthington,0,FALSE
+1684,Josh Brolin,Josh Brolin,1,TRUE
+1685,Joan Cusack,Joan Cusack,1,TRUE
+1686,Andie Garcia,Andy Garcia,0.936,TRUE
+1687,Jennifer Aniston,Jennifer Aniston,1,TRUE
+1688,Benecio Del Torro,Benicio Del Toro,0.914,TRUE
+1689,Christian Slater,Christian Slater,1,TRUE
+1690,Rachel McDonald,Kelly MacDonald,0.783,FALSE
+1691,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+1692,Julianne Moore,Julianne Moore,1,TRUE
+1693,Jennifer Conoly,Jennifer Connelly,0.976,TRUE
+1694,Seth Rogen,Seth Rogen,1,TRUE
+1695,Brad Pitt,Brad Pitt,1,TRUE
+1696,Donald Sutherland,Donald Sutherland,1,TRUE
+1697,Natalie Portman,Natalie Portman,1,TRUE
+1698,Emma Watson,Emma Watson,1,TRUE
+1699,Jackie Chan,Jackie Chan,1,TRUE
+1700,Judy Dench,Judi Dench,0.953,TRUE
+1701,Mark Walberg,Mark Wahlberg,0.988,TRUE
+1702,Naomi Watts,Naomi Watts,1,TRUE
+1703,Amy Adams,Amy Adams,1,TRUE
+1704,Jack Nicholsen,Jack Nicholson,0.993,TRUE
+1705,Jeff Bridges,Jeff Bridges,1,TRUE
+1706,Richard Guere,Richard Gere,0.992,TRUE
+1707,Keira Knightly,Keira Knightley,0.997,TRUE
+1708,Alec Baldwin,Alec Baldwin,1,TRUE
+1709,Kevin Costner,Kevin Costner,1,TRUE
+1710,Jane Fonda,Jane Fonda,1,TRUE
+1711,Scarlett Johanson,Scarlett Johansson,0.997,TRUE
+1712,Chris Cooper,Chris Cooper,1,TRUE
+1713,Rober Duval,Robert Duvall,0.968,TRUE
+1714,Albert Molina,Alfred Molina,0.888,TRUE
+1715,Gary Sinese,Gary Sinise,0.974,TRUE
+1716,Isabella Rossalini,Isabella Rossellini,0.983,TRUE
+1717,Nicole Kidman,Nicole Kidman,1,TRUE
+1718,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+1719,Winona Wider,Winona Ryder,0.954,TRUE
+1720,Arnold Schwartzenager,Arnold Schwarzenegger,0.969,TRUE
+1721,Kelly Macdonald,Kelly MacDonald,1,TRUE
+1722,George Leguzamo,John Leguizamo,0.727,FALSE
+1723,John C Reily,John C. Reilly,0.973,TRUE
+1724,Adrien Brody,Adrien Brody,1,TRUE
+1725,Robert Redford,Robert Redford,1,TRUE
+1726,Sally Fields,Sally Fields,1,TRUE
+1727,Ed Burns,Ed Burns,1,TRUE
+1728,Jerry Lewis,Jerry Lewis,1,TRUE
+1729,Joseph Godron Levitt,Joseph Gordon-Levitt,0.972,TRUE
+1730,Josh Brolin,Josh Brolin,1,TRUE
+1731,Tom Hanks,Tom Hanks,1,TRUE
+1732,Rob Schnider,Rob Schneider,0.979,TRUE
+1733,Clint Eastwood,Clint Eastwood,1,TRUE
+1734,Jon Hamm,Jon Hamm,1,TRUE
+1735,Adam Sandler,Adam Sandler,1,TRUE
+1736,Jim Carey,Jim Carrey,0.99,TRUE
+1737,Antonio Banderas,Antonio Banderas,1,TRUE
+1738,Goldie Hawn,Goldie Hawn,1,TRUE
+1739,Bradley Cooper,Bradley Cooper,1,TRUE
+1740,Ben Afleck,Ben Affleck,0.986,TRUE
+1741,Tim Robbins,Tim Robbins,1,TRUE
+1742,Gabriel Byrne,Gabriel Byrne,1,TRUE
+1743,Liam Neeson,Liam Neeson,1,TRUE
+1744,Christopher Waltz,Christoph Waltz,0.982,TRUE
+1745,Kurt Russell,Kurt Russell,1,TRUE
+1897,Bill Murray,Bill Murray,1,TRUE
+1746,George Cloney,George Clooney,0.993,TRUE
+1747,Eddie Murphy,Eddie Murphy,1,TRUE
+1748,Sam Worthington,Sam Worthington,1,TRUE
+1749,Natalie Portman,Natalie Portman,1,TRUE
+1750,David Schwimmer,David Schwimmer,1,TRUE
+1751,Malcolm Macdowell,Malcolm McDowell,0.972,TRUE
+1752,Anette Benning,Annette Bening,0.937,TRUE
+1753,Emma Thompson,Helen Mirren,0.44,FALSE
+1754,Orlando Bloom,Orlando Bloom,1,TRUE
+1755,Kathy Bates,Kathy Bates,1,TRUE
+1756,Jennifer Lopez,Jennifer Lopez,1,TRUE
+1757,Tea Leoni,Tea Leoni,1,TRUE
+1758,Jack Black,Jack Black,1,TRUE
+1759,Beau Bridges,Beau Bridges,1,TRUE
+1760,Danny Glover,Danny Glover,1,TRUE
+1761,Rosie Perez,Rosie Perez,1,TRUE
+1762,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+1763,Elliott Gould,Elliott Gould,1,TRUE
+1764,Lucy Liu,Lucy Liu,1,TRUE
+1765,David Ducovny,David Duchovny,0.991,TRUE
+1766,Robin Williams,Robin Williams,1,TRUE
+1767,Steven Segal,Steven Seagal,0.984,TRUE
+1768,Helena Bonham-Carter,Helena Bonham Carter,0.988,TRUE
+1769,Liv Tyler,Liv Tyler,1,TRUE
+1770,Nathan Lane,Nathan Lane,1,TRUE
+1771,Meg Ryan,Meg Ryan,1,TRUE
+1772,Brooke Shields,Brooke Shields,1,TRUE
+1773,Julianne Moore,Miranda Richardson,0.532,FALSE
+1774,Peter Galligher,Peter Gallagher,0.985,TRUE
+1775,Frank Langella,Frank Langella,1,TRUE
+1776,Amanda Peet,Amanda Peet,1,TRUE
+1777,Michelle Phfiffer,Michelle Pfeiffer,0.975,TRUE
+1778,Chris Rock,Chris Rock,1,TRUE
+1779,Danny Devito,Danny DeVito,1,TRUE
+1780,Mark Whalberg,Mark Wahlberg,0.986,TRUE
+1781,Guy Peirce,Guy Pearce,0.973,TRUE
+1782,Maggie Gyllenhall,Maggie Gyllenhaal,0.995,TRUE
+1783,Mike Myers,Mike Myers,1,TRUE
+1784,Lindsay Lohan,Lindsay Lohan,1,TRUE
+1785,Ellen Barkin,Ellen Barkin,1,TRUE
+1786,Jeff Bridges,Jeff Bridges,1,TRUE
+1787,Paul Rudd,Paul Rudd,1,TRUE
+1788,Robert Downey Jr,Robert Downey Jr.,0.999,TRUE
+1789,Liev Schriber,Liev Schreiber,0.982,TRUE
+1790,James Woods,James Woods,1,TRUE
+1791,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+1792,Naomi Watts,Naomi Watts,1,TRUE
+1793,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+1794,Benicio Del Toro,Benicio Del Toro,1,TRUE
+1795,Albert Brooks,Albert Brooks,1,TRUE
+1796,Ian Holm,Brian Cox,0.648,FALSE
+1797,Dennis Miller,Dennis Miller,1,TRUE
+1798,Marion Cotelard,Marion Cotillard,0.976,TRUE
+1799,Elijah Wood,Elijah Wood,1,TRUE
+1800,Mira Sorvino,Mira Sorvino,1,TRUE
+1801,Mary Louise Parker,Mary-Louise Parker,0.925,TRUE
+1802,Steve Buscemi,Steve Buscemi,1,TRUE
+1803,Ian Holm,Ian Holm,1,TRUE
+1804,William Hurt,William Hurt,1,TRUE
+1805,Jennifer Aniston,Jennifer Aniston,1,TRUE
+1806,Brad Pitt,Brad Pitt,1,TRUE
+1807,Tobey McGuire,Tobey Maguire,0.953,TRUE
+1808,Woody Allen,Woody Allen,1,TRUE
+1809,,Ewan McGregor,0,FALSE
+1810,Jesica Chastain,Jessica Chastain,0.911,TRUE
+1811,Adrien Brody,Adrien Brody,1,TRUE
+1812,Daniel Day Lewis,Daniel Day-Lewis,0.984,TRUE
+1813,Scarlett Johanson,Scarlett Johansson,0.997,TRUE
+1814,Jeffery Rush,Geoffrey Rush,0.891,TRUE
+1815,Beook Shields,Brooke Shields,0.954,TRUE
+1816,Nicholas Cage,Nicholas Cage,1,TRUE
+1817,Val Kilmer,Val Kilmer,1,TRUE
+1818,Rober Redford,Robert Redford,0.985,TRUE
+1819,Hugh Grant,Hugh Grant,1,TRUE
+1820,Eva Mendez,Eva Mendes,0.993,TRUE
+1821,,Jonah Hill,0,FALSE
+1822,Bill Pullman,Bill Pullman,1,TRUE
+1823,Kathy Bates,Kathy Bates,1,TRUE
+1824,Ryan Renolds,Ryan Reynolds,0.988,TRUE
+1825,Juacim Pheonix,Joaquin Phoenix,0.816,FALSE
+1826,Kristin Scott-Thomas,Kristin Scott Thomas,0.988,TRUE
+1827,Francis Mcdormand,Frances McDormand,0.898,TRUE
+1828,Jason Bateman,Jason Bateman,1,TRUE
+1829,Daniel Craig,Daniel Craig,1,TRUE
+1830,Lucy Liu,Lucy Liu,1,TRUE
+1831,Angelina Jolie,Angelina Jolie,1,TRUE
+1832,George Lopez,George Lopez,1,TRUE
+1833,Mary Steinbergen,Mary Steenburgen,0.968,TRUE
+1834,John Turtoro,John Turturro,0.966,TRUE
+1835,Adam Sandler,Adam Sandler,1,TRUE
+1836,Bruce Willis,Bruce Willis,1,TRUE
+1837,Catherine Keener,Catherine Keener,1,TRUE
+1838,Matthew Broderick,Matthew Broderick,1,TRUE
+1839,Holly HUnter,Holly Hunter,1,TRUE
+1840,Toni Colette,Toni Collette,0.99,TRUE
+1841,Danny Devito,Danny DeVito,1,TRUE
+1842,Demi Moore,Demi Moore,1,TRUE
+1843,Caterine Zeta Jones,Catherine Zeta-Jones,0.957,TRUE
+1844,Tommy Lee Jones,Tommy Lee Jones,1,TRUE
+1845,Rachel McAdams,Rachel McAdams,1,TRUE
+1846,Minnie Driver,Minnie Driver,1,TRUE
+1847,Stanley Tucci,Stanley Tucci,1,TRUE
+1848,Natalie Portman,Natalie Portman,1,TRUE
+1849,Will Farrel,Will Ferrell,0.94,TRUE
+1850,Michael Fasbender,Michael Fassbender,0.993,TRUE
+1851,Andy Garcia,Andy Garcia,1,TRUE
+1852,Dustin Hoffman,Dustin Hoffman,1,TRUE
+1853,Burt Reynolds,Burt Reynolds,1,TRUE
+1854,Tom Hanks,Tom Hanks,1,TRUE
+1855,Sam Worthington,Sam Worthington,1,TRUE
+1856,,Ellen Page,0,FALSE
+1857,Sharon Stone,Sharon Stone,1,TRUE
+1858,Anna Pacquin,Anna Paquin,0.988,TRUE
+1859,Guy Peirce,Guy Pearce,0.973,TRUE
+1860,Donald Sutherland,Donald Sutherland,1,TRUE
+1861,Meg Ryan,Meg Ryan,1,TRUE
+1862,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+1863,Tom Arnold,Tom Arnold,1,TRUE
+1864,Lindsey Lohann,Lindsay Lohan,0.899,TRUE
+1865,Martin Lawrence,Martin Lawrence,1,TRUE
+1866,Antonio Banderias,Antonio Banderas,0.997,TRUE
+1867,Jill Clayberg,Jill Clayburgh,0.979,TRUE
+1868,Eddie Murphy,Eddie Murphy,1,TRUE
+1869,Jackie Chan,Jackie Chan,1,TRUE
+1870,Charlize Therone,Charlize Theron,0.999,TRUE
+1871,Leonardo DeCapprio,Leonardo DiCaprio,0.956,TRUE
+1872,Joe Pesci,Joe Pesci,1,TRUE
+1873,Amanda Peet,Amanda Peet,1,TRUE
+1874,Sean Penn,Sean Penn,1,TRUE
+1875,Juliette Benoche,Juliette Binoche,0.968,TRUE
+1876,Selma Hyeck,Salma Hayek,0.856,TRUE
+1877,Emily Blunt,Emily Blunt,1,TRUE
+1878,Segorny Weaver,Sigourney Weaver,0.916,TRUE
+1879,Kevin Spacey,Kevin Spacey,1,TRUE
+1880,Larua Linney,Laura Linney,0.977,TRUE
+1881,Meryl Streep,Meryl Streep,1,TRUE
+1882,Charlie Sheen,Charlie Sheen,1,TRUE
+1883,Goldie Hawn,Goldie Hawn,1,TRUE
+1884,Morgan Friedman,Morgan Freeman,0.973,TRUE
+1885,PHilip Seymour hoffman,Philip Seymour Hoffman,1,TRUE
+1886,Helena Bohnam-Carter,Helena Bonham Carter,0.972,TRUE
+1887,Gwenyth Platrow,Gwyneth Paltrow,0.961,TRUE
+1888,Elizabeth Shu,Elisabeth Shue,0.942,TRUE
+1889,Robert Duval,Robert Duvall,0.998,TRUE
+1890,Ellen Degeneris,Ellen Degeneres,0.994,TRUE
+1891,Tom Hardy,Tom Hardy,1,TRUE
+1892,Rene Russo,Rene Russo,1,TRUE
+1893,Liv Tyler,Liv Tyler,1,TRUE
+1894,Marisa Tomei,Marisa Tomei,1,TRUE
+1895,Jesica Chastain,Jessica Chastain,0.911,TRUE
+1896,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+1898,Brad Pitt,Brad Pitt,1,TRUE
+1899,Brendan Frasier,Brendan Fraser,0.996,TRUE
+1900,Colin Farrell,Colin Farrell,1,TRUE
+1901,Michael J. Fox,Michael J. Fox,1,TRUE
+1902,Orlando Bloom,Orlando Bloom,1,TRUE
+1903,Jennifer Lawerence,Jennifer Lawrence,0.981,TRUE
+1904,Dennis miller,Dennis Miller,1,TRUE
+1905,Nathan Lane,Nathan Lane,1,TRUE
+1906,Tom Wilkenson,Tom Wilkinson,0.98,TRUE
+1907,Dennis Hopper,Dennis Hopper,1,TRUE
+1908,Uma THurmon,Uma Thurman,0.934,TRUE
+1909,Penelope Cruise,Penelope Cruz,0.982,TRUE
+1910,Laura Dern,Laura Dern,1,TRUE
+1911,Joe Pesci,Joe Pesci,1,TRUE
+1912,Catherine Zeta-Jones,Catherine Zeta-Jones,1,TRUE
+1913,Jonny Depp,Johnny Depp,0.975,TRUE
+1914,Emma Stone,Emma Stone,1,TRUE
+1915,Jack Balck,Jack Black,0.987,TRUE
+1916,Minnie Driver,Minnie Driver,1,TRUE
+1917,Christian Bale,Christian Bale,1,TRUE
+1918,Dennis Miller,Dennis Miller,1,TRUE
+1919,Liev Schriber,Liev Schreiber,0.982,TRUE
+1920,Time Blake Nelson,Tim Blake Nelson,0.915,TRUE
+1921,Dennis HOpper,Dennis Hopper,1,TRUE
+1922,Colin Firth,Colin Firth,1,TRUE
+1923,Gene Hackman,Gene Hackman,1,TRUE
+1924,Don Cheetle,Don Cheadle,0.942,TRUE
+1925,Rober Redford,Robert Redford,0.985,TRUE
+1926,Sissy Spacek,Sissy Spacek,1,TRUE
+1927,Bill PUllman,Bill Pullman,1,TRUE
+1928,Rachel McAdams,Rachel McAdams,1,TRUE
+1929,AMy Adams,Amy Adams,1,TRUE
+1930,Jeff Bridges,Jeff Bridges,1,TRUE
+1931,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+1932,Daryl Hannah,Daryl Hannah,1,TRUE
+1933,Ed Burns,Ed Burns,1,TRUE
+1934,Jeff Goldblum,Jeff Goldblum,1,TRUE
+1935,Candice Bergen,Candice Bergen,1,TRUE
+1936,Dustin Hoffman,Dustin Hoffman,1,TRUE
+1937,David Schwimmer,David Schwimmer,1,TRUE
+1938,Marie Louise Parker,Mary-Louise Parker,0.819,FALSE
+1939,Jeremy Irons,Jeremy Irons,1,TRUE
+1940,Halle Berrie,Halle Berry,0.986,TRUE
+1941,Donald Sutherland,Donald Sutherland,1,TRUE
+1942,Jim Carrey,Jim Carrey,1,TRUE
+1943,,Rob Schneider,0,FALSE
+1944,Rob Lowe,Rob Lowe,1,TRUE
+1945,Jennifer Aniston,Jennifer Aniston,1,TRUE
+1946,Gary Oldman,Gary Oldman,1,TRUE
+1947,Burt Reynolds,Burt Reynolds,1,TRUE
+1948,,Kenneth Branagh,0,FALSE
+1949,Jennifer Connely,Jennifer Connelly,0.998,TRUE
+1950,Bill Cosby,Bill Cosby,1,TRUE
+1951,Christoph Waltz,Christoph Waltz,1,TRUE
+1952,Edward NOrton,Edward Norton,1,TRUE
+1953,Hugh Grant,Hugh Grant,1,TRUE
+1954,Morgan Freeman,Morgan Freeman,1,TRUE
+1955,Keifer Sutherland,Kiefer Sutherland,0.982,TRUE
+1956,Kevin Spacey,Kevin Spacey,1,TRUE
+1957,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+1958,Leonardo De Capprio,Leonardo DiCaprio,0.946,TRUE
+1959,Tom Cruise,Tom Cruise,1,TRUE
+1960,Denzel Washington,Denzel Washington,1,TRUE
+1961,Richard Geare,Richard Gere,0.994,TRUE
+1962,Judy Dench,Judi Dench,0.953,TRUE
+1963,Tracy Ulman,Tracey Ullman,0.964,TRUE
+1964,James Mckevoy,James McAvoy,0.97,TRUE
+1965,Sharon Stone,Sharon Stone,1,TRUE
+1966,Jame Gandolfini,James Gandolfini,0.984,TRUE
+1967,Christian Slater,Christian Slater,1,TRUE
+1968,Mary Steenbergen,Mary Steenburgen,0.98,TRUE
+1969,Angelina JOlie,Angelina Jolie,1,TRUE
+1970,Jamie Foxx,Jamie Foxx,1,TRUE
+1971,Hope Davis,Hope Davis,1,TRUE
+1972,Alfred Molina,Alfred Molina,1,TRUE
+1973,Jennifer Lopez,Jennifer Lopez,1,TRUE
+1974,John Voit,Jon Voight,0.917,TRUE
+1975,Paul Giamatti,Paul Giamatti,1,TRUE
+1976,Jason Bateman,Jason Bateman,1,TRUE
+1977,Ellen Barken,Ellen Barkin,0.991,TRUE
+1978,Zack Galifinakis,Zach Galifianakis,0.932,TRUE
+1979,Jon Hamm,Jon Hamm,1,TRUE
+1980,Kurt Russel,Kurt Russell,0.998,TRUE
+1981,Paul Rudd,Paul Rudd,1,TRUE
+1982,Cate Blanchette,Cate Blanchett,0.999,TRUE
+1983,Debora Winger,Debra Winger,0.98,TRUE
+1984,Jeremy Renner,Jeremy Renner,1,TRUE
+1985,Mark Ruffalo,Mark Ruffalo,1,TRUE
+1986,,Seth Rogen,0,FALSE
+1987,Russel Crowe,Russell Crowe,0.986,TRUE
+1988,Uma Thurmon,Uma Thurman,0.989,TRUE
+1989,Tobey McGuire,Tobey Maguire,0.953,TRUE
+1990,John Leguzamo,John Leguizamo,0.991,TRUE
+1991,Ben Kingsley,Ben Kingsley,1,TRUE
+1992,Rosey Perez,Rosie Perez,0.956,TRUE
+1993,Val Kilmer,Val Kilmer,1,TRUE
+1994,Emily Blunt,Emily Blunt,1,TRUE
+1995,Orlando Bloome,Orlando Bloom,0.998,TRUE
+1996,Mackauly Caulkin,Macaulay Culkin,0.947,TRUE
+1997,John C. Riley,John C. Reilly,0.982,TRUE
+1998,Scarlett Johansan,Scarlett Johansson,0.991,TRUE
+1999,John Malcovitch,John Malkovich,0.944,TRUE
+2000,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+2001,William Hurt,William Hurt,1,TRUE
+2002,Ben Afleck,Ben Affleck,0.986,TRUE
+2003,Goldie Hawn,Goldie Hawn,1,TRUE
+2004,Anette Benning,Annette Bening,0.937,TRUE
+2005,Clive Owen,Clive Owen,1,TRUE
+2006,Sarah Jesica Parker,Sarah Jessica Parker,0.991,TRUE
+2007,Sally Fields,Sally Fields,1,TRUE
+2008,Anne Hathaway,Anne Hathaway,1,TRUE
+2009,Christopher Poummer,Christopher Plummer,0.989,TRUE
+2010,Sam Worthington,Sam Worthington,1,TRUE
+2011,Kevin Bacon,Kevin Bacon,1,TRUE
+2012,Michael Douglas,Michael Douglas,1,TRUE
+2013,Patricia  Arquette ,Patricia Arquette,1,TRUE
+2014,Elizabeth shue,Elizabeth Perkins,0.929,TRUE
+2015,Ben Affleck ,Ben Affleck,1,TRUE
+2016,Dustin Hoffman ,Dustin Hoffman,1,TRUE
+2017,Liam Neeson ,Liam Neeson,1,TRUE
+2018,Pierce Brosnan ,Pierce Brosnan,1,TRUE
+2019,Edward Norton ,Edward Norton,1,TRUE
+2020,Ewan  McGregor ,Ewan McGregor,1,TRUE
+2021,Brad Pitt ,Brad Pitt,1,TRUE
+2022,David Hasselhoff ,David Hasselhoff,1,TRUE
+2023,Michael J. Fox ,Michael J. Fox,1,TRUE
+2024,Joseph Gordon levit,Joseph Gordon-Levitt,0.97,TRUE
+2025,Ben stiller ,Ben Stiller,1,TRUE
+2026,Halle berrie ,Halle Berry,0.912,TRUE
+2027,Kender Sutherland ,Kiefer Sutherland,0.91,TRUE
+2028,Colin Farrell ,Colin Farrell,1,TRUE
+2029,Patricia Arquette ,Rosanna Arquette,0.706,FALSE
+2030,Steve Martin ,Steve Martin,1,TRUE
+2031,Kevin spacey,Kevin Spacey,1,TRUE
+2032,John tortutto,John Turturro,0.851,TRUE
+2033,Ian Holm,Ian Holm,1,TRUE
+2034,Burt Reynolds ,Burt Reynolds,1,TRUE
+2035,Ryan Reynolds,Ryan Reynolds,1,TRUE
+2036,Sarah Jessica Parker ,Sarah Jessica Parker,1,TRUE
+2037,Ellen Barkin ,Ellen Barkin,1,TRUE
+2038,Christian bale ,Christian Bale,1,TRUE
+2039,Macaulay calkin ,Macaulay Culkin,0.953,TRUE
+2040,Ryan Gosling,Ryan Gosling,1,TRUE
+2041,Bill Murray,Bill Murray,1,TRUE
+2042,Laura dern,Laura Dern,1,TRUE
+2043,Jeff goldblum,Jeff Goldblum,1,TRUE
+2044,Beau bridges,Beau Bridges,1,TRUE
+2045,Stanley Tucci,Stanley Tucci,1,TRUE
+2046,Toni Colette ,Toni Collette,0.98,TRUE
+2047,Giamatti ,Paul Giamatti,0.786,FALSE
+2048,Nathan lane,Nathan Lane,1,TRUE
+2049,Nathan lane,Kate Winslet,0.626,FALSE
+2050,Miranda Richardson,Miranda Richardson,1,TRUE
+2051,Don Cheadle ,Don Cheadle,1,TRUE
+2052,Alan Alda ,Alan Alda,1,TRUE
+2053,Maggie Gyllenhaal ,Joan Cusack,0.48,FALSE
+2054,Tracy Ullman ,Tracey Ullman,0.964,TRUE
+2055,Mary steinburgen,Mary Steenburgen,0.894,TRUE
+2056,Eva Mendez ,Eva Mendes,0.983,TRUE
+2057,Emma Thompson ,Helen Mirren,0.437,FALSE
+2058,U ,Gary Sinise,0.53,FALSE
+2059,Jerry Lewis,Jerry Lewis,1,TRUE
+2060,Robert De Niro ,Robert De Niro,1,TRUE
+2061,Mira sorvino ,Mira Sorvino,1,TRUE
+2062,Bill Pullman ,Bill Pullman,1,TRUE
+2063,Denzel Washington ,Denzel Washington,1,TRUE
+2064,David Schwimmer ,David Schwimmer,1,TRUE
+2065,Paul Newman ,Paul Newman,1,TRUE
+2066,Nick nolte,Nick Nolte,1,TRUE
+2067,Ralph finnes,Ralph Fiennes,0.941,TRUE
+2068,Albert Brooks ,Albert Brooks,1,TRUE
+2069,Paul Dano ,Paul Dano,1,TRUE
+2070,Owen Wilson ,Owen Wilson,1,TRUE
+2071,Kate Hudson ,Kate Hudson,1,TRUE
+2072,Angelina Jolie ,Angelina Jolie,1,TRUE
+2073,Bredden Frasier ,Brendan Fraser,0.848,FALSE
+2074,Meget Ryan ,Meg Ryan,0.934,TRUE
+2075,Harrison Ford,Harrison Ford,1,TRUE
+2076,,Jennifer Jason Leigh,0,FALSE
+2077,Hugh Grant,Hugh Grant,1,TRUE
+2078,Gene Hackman,Gene Hackman,1,TRUE
+2079,Scarlet Johanson,Scarlett Johansson,0.977,TRUE
+2080,Peter Sarsguard,Peter Sarsgaard,0.988,TRUE
+2081,Reese Witherspoon,Reese Witherspoon,1,TRUE
+2082,Alan Arkin,Alan Arkin,1,TRUE
+2083,Peter o'toole,Peter O'toole,1,TRUE
+2084,Jeremy Renner,Jeremy Renner,1,TRUE
+2085,Geofrey Rush,Geoffrey Rush,0.982,TRUE
+2086,Jack Black,Jack Black,1,TRUE
+2087,Candice Bergen,Candice Bergen,1,TRUE
+2088,Woody Allen,Woody Allen,1,TRUE
+2089,Willem Dafoe,Willem Dafoe,1,TRUE
+2090,Christoph Waltz,Christoph Waltz,1,TRUE
+2091,Judy Dench,Judi Dench,0.953,TRUE
+2092,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+2093,Selma Hyaek,Salma Hayek,0.854,TRUE
+2094,Glenn Close,Glenn Close,1,TRUE
+2095,Hope Davis,Hope Davis,1,TRUE
+2096,Clive Owen,Clive Owen,1,TRUE
+2097,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+2098,Al Pacino,Al Pacino,1,TRUE
+2099,Tom Wilkenson,Tom Wilkinson,0.98,TRUE
+2100,Ed BUrns,Ed Burns,1,TRUE
+2101,Cameron Diaz,Cameron Diaz,1,TRUE
+2102,Matthew Broderick,Matthew Broderick,1,TRUE
+2103,Michael Shannon,Michael Shannon,1,TRUE
+2104,Rosey Perez,Rosie Perez,0.956,TRUE
+2105,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+2106,Charlie Sheen,Charlie Sheen,1,TRUE
+2107,Dan Akyroid,Dan Aykroyd,0.949,TRUE
+2108,Mark Walberg,Mark Wahlberg,0.988,TRUE
+2109,John C. Reily,John C. Reilly,0.997,TRUE
+2110,Alan Rickman,Alan Rickman,1,TRUE
+2111,jeff goldblum,Jeff Goldblum,1,TRUE
+2112,Matthew Broderick,Matthew Broderick,1,TRUE
+2113,sandra bulock,Sandra Bullock,0.877,TRUE
+2114,Jude Law,Jude Law,1,TRUE
+2115,Penelope Cruise,Penelope Cruz,0.982,TRUE
+2116,George Lopex,George Lopez,0.995,TRUE
+2117,David Spade,David Spade,1,TRUE
+2118,Eva Mendez,Eva Mendes,0.993,TRUE
+2119,Emma Watson,Emma Watson,1,TRUE
+2120,Jennifer Jason Leigh,Jennifer Jason Leigh,1,TRUE
+2121,Charlize Theron,Charlize Theron,1,TRUE
+2122,Tea Leoni,Tea Leoni,1,TRUE
+2123,Peter Sarsguard,Peter Sarsgaard,0.988,TRUE
+2124,Mary Steenburgen,Mary Steenburgen,1,TRUE
+2125,Ed Burns,Ed Burns,1,TRUE
+2126,Jesica Chastain,Jessica Chastain,0.911,TRUE
+2127,Viggo Mortenson,Viggo Mortensen,0.994,TRUE
+2128,Blair Underwood,Blair Underwood,1,TRUE
+2129,Jon Hamm,Jon Hamm,1,TRUE
+2130,David Hasselhoff,David Hasselhoff,1,TRUE
+2131,Julia Roberts,Julia Roberts,1,TRUE
+2132,Catherine Zeta-Jones,Catherine Zeta-Jones,1,TRUE
+2133,Bruce Willis,Bruce Willis,1,TRUE
+2134,Jamie Bell,Jamie Bell,1,TRUE
+2135,Malcolm McDowell,Malcolm McDowell,1,TRUE
+2136,Cathleen Turner,Kathleen Turner,0.956,TRUE
+2137,Vince Vaugn,Vince Vaughn,0.995,TRUE
+2138,Anne Hathaway,Anne Hathaway,1,TRUE
+2139,Val Kilmer,Val Kilmer,1,TRUE
+2140,Blythe Danner,Blythe Danner,1,TRUE
+2141,Emma Stone,Emma Stone,1,TRUE
+2142,John Travolta,John Travolta,1,TRUE
+2143,Gene Hackman,Gene Hackman,1,TRUE
+2144,Nichole Kidman,Nicole Kidman,0.981,TRUE
+2145,Kate Hudson,Kate Hudson,1,TRUE
+2146,Michael Fasbender,Michael Fassbender,0.993,TRUE
+2147,Paul Newman,Paul Newman,1,TRUE
+2148,Don Cheadle,Don Cheadle,1,TRUE
+2149,David Schwimmer,David Schwimmer,1,TRUE
+2150,Michele Pfeiffer,Michelle Pfeiffer,0.987,TRUE
+2151,Rober De Niro,Robert De Niro,0.985,TRUE
+2152,Paul Dano,Paul Dano,1,TRUE
+2153,Joseph Gordon Levitt,Joseph Gordon-Levitt,0.988,TRUE
+2154,Rosana Arquette,Rosanna Arquette,0.986,TRUE
+2155,Sarah Jesica Parker,Sarah Jessica Parker,0.991,TRUE
+2156,Joan Cusack,Joan Cusack,1,TRUE
+2157,Adam Sandler,Adam Sandler,1,TRUE
+2158,Renee Zelwegger,Renee Zellweger,0.982,TRUE
+2159,Isabella Roselini,Isabella Rossellini,0.987,TRUE
+2160,Daniel Craig,Daniel Craig,1,TRUE
+2161,Woody Allen,Woody Allen,1,TRUE
+2162,Beau Bridges,Beau Bridges,1,TRUE
+2163,Mark Ruffolo,Mark Ruffalo,0.979,TRUE
+2164,Albert Finney,Albert Finney,1,TRUE
+2165,Javier Bardem,Javier Bardem,1,TRUE
+2166,Tom Arnold,Tom Arnold,1,TRUE
+2167,Mike Myers,Mike Myers,1,TRUE
+2168,,James McAvoy,0,FALSE
+2169,Seth Rogan,Seth Rogen,0.987,TRUE
+2170,Donald Sutherland,Donald Sutherland,1,TRUE
+2171,Mel Gibson,Mel Gibson,1,TRUE
+2172,MIra Sorvino,Mira Sorvino,1,TRUE
+2173,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+2174,Jack black,Jack Black,1,TRUE
+2175,Andie McDowell,Andie MacDowell,0.988,TRUE
+2176,Dennis Leary,Denis Leary,0.979,TRUE
+2177,Jim Carry,Jim Carrey,0.993,TRUE
+2178,Helena Bonham Carter,Helena Bonham Carter,1,TRUE
+2179,Kate Winslet,Kate Winslet,1,TRUE
+2180,Juliette Binoche,Juliette Binoche,1,TRUE
+2181,Liev Schriber,Liev Schreiber,0.982,TRUE
+2182,Kevin James,Kevin James,1,TRUE
+2183,Brook Shields,Brooke Shields,0.952,TRUE
+2184,Sharon Stone,Sharon Stone,1,TRUE
+2185,Hugh Grant,Hugh Grant,1,TRUE
+2186,Martin Lawrence,Martin Lawrence,1,TRUE
+2187,David Schwimmer,David Schwimmer,1,TRUE
+2188,Peter O'tool,Peter O'toole,0.998,TRUE
+2189,Jeff Daniels,Jeff Daniels,1,TRUE
+2190,Anthony Quinn,Anthony Quinn,1,TRUE
+2191,June,Ellen Page,0.4,FALSE
+2192,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+2193,Merryl Streep,Meryl Streep,0.916,TRUE
+2194,John Voit,Jon Voight,0.917,TRUE
+2195,Ian Holm,Ian Holm,1,TRUE
+2196,Christopher Walkin,Christopher Walken,0.996,TRUE
+2197,Tracy Ullman,Tracey Ullman,0.982,TRUE
+2198,,Rob Schneider,0,FALSE
+2199,Michelle Pfiffer,Michelle Pfeiffer,0.986,TRUE
+2200,Andie Mcdowell,Andie MacDowell,0.964,TRUE
+2201,Judy Dench,Judi Dench,0.953,TRUE
+2202,Jeffery Wright,Jeffrey Wright,0.983,TRUE
+2203,Brendan Fraiser,Brendan Fraser,0.994,TRUE
+2204,Matt Damon,Matt Damon,1,TRUE
+2205,Ed Harris,Ed Harris,1,TRUE
+2206,Demi Moore,Demi Moore,1,TRUE
+2207,tom Arnold,Tom Arnold,1,TRUE
+2208,Sally Fields,Sally Fields,1,TRUE
+2209,Sissy Spacek,Sissy Spacek,1,TRUE
+2210,Joe Pesci,Joe Pesci,1,TRUE
+2211,Adrien Brody,Adrien Brody,1,TRUE
+2212,Katherine Zeta-Jones,Catherine Zeta-Jones,0.967,TRUE
+2213,Sidney Poitier,Sidney Poitier,1,TRUE
+2214,Edward NOrton,Edward Norton,1,TRUE
+2215,Val Kilmer,Val Kilmer,1,TRUE
+2216,Lindsay Lowhan,Lindsay Lohan,0.993,TRUE
+2217,Barbara Hershey,Jill Clayburgh,0.443,FALSE
+2218,Kate Winslet,Kate Winslet,1,TRUE
+2219,Jason Bateman,Jason Bateman,1,TRUE
+2220,Bruce Willis,Bruce Willis,1,TRUE
+2221,Ellen Degeneris,Ellen Degeneres,0.994,TRUE
+2222,Bill Murray,Bill Murray,1,TRUE
+2223,Paul Newman,Paul Newman,1,TRUE
+2224,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+2225,Peter Gallagher,Peter Gallagher,1,TRUE
+2226,Peirce Brosnan,Pierce Brosnan,0.978,TRUE
+2227,Bradley Cooper,Bradley Cooper,1,TRUE
+2228,Naomi Watts,Naomi Watts,1,TRUE
+2229,Robin Williams,Robin Williams,1,TRUE
+2230,Will Ferrel,Will Ferrell,0.998,TRUE
+2231,Dennis Hopper,Dennis Hopper,1,TRUE
+2232,Peter Cyote,Peter Coyote,0.976,TRUE
+2233,Darryl Hannah,Daryl Hannah,0.98,TRUE
+2234,Peter Sarsguard,Peter Sarsgaard,0.988,TRUE
+2235,Jennifer Lopez,Jennifer Lopez,1,TRUE
+2236,Bill Cosby,Bill Cosby,1,TRUE
+2237,Chris Rock,Chris Rock,1,TRUE
+2238,John Malcovitch,John Malkovich,0.944,TRUE
+2239,Forest Wittaker,Forest Whitaker,0.979,TRUE
+2240,Elliot Gould,Elliott Gould,0.986,TRUE
+2241,Angelina Joli,Angelina Jolie,0.998,TRUE
+2242,Al Pacino,Al Pacino,1,TRUE
+2243,Chevy Chase,Chevy Chase,1,TRUE
+2244,Dan Akyroyd,Dan Aykroyd,0.983,TRUE
+2245,Helena Bonham Carter,Helena Bonham Carter,1,TRUE
+2246,Nick Nolte,Nick Nolte,1,TRUE
+2247,Rachel McAdams,Rachel McAdams,1,TRUE
+2248,Sarah Jesica Parker,Sarah Jessica Parker,0.991,TRUE
+2249,paul dano,Paul Dano,1,TRUE
+2250,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+2251,Drew Barymore,Drew Barrymore,0.968,TRUE
+2252,David Spade,David Spade,1,TRUE
+2253,Kyle McGlauklan,Kyle MacLachlan,0.875,TRUE
+2254,Tom Cruise,Tom Cruise,1,TRUE
+2255,Sygourney Weaver,Sigourney Weaver,0.898,TRUE
+2256,Jennifer Connely,Jennifer Connelly,0.998,TRUE
+2257,Macauly Calkin,Macaulay Culkin,0.958,TRUE
+2258,Jamie Foxx,Jamie Foxx,1,TRUE
+2259,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+2260,Kathlene Turner,Kathleen Turner,0.987,TRUE
+2261,Helen Hunt,Helen Hunt,1,TRUE
+2262,Brad Pitt,Brad Pitt,1,TRUE
+2263,Debora Winger,Debra Winger,0.98,TRUE
+2264,Laura Liney,Laura Linney,0.993,TRUE
+2265,Roy Schider,Roy Scheider,0.976,TRUE
+2266,Liv Tyler,Liv Tyler,1,TRUE
+2267,Ben Afleck,Ben Affleck,0.986,TRUE
+2268,Keano reeves,Keanu Reeves,0.926,TRUE
+2269,,Mickey Rourke,0,FALSE
+2270,Brian Cox,Brian Cox,1,TRUE
+2271,Beau Bridges,Beau Bridges,1,TRUE
+2272,Jerry Lewis,Jerry Lewis,1,TRUE
+2273,Paul Giamatti,Paul Giamatti,1,TRUE
+2274,,Kenneth Branagh,0,FALSE
+2275,Denzel Washington,Denzel Washington,1,TRUE
+2276,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+2277,Arnold Schwarzenneger,Arnold Schwarzenegger,0.992,TRUE
+2278,Jennifer Jason Lee,Jennifer Jason Leigh,0.99,TRUE
+2279,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+2280,Julia roberts,Julia Roberts,1,TRUE
+2281,Sarah Jessica Parker ,Sarah Jessica Parker,1,TRUE
+2282,Kevin Cosner,Kevin Costner,0.992,TRUE
+2283,Kiefer Sutherland ,Kiefer Sutherland,1,TRUE
+2284,Tom wilkenson,Tom Wilkinson,0.929,TRUE
+2285,Emma watson,Emma Watson,1,TRUE
+2286,John cusack,John Cusack,1,TRUE
+2287,Blair underwood ,Blair Underwood,1,TRUE
+2288,Sean Penn,Sean Penn,1,TRUE
+2289,Michael Shannon ,Michael Shannon,1,TRUE
+2290,Harrison Ford,Harrison Ford,1,TRUE
+2291,Renee russo,Rene Russo,0.94,TRUE
+2292,Drew barrymore,Drew Barrymore,1,TRUE
+2293,Beau bridges,Beau Bridges,1,TRUE
+2294,Bill Cosby,Bill Cosby,1,TRUE
+2295,,Emily Blunt,0,FALSE
+2296,Jake Jyllenhall,Jake Gyllenhaal,0.941,TRUE
+2297,Candice Bergen,Candice Bergen,1,TRUE
+2298,Jack black ,Jack Black,1,TRUE
+2299,Kate Winslet ,Kate Winslet,1,TRUE
+2300,Josh Brolin ,Josh Brolin,1,TRUE
+2301,Nicholas cage,Nicholas Cage,1,TRUE
+2302,Nicole Kidman ,Nicole Kidman,1,TRUE
+2303,Greg kinear,Greg Kinnear,0.95,TRUE
+2304,Ryan Gosling,Ryan Gosling,1,TRUE
+2305,John Travolta,John Travolta,1,TRUE
+2306,Elliot Gould ,Elliott Gould,0.972,TRUE
+2307,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+2308,Toni Colette ,Toni Collette,0.98,TRUE
+2309,Francis mcdormand,Frances McDormand,0.867,TRUE
+2310,David spade,David Spade,1,TRUE
+2311,Bridget Fonda,Bridget Fonda,1,TRUE
+2312,Marisa Tomei ,Marisa Tomei,1,TRUE
+2313,Ewan  McGregor ,Ewan McGregor,1,TRUE
+2314,John hawkes,John Hawkes,1,TRUE
+2317,Mark wahlberg,Mark Wahlberg,1,TRUE
+2320,Danny Glover,Danny Glover,1,TRUE
+2323,Jim carrey,Jim Carrey,1,TRUE
+2326,Brooke shields ,Brooke Shields,1,TRUE
+2329,Tea leoni,Tea Leoni,1,TRUE
+2332,Sean Connery ,Sean Connery,1,TRUE
+2335,David Schwimmer ,David Schwimmer,1,TRUE
+2338,Holly hunter ,Holly Hunter,1,TRUE
+2341,Val Kilmer ,Val Kilmer,1,TRUE
+2344,John Malkovich ,John Malkovich,1,TRUE
+2347,Orlando Bloome,Orlando Bloom,0.998,TRUE
+2350,Juliette Binoche,Juliette Binoche,1,TRUE
+2353,Adrien brody,Adrien Brody,1,TRUE
+2356,Jack Nicholson ,Jack Nicholson,1,TRUE
+2359,Guy peirce,Guy Pearce,0.92,TRUE
+2362,Bradley Cooper ,Bradley Cooper,1,TRUE
+2364,Kenneth Branaugh,Kenneth Branagh,0.996,TRUE
+2367,Debora winger ,Debra Winger,0.922,TRUE
+2370,Kathy bates,Kathy Bates,1,TRUE
+2373,Zach Galifianakis ,Zach Galifianakis,1,TRUE
+2376,Kevin spacey,Kevin Spacey,1,TRUE
+2379,,Goldie Hawn,0,FALSE
+2381,Sally Fields,Sally Fields,1,TRUE
+2384,Elijah Wood,Elijah Wood,1,TRUE
+2387,Sharon Stone,Sharon Stone,1,TRUE
+2390,Guy Peirce,Guy Pearce,0.973,TRUE
+2393,Ellen Barkin,Ellen Barkin,1,TRUE
+2396,Sean Penn,Sean Penn,1,TRUE
+2399,Leonardo DeCapprio,Leonardo DiCaprio,0.956,TRUE
+2402,Tom Hanks,Tom Hanks,1,TRUE
+2405,Alan Arkin,Alan Arkin,1,TRUE
+2408,Willem Defoe,Willem Dafoe,0.971,TRUE
+2411,MIchelle Pfiffer,Michelle Pfeiffer,0.923,TRUE
+2414,Harrison Ford,Harrison Ford,1,TRUE
+2417,Sean Connery,Sean Connery,1,TRUE
+2420,Jane Fonda,Jane Fonda,1,TRUE
+2423,Cameron Diaz,Cameron Diaz,1,TRUE
+2426,Jeremy Renner,Jeremy Renner,1,TRUE
+2429,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+2432,Dustin Hoffman,Dustin Hoffman,1,TRUE
+2435,Clint Eastwood,Clint Eastwood,1,TRUE
+2438,Jeffrey Wright,Jeffrey Wright,1,TRUE
+2441,Selma Hyeck,Salma Hayek,0.856,TRUE
+2444,David Hasselhoff,David Hasselhoff,1,TRUE
+2447,Jon Voight,Jon Voight,1,TRUE
+2450,Anna Paquin,Anna Paquin,1,TRUE
+2453,Liam Neeson,Liam Neeson,1,TRUE
+2456,Jeff Goldblum,Jeff Goldblum,1,TRUE
+2459,David Spade,David Spade,1,TRUE
+2462,Ben Stiller,Ben Stiller,1,TRUE
+2465,Rosie Perez,Rosie Perez,1,TRUE
+2468,Javier Bardem,Javier Bardem,1,TRUE
+2471,Mike Myers,Mike Myers,1,TRUE
+2474,Rob Lowe,Rob Lowe,1,TRUE
+2315,Charlie Sheene,Charlie Sheen,0.998,TRUE
+2318,Penelope Cruze,Salma Hayek,0.385,FALSE
+2321,Leonardo de caprio ,Leonardo DiCaprio,0.898,TRUE
+2324,Ben Affleck ,Ben Affleck,1,TRUE
+2327,Jim Balushi,Jim Belushi,0.967,TRUE
+2330,Morgan  freeman ,Morgan Freeman,1,TRUE
+2333,Martin Lawrence ,Martin Lawrence,1,TRUE
+2336,Robin Williams ,Robin Williams,1,TRUE
+2339,Rachel MacAdams,Rachel McAdams,0.967,TRUE
+2342,Al Pacino ,Al Pacino,1,TRUE
+2345,Kim basinger,Kim Basinger,1,TRUE
+2348,Jodie foster ,Jodie Foster,1,TRUE
+2351,Jeremy irons,Jeremy Irons,1,TRUE
+2354,Brian cox,Brian Cox,1,TRUE
+2357,Ellen page,Ellen Page,1,TRUE
+2360,John Goodman ,John Goodman,1,TRUE
+2363,Ed burns,Ed Burns,1,TRUE
+2365,Kelly Macadams,Kelly MacDonald,0.936,TRUE
+2368,Brad Pitt ,Brad Pitt,1,TRUE
+2371,Paul giamatti,Paul Giamatti,1,TRUE
+2374,Miranda Richardson,Miranda Richardson,1,TRUE
+2377,Philip seymour hoffman,Philip Seymour Hoffman,1,TRUE
+2382,Peter Gallagher,Peter Gallagher,1,TRUE
+2385,Ben Afleck,Ben Affleck,0.986,TRUE
+2388,Elliot Gould,Elliott Gould,0.986,TRUE
+2391,Sam Worthington,Sam Worthington,1,TRUE
+2394,Rene Russo,Rene Russo,1,TRUE
+2397,Anthony Quinn,Anthony Quinn,1,TRUE
+2400,Adrien Brody,Adrien Brody,1,TRUE
+2403,Jodie Foster,Jodie Foster,1,TRUE
+2406,Nathan Lane,Nathan Lane,1,TRUE
+2409,Jack Black,Jack Black,1,TRUE
+2412,Michael Shannon,Michael Shannon,1,TRUE
+2415,Jamie Bell,Jamie Bell,1,TRUE
+2418,Tom Cruise,Tom Cruise,1,TRUE
+2421,Willem Hurt,William Hurt,0.943,TRUE
+2424,Catherine Zeta-Jones,Catherine Zeta-Jones,1,TRUE
+2427,Christopher Walken,Christopher Walken,1,TRUE
+2430,George Leguzamo,John Leguizamo,0.727,FALSE
+2433,Patricia Arquette,Patricia Arquette,1,TRUE
+2436,Alfred Molina,Alfred Molina,1,TRUE
+2439,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+2442,Burt Reynolds,Burt Reynolds,1,TRUE
+2445,,Jonah Hill,0,FALSE
+2448,Helen Hunt,Helen Hunt,1,TRUE
+2451,Mary Louise Parker,Mary-Louise Parker,0.925,TRUE
+2454,Winona Ryder,Winona Ryder,1,TRUE
+2457,Rene Zelwegger,Renee Zellweger,0.875,TRUE
+2460,Alan Aldas,Alan Alda,0.997,TRUE
+2463,Ethan Hawke,Ethan Hawke,1,TRUE
+2466,Martin Sheen,Martin Sheen,1,TRUE
+2469,Brendan Fraiser,Brendan Fraser,0.994,TRUE
+2472,Peter Cayote,Peter Coyote,0.964,TRUE
+2475,Hugh Grant,Hugh Grant,1,TRUE
+2316,Woody allen ,Woody Allen,1,TRUE
+2319,Christopher Walken ,Christopher Walken,1,TRUE
+2322,Uma Thurman ,Uma Thurman,1,TRUE
+2325,Matthew broderick,Matthew Broderick,1,TRUE
+2328,Jeffrey rush,Geoffrey Rush,0.868,TRUE
+2331,Renee zelwiger,Renee Zellweger,0.915,TRUE
+2334,Ben Kingsley ,Ben Kingsley,1,TRUE
+2337,Alec Baldwin ,Alec Baldwin,1,TRUE
+2340,Chris Cooper ,Chris Cooper,1,TRUE
+2343,Emma stone,Emma Stone,1,TRUE
+2346,Joseph Gordon levit,Joseph Gordon-Levitt,0.97,TRUE
+2349,Jerry Lewis,Jerry Lewis,1,TRUE
+2352,Sam shepard,Sam Shepard,1,TRUE
+2355,Joan cusack,Joan Cusack,1,TRUE
+2358,Penelope Cruze,Penelope Cruz,0.998,TRUE
+2361,Cate Blanchett ,Cate Blanchett,1,TRUE
+2366,Kevin James,Kevin James,1,TRUE
+2369,Peter O'toole,Peter O'toole,1,TRUE
+2372,Gwenneth Paltrow,Gwyneth Paltrow,0.923,TRUE
+2375,Lucy liu,Lucy Liu,1,TRUE
+2378,Hugh Grant ,Hugh Grant,1,TRUE
+2380,Frank Langella,Frank Langella,1,TRUE
+2383,Colin Firth,Colin Firth,1,TRUE
+2386,Steve Martin,Steve Martin,1,TRUE
+2389,Ed Haris,Ed Harris,0.985,TRUE
+2392,Helena Bonham-Carter,Helena Bonham Carter,0.988,TRUE
+2395,Bridgette Fonda,Bridget Fonda,0.976,TRUE
+2398,Mell Gibson,Mel Gibson,0.978,TRUE
+2401,Kelly McAdams,Kelly MacDonald,0.882,TRUE
+2404,Bradley Cooper,Bradley Cooper,1,TRUE
+2407,Arnold Schwartzenegger,Arnold Schwarzenegger,0.994,TRUE
+2410,Catherine Keener,Catherine Keener,1,TRUE
+2413,Sandra Bullock,Sandra Bullock,1,TRUE
+2416,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+2419,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+2422,Naomi Watts,Naomi Watts,1,TRUE
+2425,Demi Moore,Demi Moore,1,TRUE
+2428,Gene Hackman,Gene Hackman,1,TRUE
+2431,John Cusack,John Cusack,1,TRUE
+2434,Christopher Plumber,Christopher Plummer,0.994,TRUE
+2437,Chris Rock,Chris Rock,1,TRUE
+2440,Gabriel Bryne,Gabriel Byrne,0.992,TRUE
+2443,Ryan Reynolds,Ryan Reynolds,1,TRUE
+2446,Andy Garcia,Andy Garcia,1,TRUE
+2449,Joseph Gordon Levitt,Joseph Gordon-Levitt,0.988,TRUE
+2452,Jerry Lewis,Jerry Lewis,1,TRUE
+2455,Jennifer Connely,Jennifer Connelly,0.998,TRUE
+2458,Billy Crystal,Billy Crystal,1,TRUE
+2461,Ed Burns,Ed Burns,1,TRUE
+2464,Jennifer Jason Leigh,Jennifer Jason Leigh,1,TRUE
+2467,Rosana Arquette,Rosanna Arquette,0.986,TRUE
+2470,Morgan Freeman,Morgan Freeman,1,TRUE
+2473,Francis Mcdormand,Frances McDormand,0.898,TRUE
+2476,Jason Bateman,Jason Bateman,1,TRUE
+2477,Danny Devito,Danny DeVito,1,TRUE
+2478,Ellen Degeneres,Ellen Degeneres,1,TRUE
+2479,Kate Winslet,Kate Winslet,1,TRUE
+2480,Jackie Chan ,Jackie Chan,1,TRUE
+2481,Jackie Chan ,Ben Stiller,0.396,FALSE
+2482,Sharon stone ,Sharon Stone,1,TRUE
+2483,Ben Kingsley ,Ben Kingsley,1,TRUE
+2484,Joakim Phoenix ,Joaquin Phoenix,0.827,FALSE
+2485,Josh brolin,Josh Brolin,1,TRUE
+2486,Jeremy irons ,Jeremy Irons,1,TRUE
+2487,Tom Cruise ,Tom Cruise,1,TRUE
+2488,Andie MacDowell ,Andie MacDowell,1,TRUE
+2489,Kevin Costner ,Kevin Costner,1,TRUE
+2490,Paul Giamatti ,Paul Giamatti,1,TRUE
+2491,Gene Hackman ,Gene Hackman,1,TRUE
+2492,Marion Cotillard ,Marion Cotillard,1,TRUE
+2493,John Turturro ,John Turturro,1,TRUE
+2494,Joan  Cusack ,Joan Cusack,1,TRUE
+2495,Kevin James ,Kevin James,1,TRUE
+2496,Blythe danner ,Blythe Danner,1,TRUE
+2497,Liev Schreiber ,Liev Schreiber,1,TRUE
+2498,David ducovney ,David Duchovny,0.931,TRUE
+2501,Chris Rock ,Chris Rock,1,TRUE
+2504,John c. Rilley ,John C. Reilly,0.937,TRUE
+2507,Will Smith ,Will Smith,1,TRUE
+2510,Oliver Platt ,Oliver Platt,1,TRUE
+2513,Laura linney,Laura Linney,1,TRUE
+2516,Paul Newman ,Paul Newman,1,TRUE
+2519,Jack Nicholson ,Jack Nicholson,1,TRUE
+2522,Jerry Lewis ,Jerry Lewis,1,TRUE
+2525,Brooke shields ,Brooke Shields,1,TRUE
+2528,Laura  dern,Laura Dern,1,TRUE
+2531,Harrison Ford ,Harrison Ford,1,TRUE
+2534,Uma Thurman ,Uma Thurman,1,TRUE
+2537,Scarlett Johansen ,Scarlett Johansson,0.988,TRUE
+2540,Alec Baldwin ,Alec Baldwin,1,TRUE
+2543,Blair underwood ,Blair Underwood,1,TRUE
+2546,Anne Hathaway ,Anne Hathaway,1,TRUE
+2549,Sam Worthington ,Sam Worthington,1,TRUE
+2552,Meg Ryan ,Meg Ryan,1,TRUE
+2555,Dennis learey,Denis Leary,0.918,TRUE
+2558,Al Pacino ,Al Pacino,1,TRUE
+2561,Christian bale ,Christian Bale,1,TRUE
+2564,Elliot Gould ,Elliott Gould,0.972,TRUE
+2567,Christopher plummer,Christopher Plummer,1,TRUE
+2570,Amanda Peet ,Amanda Peet,1,TRUE
+2573,Cathy Bates ,Kathy Bates,0.914,TRUE
+2576,Robert De Niro ,Robert De Niro,1,TRUE
+2579,Kim bassinger,Kim Basinger,0.945,TRUE
+2499,Jake  Gyllenhaal ,Jake Gyllenhaal,1,TRUE
+2502,Richard gere ,Richard Gere,1,TRUE
+2505,Benicio del torro ,Benicio Del Toro,0.936,TRUE
+2508,Leonardo de caprio ,Leonardo DiCaprio,0.898,TRUE
+2511,Morgen Freeman ,Morgan Freeman,0.912,TRUE
+2514,Bradley Cooper ,Bradley Cooper,1,TRUE
+2517,Winona Ryder ,Winona Ryder,1,TRUE
+2520,Jessica Chastain ,Jessica Chastain,1,TRUE
+2523,Kurt Russell ,Kurt Russell,1,TRUE
+2526,Cate Blanchett ,Cate Blanchett,1,TRUE
+2529,Viggo Mortensen ,Viggo Mortensen,1,TRUE
+2532,Kate Hudson ,Kate Hudson,1,TRUE
+2535,Michael fassbender,Michael Fassbender,1,TRUE
+2538,Kiefer Sutherland ,Kiefer Sutherland,1,TRUE
+2541,Colin firth,Colin Firth,1,TRUE
+2544,Francis macdormand,Frances McDormand,0.852,TRUE
+2547,Jonas voit,Jon Voight,0.86,TRUE
+2550,Eddie Murphy ,Eddie Murphy,1,TRUE
+2553,Ethan Hawke ,Ethan Hawke,1,TRUE
+2556,Martin Lawrence ,Martin Lawrence,1,TRUE
+2559,Dennis Miller ,Dennis Miller,1,TRUE
+2562,Hope Davis ,Hope Davis,1,TRUE
+2565,Miranda Richardson ,Miranda Richardson,1,TRUE
+2568,Tracy Ullman ,Tracey Ullman,0.964,TRUE
+2571,Robert Downey jr,Robert Downey Jr.,0.989,TRUE
+2574,Edward Norton ,Edward Norton,1,TRUE
+2577,Emma stone ,Emma Stone,1,TRUE
+2500,Jennifer Lopez ,Jennifer Lopez,1,TRUE
+2503,Billy crystal ,Billy Crystal,1,TRUE
+2506,Jamie Foxx ,Jamie Foxx,1,TRUE
+2509,Steve Martin ,Steve Martin,1,TRUE
+2512,James McAvoy ,James McAvoy,1,TRUE
+2515,Matthew Broderick ,Matthew Broderick,1,TRUE
+2518,Jude law ,Jude Law,1,TRUE
+2521,Jennifer Lawrence ,Jennifer Lawrence,1,TRUE
+2524,Jeremy Renner ,Jeremy Renner,1,TRUE
+2527,Brenden Frasier ,Brendan Fraser,0.923,TRUE
+2530,Nathan lane ,Nathan Lane,1,TRUE
+2533,Daniel day Lewis ,Daniel Day-Lewis,0.941,TRUE
+2536,Tim Blake Nelson ,Tim Blake Nelson,1,TRUE
+2539,Emma Watson ,Emma Watson,1,TRUE
+2542,Vince Vaughan ,Vince Vaughn,0.99,TRUE
+2545,David Hasselhoff ,David Hasselhoff,1,TRUE
+2548,Ryan gosling,Ryan Gosling,1,TRUE
+2551,Hugh Jackman ,Hugh Jackman,1,TRUE
+2554,Chris Cooper ,Chris Cooper,1,TRUE
+2557,Marisa Tomei ,Marisa Tomei,1,TRUE
+2560,John Travolta ,John Travolta,1,TRUE
+2563,Hugh Grant ,Hugh Grant,1,TRUE
+2566,Sally fields,Sally Fields,1,TRUE
+2569,Jim Carey ,Jim Carrey,0.98,TRUE
+2572,Willem Dafoe ,Willem Dafoe,1,TRUE
+3289,Liam Neeson,Liam Neeson,1,TRUE
+2575,Will Farrell ,Will Ferrell,0.941,TRUE
+2578,Toni Colette ,Toni Collette,0.98,TRUE
+2580,Adrien Brody,Adrien Brody,1,TRUE
+2581,Eddie murphy,Eddie Murphy,1,TRUE
+2582,Tim Robbins,Tim Robbins,1,TRUE
+2583,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+2584,George Lopez,George Lopez,1,TRUE
+2585,Miranda Richardson,Miranda Richardson,1,TRUE
+2586,Jamie Bell,Jamie Bell,1,TRUE
+2587,Chris Cooper,Chris Cooper,1,TRUE
+2588,Paul Dano,Paul Dano,1,TRUE
+2589,Meg Ryan,Meg Ryan,1,TRUE
+2590,Christopher Walken,Christopher Walken,1,TRUE
+2591,David Schwimmer,David Schwimmer,1,TRUE
+2592,Catherine Zeta-Jones,Catherine Zeta-Jones,1,TRUE
+2593,Christoph Waltz,Christoph Waltz,1,TRUE
+2594,Daniel Day Lewis,Daniel Day-Lewis,0.984,TRUE
+2595,Catherine Keener,Catherine Keener,1,TRUE
+2596,Holly Hunter,Holly Hunter,1,TRUE
+2597,Mckauley Caulkin,Macaulay Culkin,0.851,TRUE
+2598,Liev Schriber,Liev Schreiber,0.982,TRUE
+2599,Sigorney Weaver,Sigourney Weaver,0.984,TRUE
+2600,Donald Sutherland,Donald Sutherland,1,TRUE
+2601,Tim Burton,Tim Blake Nelson,0.802,FALSE
+2602,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+2603,Martin Sheen,Martin Sheen,1,TRUE
+2604,Clive Owen,Clive Owen,1,TRUE
+2605,Guy Peirce,Guy Pearce,0.973,TRUE
+2606,Emma Watson,Emma Watson,1,TRUE
+2607,Anthony Quinn,Anthony Quinn,1,TRUE
+2608,Mark Wahlburg,Mark Wahlberg,0.988,TRUE
+2609,Michael Douglas,Michael Douglas,1,TRUE
+2610,Michael Shannon,Michael Shannon,1,TRUE
+2611,Amy Adams,Amy Adams,1,TRUE
+2612,Meryl Streep,Meryl Streep,1,TRUE
+2613,Colin Firth,Colin Firth,1,TRUE
+2614,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+2615,John Travolta,John Travolta,1,TRUE
+2616,Greg Kineer,Greg Kinnear,0.971,TRUE
+2617,Ian Holm,Ian Holm,1,TRUE
+2618,Sam Shepard,Sam Shepard,1,TRUE
+2619,Laura Linney,Laura Linney,1,TRUE
+2620,Brendan Frasier,Brendan Fraser,0.996,TRUE
+2621,John C. Rielly,John C. Reilly,0.991,TRUE
+2622,Sharon Stone,Sharon Stone,1,TRUE
+2623,Joseph Gordon Levitt,Joseph Gordon-Levitt,0.988,TRUE
+2624,Jonny Depp,Johnny Depp,0.975,TRUE
+2625,Kevin Spacey,Kevin Spacey,1,TRUE
+2626,Rickey Gervais,Ricky Gervais,0.946,TRUE
+2627,Havier Bardem,Javier Bardem,0.949,TRUE
+2628,Peter Sarsguard,Peter Sarsgaard,0.988,TRUE
+2631,Anette Benning,Annette Bening,0.937,TRUE
+2634,Leonardo De Caprio,Leonardo DiCaprio,0.956,TRUE
+2637,Laura Dern,Laura Dern,1,TRUE
+2640,Peter Coyote,Peter Coyote,1,TRUE
+2643,Willem Defoe,Willem Dafoe,0.971,TRUE
+2646,Steve Carrel,Steve Carell,0.986,TRUE
+2649,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+2629,Emily Blunt,Emily Blunt,1,TRUE
+2632,Kenneth Branaugh,Kenneth Branagh,0.996,TRUE
+2635,Alec Baldwin,Alec Baldwin,1,TRUE
+2638,Marion Cottelard,Marion Cotillard,0.969,TRUE
+2641,Michael J. Fox,Michael J. Fox,1,TRUE
+2644,Kevin James,Kevin James,1,TRUE
+2647,Zack Galifanakis,Zach Galifianakis,0.914,TRUE
+2630,Judy Dench,Judi Dench,0.953,TRUE
+2633,Sean Penn,Sean Penn,1,TRUE
+2636,Tilda Swinton,Tilda Swinton,1,TRUE
+2639,Edward Nortno,Edward Norton,0.996,TRUE
+2642,Dennis MIller,Dennis Miller,1,TRUE
+2645,Jennifer Lopez,Jennifer Lopez,1,TRUE
+2648,Geoffrey Rush,Geoffrey Rush,1,TRUE
+2650,Michael Fasbender,Michael Fassbender,0.993,TRUE
+2651,Peter Ghallager,Peter Gallagher,0.976,TRUE
+2652,Al Pacino,Al Pacino,1,TRUE
+2653,Dennis Hopper,Dennis Hopper,1,TRUE
+2654,Bill Pullman,Bill Pullman,1,TRUE
+2655,Jeff Bridges,Jeff Bridges,1,TRUE
+2656,Steven Segal,Steven Seagal,0.984,TRUE
+2657,Kelly MacDonald,Kelly MacDonald,1,TRUE
+2658,Gabriel Byrne,Gabriel Byrne,1,TRUE
+2659,Reese Witherspoon,Reese Witherspoon,1,TRUE
+2660,Paul Newman,Paul Newman,1,TRUE
+2661,Lindsay Lowhan,Lindsay Lohan,0.993,TRUE
+2662,Albert Brooks,Albert Brooks,1,TRUE
+2663,Jimmy Smits,Jimmy Smits,1,TRUE
+2664,Jennifer Connely,Jennifer Connelly,0.998,TRUE
+2665,Paul Giamatti,Paul Giamatti,1,TRUE
+2666,Cate Blanchett,Cate Blanchett,1,TRUE
+2667,Liam Neeson,Liam Neeson,1,TRUE
+2668,Emma STone,Emma Stone,1,TRUE
+2669,Roy Scheider,Roy Scheider,1,TRUE
+2670,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+2671,Kurt Russell,Kurt Russell,1,TRUE
+2672,Daryl Hannah,Daryl Hannah,1,TRUE
+2673,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+2674,Dan Akyroyd,Dan Aykroyd,0.983,TRUE
+2675,Sissy Spaseck,Sissy Spacek,0.984,TRUE
+2676,Jamie Foxx,Jamie Foxx,1,TRUE
+2677,Tracy Ullman,Tracey Ullman,0.982,TRUE
+2678,Halley Berry,Halle Berry,0.948,TRUE
+2679,Jennifer Jason Lee,Jennifer Jason Leigh,0.99,TRUE
+2680,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+2681,Michael Shannon,Michael Shannon,1,TRUE
+2682,Chevy Chase,Chevy Chase,1,TRUE
+2683,Minni Driver,Minnie Driver,0.933,TRUE
+2684,Rosie Lopez,Rosie Perez,0.917,TRUE
+2685,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+2686,Dennis Miller,Dennis Miller,1,TRUE
+2687,Hugh Grant,Hugh Grant,1,TRUE
+2688,Lucy Liu,Lucy Liu,1,TRUE
+2689,Liv Tyler,Liv Tyler,1,TRUE
+2690,Reese WItherspoon,Reese Witherspoon,1,TRUE
+2691,Emma Thompson,Emma Thompson,1,TRUE
+2692,Sally Fields,Sally Fields,1,TRUE
+2693,Brad Pitt,Brad Pitt,1,TRUE
+2694,Ben Afleck,Ben Affleck,0.986,TRUE
+2695,Bill PUllman,Bill Pullman,1,TRUE
+2696,Gary Oldman,Gary Oldman,1,TRUE
+2697,Jodie Foster,Jodie Foster,1,TRUE
+2698,Marisa Tomei,Marisa Tomei,1,TRUE
+2699,Richard Guere,Richard Gere,0.992,TRUE
+2700,Al Pacino,Al Pacino,1,TRUE
+2701,Will Smith,Will Smith,1,TRUE
+2702,Alec Baldwin,Alec Baldwin,1,TRUE
+2703,Ben Kingsley,Ben Kingsley,1,TRUE
+2704,Jennifer Lopez,Jennifer Lopez,1,TRUE
+2705,Halie Berry,Halle Berry,0.956,TRUE
+2706,Selma Hyeck,Salma Hayek,0.856,TRUE
+2707,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+2708,Mat Damon,Matt Damon,0.977,TRUE
+2709,Albert Brooks,Albert Brooks,1,TRUE
+2710,Peter Coyote,Peter Coyote,1,TRUE
+2711,Isabella Rossellini,Isabella Rossellini,1,TRUE
+2712,Guy Peirce,Guy Pearce,0.973,TRUE
+2713,Jeremy Irons,Jeremy Irons,1,TRUE
+2714,Russel Crowe,Russell Crowe,0.986,TRUE
+2715,Naomi Watts,Naomi Watts,1,TRUE
+2716,Mike Myers,Mike Myers,1,TRUE
+2717,Jesica Chastain,Jessica Chastain,0.911,TRUE
+2718,Kathlene Turner,Kathleen Turner,0.987,TRUE
+2719,Alan Rickman,Alan Rickman,1,TRUE
+2722,Malcolm McDowel,Malcolm McDowell,0.999,TRUE
+2725,Juakim Pheonix,Joaquin Phoenix,0.816,FALSE
+2730,Charlie sheen,Charlie Sheen,1,TRUE
+2733,Sally fields,Sally Fields,1,TRUE
+2736,Toni Colette ,Toni Collette,0.98,TRUE
+2739,Tom hanks,Tom Hanks,1,TRUE
+2742,Brian cox,Brian Cox,1,TRUE
+2746,Bill  Cosby ,Bill Cosby,1,TRUE
+2749,Val Kilmer ,Val Kilmer,1,TRUE
+2752,Ethan Hawke ,Ethan Hawke,1,TRUE
+2755,Mickey Rourke ,Mickey Rourke,1,TRUE
+2758,Jamie Lee Curtis ,Jamie Lee Curtis,1,TRUE
+2761,Nicole Kidman ,Nicole Kidman,1,TRUE
+2764,Hope Davis ,Hope Davis,1,TRUE
+2767,Barbara Hirshey ,Barbara Hershey,0.951,TRUE
+2770,Kristin Scott thomas,Kristin Scott Thomas,1,TRUE
+2773,Ryan Gosling,Ryan Gosling,1,TRUE
+2776,Edward Norton,Edward Norton,1,TRUE
+2779,Mark Ruffalo,Mark Ruffalo,1,TRUE
+2782,Jackie Chan,Jackie Chan,1,TRUE
+2785,Selma Hyack,Salma Hayek,0.789,FALSE
+2788,Liv Tyler,Liv Tyler,1,TRUE
+2792,Miranda Richardson,Miranda Richardson,1,TRUE
+2795,Peter Coyote,Peter Coyote,1,TRUE
+2798,Rickey Gervais,Ricky Gervais,0.946,TRUE
+2801,Jennifer ANiston,Jennifer Aniston,1,TRUE
+2804,Angelina Joli,Angelina Jolie,0.998,TRUE
+2807,Mary Steenburgen,Mary Steenburgen,1,TRUE
+2810,Jamie Foxx,Jamie Foxx,1,TRUE
+2813,Steve Martin ,Steve Martin,1,TRUE
+2816,Rosanna Arquette ,Rosanna Arquette,1,TRUE
+2819,Guy peirce ,Guy Pearce,0.9,TRUE
+2822,Eddie Murphy ,Eddie Murphy,1,TRUE
+2825,Christopher Walken ,Christopher Walken,1,TRUE
+2828,Francis mcdormand,Frances McDormand,0.867,TRUE
+2829,Jennifer Jason Leigh,Jennifer Jason Leigh,1,TRUE
+2832,John Cusack,John Cusack,1,TRUE
+2720,Jack Nicholson,Jack Nicholson,1,TRUE
+2723,Alec Baldwin,Alec Baldwin,1,TRUE
+2726,Kurt Russell,Kurt Russell,1,TRUE
+2728,Winona Ryder ,Winona Ryder,1,TRUE
+2731,Natalie Portman ,Natalie Portman,1,TRUE
+2734,Bradley Cooper ,Bradley Cooper,1,TRUE
+2737,Alan Arkin,Alan Arkin,1,TRUE
+2740,Jamie bell,Jamie Bell,1,TRUE
+2743,Leonardo dicaprio,Leonardo DiCaprio,1,TRUE
+2747,Rod stiger ,Roy Scheider,0.626,FALSE
+2750,Orlando Bloom ,Orlando Bloom,1,TRUE
+2753,George Clooney ,George Clooney,1,TRUE
+2756,Richard gere ,Richard Gere,1,TRUE
+2759,Marisa Tomei ,Marisa Tomei,1,TRUE
+2762,Amy adams,Amy Adams,1,TRUE
+2765,Clive owen,Clive Owen,1,TRUE
+2768,John hawkes,John Hawkes,1,TRUE
+2771,Steve Martin ,Steve Martin,1,TRUE
+2774,Elizabeth shue,Elisabeth Shue,0.925,TRUE
+2777,Sidney Poitier,Sidney Poitier,1,TRUE
+2780,Tim Robbins,Tim Robbins,1,TRUE
+2783,Steve Correl,Steve Carell,0.954,TRUE
+2786,Anthony Hopkins,Anthony Hopkins,1,TRUE
+2789,Jon Hamm,Jon Hamm,1,TRUE
+2793,Sandra Bullock,Sandra Bullock,1,TRUE
+2796,Anthony Quinn,Anthony Quinn,1,TRUE
+2799,Martin Sheen,Martin Sheen,1,TRUE
+2802,Gary Sinese,Gary Sinise,0.974,TRUE
+2805,Joan Cusack,Joan Cusack,1,TRUE
+2808,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+2811,Laura  dern ,Laura Dern,1,TRUE
+2814,Ryan Reynolds ,Ryan Reynolds,1,TRUE
+2817,Sean Penn ,Sean Penn,1,TRUE
+2820,Scarlett Johansen ,Scarlett Johansson,0.988,TRUE
+2823,Robert Downey  jr,Robert Downey Jr.,0.986,TRUE
+2826,Daniel Radcliffe ,Daniel Radcliffe,1,TRUE
+2831,Roy Schider,Roy Scheider,0.976,TRUE
+2721,Danny GLover,Danny Glover,1,TRUE
+2724,Burt Reynolds,Burt Reynolds,1,TRUE
+2727,Kenneth Branaugh,Kenneth Branagh,0.996,TRUE
+2729,Sigourney weaver,Sigourney Weaver,1,TRUE
+2732,Eva Mendez ,Eva Mendes,0.983,TRUE
+2735,Denzel Washington ,Denzel Washington,1,TRUE
+2738,,Albert Finney,0,FALSE
+2741,Brad Pitt ,Brad Pitt,1,TRUE
+2744,Jake Gyllenhaal ,Jake Gyllenhaal,1,TRUE
+2745,Jodie foster ,Jodie Foster,1,TRUE
+2748,Juliette binoche,Juliette Binoche,1,TRUE
+2751,Toby McGuire ,Tobey Maguire,0.882,TRUE
+2754,Ed burnes,Ed Burns,0.919,TRUE
+2757,Michelle Pfeiffer ,Michelle Pfeiffer,1,TRUE
+2760,Al Pacino ,Al Pacino,1,TRUE
+2763,John leguzamo ,John Leguizamo,0.939,TRUE
+2766,Robert Redford ,Robert Redford,1,TRUE
+2769,Tom arnold,Tom Arnold,1,TRUE
+2772,Winona Ryder,Timothy Dalton,0.525,FALSE
+2775,Ellen page,Ellen Page,1,TRUE
+2778,Clint Eastwood,Clint Eastwood,1,TRUE
+2781,Jim Belushi,Jim Belushi,1,TRUE
+2784,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+2787,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+2790,Kyle Mcglaughlan,Kyle MacLachlan,0.889,TRUE
+2791,Christian Bale,Christian Bale,1,TRUE
+2794,Andie Mcdowell,Andie MacDowell,0.964,TRUE
+2797,Glenn Close,Glenn Close,1,TRUE
+2800,James Gandolfini,James Gandolfini,1,TRUE
+2803,John Malkovitch,John Malkovich,0.996,TRUE
+2806,Maggie Jyllenhall,Maggie Gyllenhaal,0.954,TRUE
+2809,Scarlett Johanson,Scarlett Johansson,0.997,TRUE
+2812,Marisa Tomei ,Marisa Tomei,1,TRUE
+2815,Jodie foster ,Jodie Foster,1,TRUE
+2818,Paul Dano ,Paul Dano,1,TRUE
+2821,Macaulay calkin ,Macaulay Culkin,0.953,TRUE
+2824,Tea Leoni ,Tea Leoni,1,TRUE
+2827,Mark Wahlberg ,Mark Wahlberg,1,TRUE
+2830,Renee Rousso,Rene Russo,0.941,TRUE
+2833,Minnie Driver,Minnie Driver,1,TRUE
+2834,Joan Cusack,Joan Cusack,1,TRUE
+2835,James Gandolfini,James Gandolfini,1,TRUE
+2836,Penelope Cruise,Penelope Cruz,0.982,TRUE
+2837,Lindsay Lohan,Lindsay Lohan,1,TRUE
+2838,Dennis LEary,Denis Leary,0.936,TRUE
+2839,Benecio Del Toro,Benicio Del Toro,0.93,TRUE
+2840,Kate Hudson,Kate Hudson,1,TRUE
+2841,Jeff Bridges,Jeff Bridges,1,TRUE
+2842,Ben Stiller,Ben Stiller,1,TRUE
+2843,Eva Mendes,Eva Mendes,1,TRUE
+2844,Kim Bassenger,Kim Basinger,0.95,TRUE
+2845,Candice Bergan,Candice Bergen,0.993,TRUE
+2846,Matthew Broderick,Matthew Broderick,1,TRUE
+2847,Brian Cox,Brian Cox,1,TRUE
+2848,Kevin James,Kevin James,1,TRUE
+2849,Joseph Gordon Levitt,Joseph Gordon-Levitt,0.988,TRUE
+2850,Donald SUtherland,Donald Sutherland,1,TRUE
+2851,Danny Devito,Danny DeVito,1,TRUE
+2852,Colin Firth,Colin Firth,1,TRUE
+2853,Jennifer Lopez,Jennifer Lopez,1,TRUE
+2854,Jim Belushi,Jim Belushi,1,TRUE
+2855,Sam Shepard,Sam Shepard,1,TRUE
+2856,Uma Thermon,Uma Thurman,0.945,TRUE
+2857,James Woods,James Woods,1,TRUE
+2858,Meg Ryan,Meg Ryan,1,TRUE
+2859,Tom Arnold,Tom Arnold,1,TRUE
+2860,Jerry Lewis,Jerry Lewis,1,TRUE
+2861,Tobey McGuire,Tobey Maguire,0.953,TRUE
+2862,Will Smith,Will Smith,1,TRUE
+2863,Adrien Brody,Adrien Brody,1,TRUE
+2864,Rob Lowe,Rob Lowe,1,TRUE
+2865,Anthony Hopkins,Anthony Hopkins,1,TRUE
+2866,Natalie Portman,Natalie Portman,1,TRUE
+2867,Meryl Streep,Meryl Streep,1,TRUE
+2868,Charlie Sheen,Charlie Sheen,1,TRUE
+2869,Mark Ruffalo,Mark Ruffalo,1,TRUE
+2870,Sarah Jessica Parker,Sarah Jessica Parker,1,TRUE
+2873,Tracy Ullman,Tracey Ullman,0.982,TRUE
+2876,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+2879,Jim Carrey,Jim Carrey,1,TRUE
+2882,Brad Pitt,Brad Pitt,1,TRUE
+2885,Ellen Barkin,Annette Bening,0.532,FALSE
+2888,,Helen Hunt,0,FALSE
+2891,Stanley Tucci,Stanley Tucci,1,TRUE
+2894,Will Farrel,Will Ferrell,0.94,TRUE
+2897,Cameron DIaz,Cameron Diaz,1,TRUE
+2900,Beau Bridges,Beau Bridges,1,TRUE
+2903,Ed Harris,Ed Harris,1,TRUE
+2906,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+2909,Judy Dench,Judi Dench,0.953,TRUE
+2913,Jon ham ,Jon Hamm,0.9,TRUE
+2916,Alan Alda ,Alan Alda,1,TRUE
+2919,Amy adams,Amy Adams,1,TRUE
+2922,Scarlett Johansen ,Scarlett Johansson,0.988,TRUE
+2925,Meg Ryan ,Meg Ryan,1,TRUE
+2928,Tilda Swinton ,Tilda Swinton,1,TRUE
+2931,Orlando Bloom ,Orlando Bloom,1,TRUE
+2934,Lyn Redgrave ,Vanessa Redgrave,0.665,FALSE
+2936,Juaquin Pheonix,Joaquin Phoenix,0.914,TRUE
+2939,Chris Rock,Chris Rock,1,TRUE
+2942,Jim Carey,Jim Carrey,0.99,TRUE
+2945,Toni Colette,Toni Collette,0.99,TRUE
+2948,Emily Blunt,Emily Blunt,1,TRUE
+2951,,Ellen Page,0,FALSE
+2954,Elijah Wood,Elijah Wood,1,TRUE
+2957,Ethan Hawke,Ethan Hawke,1,TRUE
+2960,Demi Moore,Demi Moore,1,TRUE
+2963,Vince Vaughn,Vince Vaughn,1,TRUE
+2966,Jeff Bridges,Jeff Bridges,1,TRUE
+2969,Kevin Spacey,Kevin Spacey,1,TRUE
+2972,Daryl Hannah,Daryl Hannah,1,TRUE
+2975,Donald Sutherland,Donald Sutherland,1,TRUE
+2978,John Leguzamo,John Leguizamo,0.991,TRUE
+2981,Mickey Roarke,Mickey Rourke,0.984,TRUE
+2984,Sissy Spacek,Sissy Spacek,1,TRUE
+2987,Eva Mendes,Eva Mendes,1,TRUE
+2990,Juliette Binoche,Juliette Binoche,1,TRUE
+2993,Mark Wahlberg,Mark Wahlberg,1,TRUE
+2996,Jill Clayberg,Jill Clayburgh,0.979,TRUE
+2999,Bridgette Fondsa,Bridget Fonda,0.965,TRUE
+3002,Christopher Walken,Christopher Walken,1,TRUE
+3005,Jennifer Aniston,Jennifer Aniston,1,TRUE
+3008,Goldie Hawn,Goldie Hawn,1,TRUE
+3011,Rene Zelwegger,Renee Zellweger,0.875,TRUE
+3014,Sean Connery,Sean Connery,1,TRUE
+3017,Elliot Gould,Elliott Gould,0.986,TRUE
+3020,Michelle Pfiffer,Michelle Pfeiffer,0.986,TRUE
+3023,Nick Nolte,Nick Nolte,1,TRUE
+2871,Richard Gere,Richard Gere,1,TRUE
+2874,Nichole Kiddman,Nicole Kidman,0.964,TRUE
+2877,Michael Shannon,Michael Shannon,1,TRUE
+2880,Alan Alda,Alan Alda,1,TRUE
+2883,Keira Nightly,Keira Knightley,0.945,TRUE
+2886,Forest Wittaker,Forest Whitaker,0.979,TRUE
+2889,Catherine Keenr,Catherine Keener,0.997,TRUE
+2892,Anne Hathaway,Anne Hathaway,1,TRUE
+2895,Gweneth Paltro,Gwyneth Paltrow,0.919,TRUE
+2898,Dennis Miller,Dennis Miller,1,TRUE
+2901,Chris Rock,Chris Rock,1,TRUE
+2904,Robert De Niro,Robert De Niro,1,TRUE
+2907,Robert Duval,Robert Duvall,0.998,TRUE
+2910,Ryan Gosling,Ryan Gosling,1,TRUE
+2911,Sylvester Stallone ,Sylvester Stallone,1,TRUE
+2914,John tortoro ,John Turturro,0.828,FALSE
+2917,Josh Brolin ,Josh Brolin,1,TRUE
+2920,Liv Tyler ,Liv Tyler,1,TRUE
+2923,Samuel L Jackson ,Samuel L. Jackson,0.979,TRUE
+2926,Christopher plummer ,Christopher Plummer,1,TRUE
+2929,Edward Norton ,Edward Norton,1,TRUE
+2932,Paul rudd,Paul Rudd,1,TRUE
+2935,Jimmy smitts,Jimmy Smits,0.924,TRUE
+2937,Mike Myers,Mike Myers,1,TRUE
+2940,Debora Winger,Debra Winger,0.98,TRUE
+2943,Glenn Close,Glenn Close,1,TRUE
+2946,Jenifer Lopez,Jennifer Lopez,0.981,TRUE
+2949,Don Cheedle,Don Cheadle,0.966,TRUE
+2952,Lindsey Lohan,Lindsay Lohan,0.968,TRUE
+2955,Ben Kingsley,Ben Kingsley,1,TRUE
+2958,Harrison Ford,Harrison Ford,1,TRUE
+2961,Will Smith,Will Smith,1,TRUE
+2964,Nick Nolte,Nick Nolte,1,TRUE
+2967,Gary Oldman,Gary Oldman,1,TRUE
+2970,Will Farrel,Will Ferrell,0.94,TRUE
+2973,Hugh Jackman,Hugh Jackman,1,TRUE
+2976,Anne Hathaway,Anne Hathaway,1,TRUE
+2979,Ben Afleck,Ben Affleck,0.986,TRUE
+2982,Russel Crowe,Russell Crowe,0.986,TRUE
+2985,Sean Penn,Sean Penn,1,TRUE
+2988,Greg Kineer,Greg Kinnear,0.971,TRUE
+2991,,Tim Blake Nelson,0,FALSE
+2994,Juliette Moore,Julianne Moore,0.855,TRUE
+2997,Ed Burns,Ed Burns,1,TRUE
+3000,Jack NIcholson,Jack Nicholson,1,TRUE
+3003,Judy Dench,Judi Dench,0.953,TRUE
+3006,Steve Martin,Steve Martin,1,TRUE
+3009,William Hurt,William Hurt,1,TRUE
+3012,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+3015,Bill Pullman,Bill Pullman,1,TRUE
+3018,Jennifer Connely,Jennifer Connelly,0.998,TRUE
+3021,,Kenneth Branagh,0,FALSE
+3024,Toby McGuire,Tobey Maguire,0.898,TRUE
+2872,Christopher Plumber,Christopher Plummer,0.994,TRUE
+2875,Catherine Zeta Jones,Catherine Zeta-Jones,0.99,TRUE
+2878,Peter Gallagher,Peter Gallagher,1,TRUE
+2881,Liv Tyler,Liv Tyler,1,TRUE
+2884,Bridgette Fonda,Bridget Fonda,0.976,TRUE
+2887,John Turtoro,John Turturro,0.966,TRUE
+2890,Albert Brooks,Albert Brooks,1,TRUE
+2893,Alfred Molina,Alfred Molina,1,TRUE
+2896,Jesica Chastaine,Jessica Chastain,0.894,TRUE
+2899,Pearce Brosnan,Pierce Brosnan,0.956,TRUE
+2902,Hellen Merin,Helen Mirren,0.936,TRUE
+2905,Rickey Gervais,Ricky Gervais,0.946,TRUE
+2908,Jude Law,Jude Law,1,TRUE
+2912,Ed Haris ,Ed Harris,0.97,TRUE
+2915,John voight,Jon Voight,0.923,TRUE
+2918,Mira sorvino ,Mira Sorvino,1,TRUE
+2921,Macaulay calkin ,Macaulay Culkin,0.953,TRUE
+2924,Val Kilmer ,Val Kilmer,1,TRUE
+2927,Jane fonda,Jane Fonda,1,TRUE
+2930,Danny devito,Danny DeVito,1,TRUE
+2933,James woods,James Woods,1,TRUE
+2938,Ian Holm,Ian Holm,1,TRUE
+2941,Jodi Foster,Jodie Foster,0.921,TRUE
+2944,Rosanna Arquette,Rosanna Arquette,1,TRUE
+2947,Sarah Jesica Parker,Sarah Jessica Parker,0.991,TRUE
+2950,Dennis Miller,Dennis Miller,1,TRUE
+2953,Marisa Tomei,Marisa Tomei,1,TRUE
+2956,Owen WIlson,Owen Wilson,1,TRUE
+2959,Michael Fasbender,Michael Fassbender,0.993,TRUE
+2962,Beau Bridges,Beau Bridges,1,TRUE
+2965,Anna Paquin,Anna Paquin,1,TRUE
+2968,Malcolm McDowell,Malcolm McDowell,1,TRUE
+2971,Dennis Leary,Denis Leary,0.979,TRUE
+2974,Frank Langella,Frank Langella,1,TRUE
+2977,Kate Holmes,Kate Hudson,0.898,TRUE
+2980,Chevy Chase,Chevy Chase,1,TRUE
+2983,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+2986,Jeremy Renner,Jeremy Renner,1,TRUE
+2989,Rob Schnider,Rob Schneider,0.979,TRUE
+2992,Alan Arkin,Alan Arkin,1,TRUE
+2995,Ewan McGreggor,Ewan McGregor,0.995,TRUE
+2998,Sam Shepard,Sam Shepard,1,TRUE
+3001,Billy Crystal,Billy Crystal,1,TRUE
+3004,Danny Glover,Danny Glover,1,TRUE
+3007,Tommy Lee Jones,Tommy Lee Jones,1,TRUE
+3010,Daniel Craig,Daniel Craig,1,TRUE
+3013,Kevin James,Kevin James,1,TRUE
+3016,],Ellen Page,0,FALSE
+3019,Jason Bateman,Jason Bateman,1,TRUE
+3022,Demi Moore,Demi Moore,1,TRUE
+3025,Zack Gallifanikis,Zach Galifianakis,0.917,TRUE
+3026,Steve correl,Steve Carell,0.917,TRUE
+3027,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+3028,Goldie Hawn,Goldie Hawn,1,TRUE
+3029,Clive Owen,Clive Owen,1,TRUE
+3030,Ellen Barkin,Ellen Barkin,1,TRUE
+3031,Rob Schnider,Rob Schneider,0.979,TRUE
+3032,Kim Bassinger,Kim Basinger,0.988,TRUE
+3033,Brad Pitt,Brad Pitt,1,TRUE
+3034,Emily Blunt,Emily Blunt,1,TRUE
+3035,Amanda Peet,Amanda Peet,1,TRUE
+3036,Keano Reves,Keanu Reeves,0.921,TRUE
+3037,Ben Kingsly,Ben Kingsley,0.995,TRUE
+3038,Mike Myers,Mike Myers,1,TRUE
+3039,Jude Law,Jude Law,1,TRUE
+3040,Oliver Platt,Oliver Platt,1,TRUE
+3041,Rosanna Arquette,Rosanna Arquette,1,TRUE
+3042,Mary Steenburgen,Mary Steenburgen,1,TRUE
+3043,Jonny Depp,Johnny Depp,0.975,TRUE
+3044,Jennifer Aniston,Jennifer Aniston,1,TRUE
+3045,Halle Berry,Halle Berry,1,TRUE
+3046,MIra Sorvino,Mira Sorvino,1,TRUE
+3047,Emma Stone,Emma Stone,1,TRUE
+3048,Jamie Bell,Jamie Bell,1,TRUE
+3049,Tom Hardy,Tom Hardy,1,TRUE
+3050,Jeffrey Rush ,Geoffrey Rush,0.897,TRUE
+3051,James Gandolfini,James Gandolfini,1,TRUE
+3054,David Hasselhoff,David Hasselhoff,1,TRUE
+3057,Selma Haiek,Salma Hayek,0.789,FALSE
+3060,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+3063,Paul Dano,Paul Dano,1,TRUE
+3066,Bill Cosby,Bill Cosby,1,TRUE
+3069,Liv Tyler,Liv Tyler,1,TRUE
+3072,Sam Shepard,Sam Shepard,1,TRUE
+3075,Danny Glover,Danny Glover,1,TRUE
+3078,Kurt Russel,Kurt Russell,0.998,TRUE
+3081,burt Reynolds,Burt Reynolds,1,TRUE
+3084,Anthony Hoplins,Anthony Hopkins,0.988,TRUE
+3087,Roger MOore,Roger Moore,1,TRUE
+3090,Albert Finney,Albert Finney,1,TRUE
+3093,Jack Nicholsen,Jack Nicholson,0.993,TRUE
+3096,Albert Brooks,Albert Brooks,1,TRUE
+3099,Rober De Niro,Robert De Niro,0.985,TRUE
+3102,Daniel Day Lewis,Daniel Day-Lewis,0.984,TRUE
+3105,Emma Thompson,Emma Thompson,1,TRUE
+3108,Julia Roberts,Julia Roberts,1,TRUE
+3111,Joakim Pheonix,Joaquin Phoenix,0.864,TRUE
+3114,Geoffrey Rush,Geoffrey Rush,1,TRUE
+3117,Selma Hayek,Salma Hayek,0.854,TRUE
+3120,Sharon Stone,Sharon Stone,1,TRUE
+3123,Debra Winger,Debra Winger,1,TRUE
+3126,Will Smith,Will Smith,1,TRUE
+3129,Adrien Brody,Adrien Brody,1,TRUE
+3132,Patricia Arquette,Patricia Arquette,1,TRUE
+3135,Paul Giamatti,Paul Giamatti,1,TRUE
+3138,Seth Rogan,Seth Rogen,0.987,TRUE
+3141,Michale Keeton,Michael Keaton,0.953,TRUE
+3144,Emma Watson,Emma Watson,1,TRUE
+3147,Ben Kingsley,Ben Kingsley,1,TRUE
+3150,Roger Moore,Roger Moore,1,TRUE
+3153,Peter Coyote,Peter Coyote,1,TRUE
+3156,Tracy Ullman,Tracey Ullman,0.982,TRUE
+3159,Philip Seymore HOffman,Philip Seymour Hoffman,0.972,TRUE
+3162,Nick Nolte,Nick Nolte,1,TRUE
+3165,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+3168,Jack Black,Jack Black,1,TRUE
+3171,Charlie Sheen,Charlie Sheen,1,TRUE
+3174,Jill Clayburg,Jill Clayburgh,0.998,TRUE
+3177,Danny Devito,Danny DeVito,1,TRUE
+3180,Bill PUllman,Bill Pullman,1,TRUE
+3183,Val Kilmer,Val Kilmer,1,TRUE
+3186,Andy Garcia,Andy Garcia,1,TRUE
+3189,Rickey Gervais,Ricky Gervais,0.946,TRUE
+3192,Nicole Kiddman,Nicole Kidman,0.993,TRUE
+3195,Helen Mirren,Helen Mirren,1,TRUE
+3198,Gwenneth Paltro,Gwyneth Paltrow,0.901,TRUE
+3201,Mary Louise Parker,Mary-Louise Parker,0.925,TRUE
+3204,Sygourney Weaver,Sigourney Weaver,0.898,TRUE
+3207,Kevin James,Kevin James,1,TRUE
+3210,George Lopez,George Lopez,1,TRUE
+3212,Donald Sutherland,Donald Sutherland,1,TRUE
+3215,Steven Segal,Steven Seagal,0.984,TRUE
+3218,Natalie Portman,Natalie Portman,1,TRUE
+3221,Peirce Brosnan,Pierce Brosnan,0.978,TRUE
+3224,Willem Dafoe,Willem Dafoe,1,TRUE
+3227,Jeremy Irons,Jeremy Irons,1,TRUE
+3052,Anne Hathaway,Anne Hathaway,1,TRUE
+3055,David Schwimmer,David Schwimmer,1,TRUE
+3058,Rene Russo,Rene Russo,1,TRUE
+3061,Jack Black,Jack Black,1,TRUE
+3064,Kate Hudson,Kate Hudson,1,TRUE
+3067,,Philip Seymour Hoffman,0,FALSE
+3070,Keira Knightly,Keira Knightley,0.997,TRUE
+3073,Jeff Goldblum,Jeff Goldblum,1,TRUE
+3076,Tom Hanks,Tom Hanks,1,TRUE
+3079,Chevy Chase,Chevy Chase,1,TRUE
+3082,Orlando Bloom,Orlando Bloom,1,TRUE
+3085,Danny Devito,Danny DeVito,1,TRUE
+3088,Val Kilmer,Val Kilmer,1,TRUE
+3091,,Michael Shannon,0,FALSE
+3094,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+3097,Alec Baldwin,Alec Baldwin,1,TRUE
+3100,Michael Fassbender,Michael Fassbender,1,TRUE
+3103,Sidney Poitier,Sidney Poitier,1,TRUE
+3106,Christian Bale,Christian Bale,1,TRUE
+3109,Maggie Gyllenhall,Maggie Gyllenhaal,0.995,TRUE
+3112,Eddie Murphy,Eddie Murphy,1,TRUE
+3115,Ben Stiller,Ben Stiller,1,TRUE
+3118,Emma Stone,Emma Stone,1,TRUE
+3121,Sam Worthington,Sam Worthington,1,TRUE
+3124,William Hurt,William Hurt,1,TRUE
+3127,Timothy Dalton,Timothy Dalton,1,TRUE
+3130,Hope Davis,Hope Davis,1,TRUE
+3133,Daniel Craig,Daniel Craig,1,TRUE
+3136,Jeff Bridges,Jeff Bridges,1,TRUE
+3139,Mira Sorvino,Mira Sorvino,1,TRUE
+3142,Andie McDowell,Andie MacDowell,0.988,TRUE
+3145,Brad Pitt,Brad Pitt,1,TRUE
+3148,Mary Steenburgen,Mary Steenburgen,1,TRUE
+3151,Benecio Del Torro,Benicio Del Toro,0.914,TRUE
+3154,Chris Rock,Chris Rock,1,TRUE
+3157,Helen Hunt,Helen Hunt,1,TRUE
+3160,Jesica Chastain,Jessica Chastain,0.911,TRUE
+3163,Kate Winslet,Kate Winslet,1,TRUE
+3166,Michael J. Fox,Michael J. Fox,1,TRUE
+3169,Halle Berry,Halle Berry,1,TRUE
+3172,Brooke Shields,Brooke Shields,1,TRUE
+3175,Sean Penn,Sean Penn,1,TRUE
+3178,Dennis Hopper,Dennis Hopper,1,TRUE
+3181,Anne Hathaway,Anne Hathaway,1,TRUE
+3184,Brendan Fraiser,Brendan Fraser,0.994,TRUE
+3187,Willem Defoe,Willem Dafoe,0.971,TRUE
+3190,Peter Gallagher,Peter Gallagher,1,TRUE
+3193,Robin Williams,Robin Williams,1,TRUE
+3196,Leonardo De Capprio,Leonardo DiCaprio,0.946,TRUE
+3199,Hugh Grant,Hugh Grant,1,TRUE
+3202,Arnold Schwartzenegger,Arnold Schwarzenegger,0.994,TRUE
+3205,Michael Shannon,Michael Shannon,1,TRUE
+3208,Lucy Liu,Lucy Liu,1,TRUE
+3213,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+3216,Adam Sandler,Adam Sandler,1,TRUE
+3219,Ben Affleck,Ben Affleck,1,TRUE
+3222,Bradley Cooper,Bradley Cooper,1,TRUE
+3225,Jack Black,Jack Black,1,TRUE
+3053,,Mark Ruffalo,0,FALSE
+3056,Candice Bergen,Candice Bergen,1,TRUE
+3059,Kelly Mcdonald,Kelly MacDonald,0.936,TRUE
+3062,Gabriel Byrne,Gabriel Byrne,1,TRUE
+3065,Al Pacino,Al Pacino,1,TRUE
+3068,Jeff Bridges,Jeff Bridges,1,TRUE
+3071,Mickey Rourke,Mickey Rourke,1,TRUE
+3074,Sarah Jessica Parker,Sarah Jessica Parker,1,TRUE
+3077,Antonio Banderas,Antonio Banderas,1,TRUE
+3080,Dennis miller,Dennis Miller,1,TRUE
+3083,Mary Louise Parker,Mary-Louise Parker,0.925,TRUE
+3086,Jane Fonda,Jane Fonda,1,TRUE
+3089,Jessica Chastain,Jessica Chastain,1,TRUE
+3092,John C. Reilly,John C. Reilly,1,TRUE
+3095,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+3098,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+3101,Kevin Costner,Kevin Costner,1,TRUE
+3104,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+3107,Sean Penn,Sean Penn,1,TRUE
+3110,,Winona Ryder,0,FALSE
+3113,Michael Douglas,Michael Douglas,1,TRUE
+3116,Dan Akyroid,Dan Aykroyd,0.949,TRUE
+3119,Jackie Chan,Jackie Chan,1,TRUE
+3122,Rosanna Arquette,Rosanna Arquette,1,TRUE
+3125,Julia Roberts,Julia Roberts,1,TRUE
+3128,Helena Bonham-Carter,Helena Bonham Carter,0.988,TRUE
+3131,Orlando Bloom,Orlando Bloom,1,TRUE
+3134,Liam  Neeson,Liam Neeson,1,TRUE
+3137,John Cusak,John Cusack,0.994,TRUE
+3140,Jim Belushi,Jim Belushi,1,TRUE
+3143,Steven Segal,Steven Seagal,0.984,TRUE
+3146,Christopher Plumber,Christopher Plummer,0.994,TRUE
+3149,Ian Holm,Brian Cox,0.648,FALSE
+3152,Kyle Mcglaughlan,Kyle MacLachlan,0.889,TRUE
+3155,Jonny Depp,Johnny Depp,0.975,TRUE
+3158,Penelope Cruise,Penelope Cruz,0.982,TRUE
+3161,Frank Langellea,Frank Langella,0.997,TRUE
+3164,David Spade,David Spade,1,TRUE
+3167,Cameron Diaz,Cameron Diaz,1,TRUE
+3170,Jane Fonda,Jane Fonda,1,TRUE
+3173,Gene Hackman,Gene Hackman,1,TRUE
+3176,Jeremy Renner,Jeremy Renner,1,TRUE
+3179,Malcolm McDowell,Malcolm McDowell,1,TRUE
+3182,Ralph Finness,Ralph Fiennes,0.97,TRUE
+3185,Angelina Jolie,Angelina Jolie,1,TRUE
+3188,Russell Crowe,Russell Crowe,1,TRUE
+3191,Bill Murray,Bill Murray,1,TRUE
+3194,,Tim Blake Nelson,0,FALSE
+3197,Billy Crystal,Billy Crystal,1,TRUE
+3200,Rachel McAdams,Rachel McAdams,1,TRUE
+3203,Anthony Quinn,Anthony Quinn,1,TRUE
+3206,Tilda Swinton,Tilda Swinton,1,TRUE
+3209,Matthew Broderick,Matthew Broderick,1,TRUE
+3211,Angelina Jolie,Angelina Jolie,1,TRUE
+3214,Bill Cosby,Bill Cosby,1,TRUE
+3217,Don Cheedle,Don Cheadle,0.966,TRUE
+3220,Sam Worthington,Sam Worthington,1,TRUE
+3223,Ben Kingsly,Ben Kingsley,0.995,TRUE
+3226,Liev Schrieber,Liev Schreiber,0.991,TRUE
+3228,Miranda Richardson,Miranda Richardson,1,TRUE
+3229,Jon Hamm,Jon Hamm,1,TRUE
+3230,Martin Lawrence,Martin Lawrence,1,TRUE
+3231,Jeff Bridges,Jeff Bridges,1,TRUE
+3232,Selma Hayek,Salma Hayek,0.854,TRUE
+3233,Viggo MOrtenson,Viggo Mortensen,0.938,TRUE
+3234,Jeff Goldblum,Jeff Goldblum,1,TRUE
+3235,Halle Berry,Halle Berry,1,TRUE
+3236,Collin Firth,Colin Firth,0.979,TRUE
+3237,Jill Clayberg,Jill Clayburgh,0.979,TRUE
+3238,Robert De Niro,Robert De Niro,1,TRUE
+3239,Jude Law,Jude Law,1,TRUE
+3240,Scarlette Johansen,Scarlett Johansson,0.959,TRUE
+3241,Martin Sheen,Martin Sheen,1,TRUE
+3242,Kelly Mcdonald,Kelly MacDonald,0.936,TRUE
+3243,Jeff Daniels,Jeff Daniels,1,TRUE
+3455,,Albert Finney,0,FALSE
+3244,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+3247,Rosie Perez,Rosie Perez,1,TRUE
+3250,Robert Duval,Robert Duvall,0.998,TRUE
+3253,Collin Farrel,Colin Farrell,0.961,TRUE
+3256,Vince Vaughn,Vince Vaughn,1,TRUE
+3259,Jimmy Smits,Jimmy Smits,1,TRUE
+3262,Mira Sorvino,Mira Sorvino,1,TRUE
+3265,Alan Rickman,Alan Rickman,1,TRUE
+3268,Michael Fassbender,Michael Fassbender,1,TRUE
+3271,Clive Owen,Clive Owen,1,TRUE
+3274,Jack Nicholsen,Jack Nicholson,0.993,TRUE
+3277,Winona Ryder,Winona Ryder,1,TRUE
+3280,Christopher Walken,Christopher Walken,1,TRUE
+3283,Cathy bates,Kathy Bates,0.879,TRUE
+3286,Burt Reynolds,Burt Reynolds,1,TRUE
+3290,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+3293,Dustin Hoffman,Dustin Hoffman,1,TRUE
+3296,Tom Hardy,Tom Hardy,1,TRUE
+3299,Meg Ryan,Meg Ryan,1,TRUE
+3302,Salma Hayek,Salma Hayek,1,TRUE
+3305,Toni Colette,Toni Collette,0.99,TRUE
+3308,Rob Schnider,Rob Schneider,0.979,TRUE
+3311,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+3314,Debra Winger,Debra Winger,1,TRUE
+3317,Cate Blanchette,Cate Blanchett,0.999,TRUE
+3320,Kyle McGlaughlan,Kyle MacLachlan,0.889,TRUE
+3323,John Malcovitch,John Malkovich,0.944,TRUE
+3326,George Clooney,George Clooney,1,TRUE
+3329,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+3332,Sean PEnn,Sean Penn,1,TRUE
+3335,Gary Sineese,Gary Sinise,0.96,TRUE
+3338,Sidney Poitier,Sidney Poitier,1,TRUE
+3341,John Leguzamo,John Leguizamo,0.991,TRUE
+3344,Martin Sheen,Martin Sheen,1,TRUE
+3345,Joe Pesci,Joe Pesci,1,TRUE
+3348,Zach Galifinakis,Zach Galifianakis,0.986,TRUE
+3351,Andie Macdowel,Andie MacDowell,0.973,TRUE
+3354,Christopher Walkin,Christopher Walken,0.996,TRUE
+3357,Ewin McGreggor,Ewan McGregor,0.937,TRUE
+3360,Bradley Cooper,Bradley Cooper,1,TRUE
+3363,Winona Ryder,Winona Ryder,1,TRUE
+3366,Chris Cooper,Chris Cooper,1,TRUE
+3369,Helena Bonham Carter,Helena Bonham Carter,1,TRUE
+3372,Isabella Rosselini,Isabella Rossellini,0.996,TRUE
+3375,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+3378,Kim Bassinger,Kim Basinger,0.988,TRUE
+3381,Candice Bergan,Candice Bergen,0.993,TRUE
+3384,Michael Douglas,Michael Douglas,1,TRUE
+3387,Jim Carey,Jim Carrey,0.99,TRUE
+3392,Candice Bergan,Candice Bergen,0.993,TRUE
+3395,John Leguizamo,John Leguizamo,1,TRUE
+3398,Jonny Depp,Johnny Depp,0.975,TRUE
+3401,Ellen Barkin,Ellen Barkin,1,TRUE
+3404,Joan Cusak,Joan Cusack,0.994,TRUE
+3407,Ellen Page,Ellen Page,1,TRUE
+3410,Eva Mendes,Eva Mendes,1,TRUE
+3411,Martin Sheen,Martin Sheen,1,TRUE
+3414,Arnold Schwarzenegger,Arnold Schwarzenegger,1,TRUE
+3417,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+3420,Sam Worthington,Sam Worthington,1,TRUE
+3423,Christopher Waltz,Christoph Waltz,0.982,TRUE
+3426,Cate Blanchette,Cate Blanchett,0.999,TRUE
+3429,Nicholas Cage,Nicholas Cage,1,TRUE
+3432,Keiffer Sutherland,Kiefer Sutherland,0.964,TRUE
+3435,Albert Brooks,Albert Brooks,1,TRUE
+3438,Amy Adams,Amy Adams,1,TRUE
+3441,Willem Dafoe,Willem Dafoe,1,TRUE
+3245,Matthew Broderick,Matthew Broderick,1,TRUE
+3248,Tom Arnold,Tom Arnold,1,TRUE
+3251,Mark Wahlburg,Mark Wahlberg,0.988,TRUE
+3254,Bill Pullman,Bill Pullman,1,TRUE
+3257,Debra Winger,Debra Winger,1,TRUE
+3260,Arnold Schwartzeneger,Arnold Schwarzenegger,0.988,TRUE
+3263,Stanley Tucci,Stanley Tucci,1,TRUE
+3266,Kevin Bacon,Kevin Bacon,1,TRUE
+3269,Helen Miren,Helen Mirren,0.993,TRUE
+3272,Paul Dano,Paul Dano,1,TRUE
+3275,,Jonah Hill,0,FALSE
+3278,Tilda Swinton,Tilda Swinton,1,TRUE
+3281,Benecio Del Toro,Benicio Del Toro,0.93,TRUE
+3284,Rob Schnider,Rob Schneider,0.979,TRUE
+3287,Daniel Craig,Daniel Craig,1,TRUE
+3291,Jeremy Wright,Jeffrey Wright,0.937,TRUE
+3294,Donald Sutherland,Donald Sutherland,1,TRUE
+3297,Jamie Bell,Jamie Bell,1,TRUE
+3300,Oliver Platt,Oliver Platt,1,TRUE
+3303,Ed Harris,Ed Harris,1,TRUE
+3306,Orlando Bloom,Orlando Bloom,1,TRUE
+3309,John Travolta,John Travolta,1,TRUE
+3312,Chris Rock,Chris Rock,1,TRUE
+3315,Steve Carrel,Steve Carell,0.986,TRUE
+3318,Kenau Reeves,Keanu Reeves,0.977,TRUE
+3321,Paul Newman,Paul Newman,1,TRUE
+3324,Alan Arkin,Alan Arkin,1,TRUE
+3327,Jonah Hill,Jonah Hill,1,TRUE
+3330,Anette Benning,Annette Bening,0.937,TRUE
+3333,Peter Coyote,Peter Coyote,1,TRUE
+3336,Christian Bale,Christian Bale,1,TRUE
+3339,Will Farrel,Will Ferrell,0.94,TRUE
+3342,MIckey Rhorke,Mickey Rourke,0.905,TRUE
+3346,Kevin Costner,Kevin Costner,1,TRUE
+3349,Al Pacino,Al Pacino,1,TRUE
+3352,Harrison Ford,Harrison Ford,1,TRUE
+3355,Miranda Richardson,Miranda Richardson,1,TRUE
+3358,Javier Bardem,Javier Bardem,1,TRUE
+3361,Sygourney Weaver,Sigourney Weaver,0.898,TRUE
+3364,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+3367,Dan Akyroyd,Dan Aykroyd,0.983,TRUE
+3370,Kevin James,Kevin James,1,TRUE
+3373,Tom Hanks,Tom Hanks,1,TRUE
+3376,Jason Bateman,Jason Bateman,1,TRUE
+3379,Anna Paquin,Anna Paquin,1,TRUE
+3382,Natalie Portman,Natalie Portman,1,TRUE
+3385,Brendan Fraiser,Brendan Fraser,0.994,TRUE
+3388,Amanda Peet,Amanda Peet,1,TRUE
+3390,Dennis LEary,Denis Leary,0.936,TRUE
+3393,Naomi Watts,Naomi Watts,1,TRUE
+3396,Minnie Driver,Minnie Driver,1,TRUE
+3399,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+3402,Owen Wilson,Owen Wilson,1,TRUE
+3405,Elizabeth Perkins,Elizabeth Perkins,1,TRUE
+3408,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+3412,Antonio Banderas,Antonio Banderas,1,TRUE
+3415,Christian Slater,Christian Slater,1,TRUE
+3418,John Cusack,John Cusack,1,TRUE
+3421,Benecio Del Toro,Benicio Del Toro,0.93,TRUE
+3424,Ben Afleck,Ben Affleck,0.986,TRUE
+3427,Penople Cruise,Penelope Cruz,0.855,TRUE
+3430,Liv Tyler,Liv Tyler,1,TRUE
+3433,Marion Cottelard,Marion Cotillard,0.969,TRUE
+3436,Kevin Spacy,Kevin Spacey,0.995,TRUE
+3439,Jennifer Lopez,Jennifer Lopez,1,TRUE
+3246,Reese Witherspoon,Reese Witherspoon,1,TRUE
+3249,Brian Cox,Brian Cox,1,TRUE
+3252,Lindsay Lohan,Lindsay Lohan,1,TRUE
+3255,Tracy Ullman,Tracey Ullman,0.982,TRUE
+3258,Jamie Bell,Jamie Bell,1,TRUE
+3261,Alan Alsa,Alan Alda,0.978,TRUE
+3264,Amy Adams,Amy Adams,1,TRUE
+3267,Antonio Banderas,Antonio Banderas,1,TRUE
+3270,Kate Hudson,Kate Hudson,1,TRUE
+3273,Goldie Hawn,Goldie Hawn,1,TRUE
+3276,Gabriel Byrne,Gabriel Byrne,1,TRUE
+3279,Sandra Bullock,Sandra Bullock,1,TRUE
+3282,Matt Damon,Matt Damon,1,TRUE
+3285,Harrison Ford,Harrison Ford,1,TRUE
+3288,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+3292,Billy Crystal,Billy Crystal,1,TRUE
+3295,FOrest Whittiker,Forest Whitaker,0.9,TRUE
+3298,Kurt Russel,Kurt Russell,0.998,TRUE
+3301,Juaquin Pheonix,Joaquin Phoenix,0.914,TRUE
+3304,Liv Tyler,Liv Tyler,1,TRUE
+3307,Christoph Waltz,Christoph Waltz,1,TRUE
+3310,Morgan Freeman,Morgan Freeman,1,TRUE
+3313,Jeremy Irons,Jeremy Irons,1,TRUE
+3316,Eddie Murphy,Eddie Murphy,1,TRUE
+3319,John Mackevoy,James McAvoy,0.741,FALSE
+3322,Val Kilmer,Val Kilmer,1,TRUE
+3325,Mark Wahlburg,Mark Wahlberg,0.988,TRUE
+3328,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+3331,Kate Hudson,Kate Hudson,1,TRUE
+3334,Jill Clayburg,Jill Clayburgh,0.998,TRUE
+3337,Jeff Goldblum,Jeff Goldblum,1,TRUE
+3340,Lindsay Lohan,Lindsay Lohan,1,TRUE
+3343,Kristin Scott-Thomas,Catherine Zeta-Jones,0.567,FALSE
+3347,Antonio Banderas,Antonio Banderas,1,TRUE
+3350,Michael Shannon,Michael Shannon,1,TRUE
+3353,Danny GLover,Danny Glover,1,TRUE
+3356,Tom Cruise,Tom Cruise,1,TRUE
+3359,Owen WIlson,Owen Wilson,1,TRUE
+3362,Viggo Mortensen,Viggo Mortensen,1,TRUE
+3365,Emma Thompson,Emma Thompson,1,TRUE
+3368,Larua Dern,Laura Dern,0.973,TRUE
+3371,Kevin Bacon,Kevin Bacon,1,TRUE
+3374,Denis Leary,Denis Leary,1,TRUE
+3377,Holly Hunter,Holly Hunter,1,TRUE
+3380,Paul Dano,Paul Dano,1,TRUE
+3383,Alan Rickman,Alan Rickman,1,TRUE
+3386,Miney Driver,Minnie Driver,0.893,TRUE
+3389,Jane Fonda,Jane Fonda,1,TRUE
+3391,Julia Roberts,Julia Roberts,1,TRUE
+3394,Jackie Chan,Jackie Chan,1,TRUE
+3397,Drew Barrimore,Drew Barrymore,0.983,TRUE
+3400,Geoffrey Rush,Geoffrey Rush,1,TRUE
+3403,Beau Bridges,Beau Bridges,1,TRUE
+3406,Ed Burns,Ed Burns,1,TRUE
+3409,David Hasselhoff,David Hasselhoff,1,TRUE
+3413,Gene Hackman,Gene Hackman,1,TRUE
+3416,Toni Colette,Toni Collette,0.99,TRUE
+3419,Russel Crowe,Russell Crowe,0.986,TRUE
+3422,Andie McDowel,Andie MacDowell,0.976,TRUE
+3425,Russel Crowe,Clive Owen,0.572,FALSE
+3428,Sarah Jessica Parker,Sarah Jessica Parker,1,TRUE
+3431,Peter Gallagher,Peter Gallagher,1,TRUE
+3434,Steven Segal,Steven Seagal,0.984,TRUE
+3437,Jamie Foxx,Jamie Foxx,1,TRUE
+3440,Chevy Chase,Chevy Chase,1,TRUE
+3442,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+3443,Rosanna Arquette,Rosanna Arquette,1,TRUE
+3444,Scarlette Johanson,Scarlett Johansson,0.979,TRUE
+3445,Julianne MOore,Julianne Moore,1,TRUE
+3446,Jennifer Jason Leigh,Jennifer Jason Leigh,1,TRUE
+3447,John Hawks,John Hawkes,0.994,TRUE
+3448,Catherine Zeta Jones,Catherine Zeta-Jones,0.99,TRUE
+3449,Jeff Bridges,Jeff Bridges,1,TRUE
+3450,Nick NOlte,Nick Nolte,1,TRUE
+3451,Kevin James,Kevin James,1,TRUE
+3452,Christopher Walkin,Christopher Walken,0.996,TRUE
+3453,Christopher Plummer,Christopher Plummer,1,TRUE
+3456,Mike Myers,Mike Myers,1,TRUE
+3459,Rene Russo,Rene Russo,1,TRUE
+3462,Anna Paquin,Anna Paquin,1,TRUE
+3465,Daniel Dey Lewis,Daniel Day-Lewis,0.946,TRUE
+3468,Ann Hathaway,Anne Hathaway,0.98,TRUE
+3471,Helene Boham Carter,Helena Bonham Carter,0.906,TRUE
+3474,Brad Pitt,Brad Pitt,1,TRUE
+3477,Joaquim Pheonix,Joaquin Phoenix,0.945,TRUE
+3480,Christian Bale,Christian Bale,1,TRUE
+3483,Andy Garicia,Andy Garcia,0.981,TRUE
+3486,Macauley Calkin,Macaulay Culkin,0.945,TRUE
+3489,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+3492,Geoffrey Rush,Geoffrey Rush,1,TRUE
+3495,Jill Clayburg,Jill Clayburgh,0.998,TRUE
+3498,Kim Bassinger,Kim Basinger,0.988,TRUE
+3501,Jon Voight,Jon Voight,1,TRUE
+3504,Jamie Bell,Jamie Bell,1,TRUE
+3507,Mel Gibson,Mel Gibson,1,TRUE
+3510,Michael Fasbender,Michael Fassbender,0.993,TRUE
+3454,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+3457,Richard Gere,Richard Gere,1,TRUE
+3460,Cathy Bates,Kathy Bates,0.939,TRUE
+3463,Woody Allen,Woody Allen,1,TRUE
+3466,Matt Damon,Matt Damon,1,TRUE
+3469,Michael J. Fox,Michael J. Fox,1,TRUE
+3472,John Woods,James Woods,0.799,FALSE
+3475,Drew Barrymore,Drew Barrymore,1,TRUE
+3478,Nicole Kiddman,Nicole Kidman,0.993,TRUE
+3481,Elijah Wood,Elijah Wood,1,TRUE
+3484,Bill Cosby,Bill Cosby,1,TRUE
+3487,Jeff Daniels,Jeff Daniels,1,TRUE
+3490,Jude Law,Jude Law,1,TRUE
+3493,Jim Baluchi\,Jim Belushi,0.916,TRUE
+3496,Colin Firth,Colin Firth,1,TRUE
+3499,Seth Rogen,Seth Rogen,1,TRUE
+3502,John Goodman,John Goodman,1,TRUE
+3505,Sean Conery,Sean Connery,0.991,TRUE
+3508,Naomi Watts,Naomi Watts,1,TRUE
+3458,George Lopez,George Lopez,1,TRUE
+3461,Glenn Close,Glenn Close,1,TRUE
+3464,Daniel Craig,Daniel Craig,1,TRUE
+3467,Barbara Hershey,Barbara Hershey,1,TRUE
+3470,Martin Lawrance,Martin Lawrence,0.982,TRUE
+3473,Reese Witherspoon,Renee Zellweger,0.626,FALSE
+3476,Hellen Miren,Helen Mirren,0.958,TRUE
+3479,Timmothy Dalton,Timothy Dalton,0.982,TRUE
+3482,Demi Moore,Demi Moore,1,TRUE
+3485,Jackie Chan,Jackie Chan,1,TRUE
+3488,Kyle Mcgloghlan,Kyle MacLachlan,0.875,TRUE
+3491,Ben Stiller,Ben Stiller,1,TRUE
+3494,Keano Reeves,Keanu Reeves,0.963,TRUE
+3497,Joe Pesci,Joe Pesci,1,TRUE
+3500,Anthony Quinn,Anthony Quinn,1,TRUE
+3503,Jerry Lewis,Jerry Lewis,1,TRUE
+3506,Kenneth Brannaugh,Kenneth Branagh,0.988,TRUE
+3509,Malcolm Mcdowell,Malcolm McDowell,1,TRUE
+3511,Liev Schriber,Liev Schreiber,0.982,TRUE
+3512,James Woods,James Woods,1,TRUE
+3513,Scarlet Johansan,Scarlett Johansson,0.953,TRUE
+3514,Geoffrey Rush,Geoffrey Rush,1,TRUE
+3515,Brooks Shields,Brooke Shields,0.936,TRUE
+3516,Andy Garcia,Andy Garcia,1,TRUE
+3517,Jospeh Gordon Levitt,Joseph Gordon-Levitt,0.957,TRUE
+3518,Sylvester Stalone,Sylvester Stallone,0.996,TRUE
+3519,Robert Redford,Robert Redford,1,TRUE
+3520,Beau Bridgews,Beau Bridges,0.996,TRUE
+3521,Forest Witaker,Forest Whitaker,0.99,TRUE
+3522,Albert Brooks,Albert Brooks,1,TRUE
+3523,Steve Martin,Steve Martin,1,TRUE
+3524,Chevy Chase,Chevy Chase,1,TRUE
+3525,Jill Clayburg,Jill Clayburgh,0.998,TRUE
+3526,George Lopez,George Lopez,1,TRUE
+3527,Ben Kingsly,Ben Kingsley,0.995,TRUE
+3528,Minnie Driver,Minnie Driver,1,TRUE
+3529,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+3530,Rachel McAdams,Rachel McAdams,1,TRUE
+3531,Emily Blunt,Emily Blunt,1,TRUE
+3532,Ed Harris,Ed Harris,1,TRUE
+3533,Ed BUrns,Ed Burns,1,TRUE
+3534,Keano Reeves,Keanu Reeves,0.963,TRUE
+3535,Albert Finney,Albert Finney,1,TRUE
+3536,Peter O'Toole,Peter O'toole,1,TRUE
+3537,Colin Firth,Colin Firth,1,TRUE
+3538,Keira Knightly,Keira Knightley,0.997,TRUE
+3539,Daniel Craig,Daniel Craig,1,TRUE
+3540,Guy Peirce,Guy Pearce,0.973,TRUE
+3541,Jeff Daniels,Jeff Daniels,1,TRUE
+3542,Naomi Watts,Naomi Watts,1,TRUE
+3543,Sam Worthington,Sam Worthington,1,TRUE
+3544,Mathew Broderick,Matthew Broderick,0.984,TRUE
+3545,Mary Louise Parker,Mary-Louise Parker,0.925,TRUE
+3546,Brad Giamatti,Paul Giamatti,0.846,FALSE
+3547,Lindsay Lohan,Lindsay Lohan,1,TRUE
+3548,Tommy Lee Jones,Tommy Lee Jones,1,TRUE
+3549,Mickey Rhorke,Mickey Rourke,0.98,TRUE
+3550,Mark Ruffalo,Mark Ruffalo,1,TRUE
+3551,Gary Oldman,Gary Oldman,1,TRUE
+3552,Eddie Murphy,Eddie Murphy,1,TRUE
+3553,Val Kilmer,Val Kilmer,1,TRUE
+3554,Rosey Perez,Rosie Perez,0.956,TRUE
+3555,Jack Black,Jack Black,1,TRUE
+3556,Jeremy Irons,Jeremy Irons,1,TRUE
+3557,Luxy Liu,Lucy Liu,0.933,TRUE
+3558,Anna Paquin,Anna Paquin,1,TRUE
+3559,Patricia Arquette,Patricia Arquette,1,TRUE
+3560,Richard Gere,Richard Gere,1,TRUE
+3561,Greg Kinear,Greg Kinnear,0.991,TRUE
+3562,Eve Mendes,Eva Mendes,0.858,TRUE
+3563,John Turtoro,John Turturro,0.966,TRUE
+3564,Jeffrey Wright,Jeffrey Wright,1,TRUE
+3565,Laura Linney,Laura Linney,1,TRUE
+3566,Winona Ryder,Winona Ryder,1,TRUE
+3567,Holly Hunter,Holly Hunter,1,TRUE
+3568,Barbara Hershey,Barbara Hershey,1,TRUE
+3569,Ellen Page,Ellen Page,1,TRUE
+3572,Ryan Reynolds,Ryan Reynolds,1,TRUE
+3575,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+3578,Anthony Hopkins,Anthony Hopkins,1,TRUE
+3581,Emme Thompson,Emma Thompson,0.961,TRUE
+3584,Zack Galifinakis,Zach Galifianakis,0.932,TRUE
+3587,Julia Roberts,Julia Roberts,1,TRUE
+3590,Bill Cosby,Bill Cosby,1,TRUE
+3593,Kevin Costner,Kevin Costner,1,TRUE
+3596,Colin Farrel,Colin Farrell,0.998,TRUE
+3599,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+3602,Rene Zelwegger,Renee Zellweger,0.875,TRUE
+3605,Caterine Keener,Catherine Keener,0.983,TRUE
+3608,Merrly Streep,Meryl Streep,0.938,TRUE
+3611,jack black,Jack Black,1,TRUE
+3614,miranda Richardson,Miranda Richardson,1,TRUE
+3617,Steve Martin,Steve Martin,1,TRUE
+3621,gweneth paltrow,Gwyneth Paltrow,0.839,FALSE
+3624,Lyndsay Lowhan,Lindsay Lohan,0.88,TRUE
+3627,,George Clooney,0,FALSE
+3630,,Kenneth Branagh,0,FALSE
+3633,Greg linear,Greg Kinnear,0.95,TRUE
+3636,Mira sorvino,Mira Sorvino,1,TRUE
+3639,Jennifer Lopez ,Jennifer Lawrence,0.915,TRUE
+3642,Trs,Tracey Ullman,0.607,FALSE
+3646,Andy Garcia ,Andy Garcia,1,TRUE
+3649,Ben Affleck ,Ben Affleck,1,TRUE
+3652,Liam Neeson ,Liam Neeson,1,TRUE
+3655,Blythe danner ,Blythe Danner,1,TRUE
+3660,Michael Keaton,Michael Keaton,1,TRUE
+3663,Rene Russo,Rene Russo,1,TRUE
+3570,Robert Downey Jr.,Robert Downey Jr.,1,TRUE
+3573,Kate Hudson,Kate Hudson,1,TRUE
+3576,Pearce Brosnan,Pierce Brosnan,0.956,TRUE
+3579,Kyle McGlauhlan,Kyle MacLachlan,0.903,TRUE
+3582,Tobey Mcguire,Tobey Maguire,0.976,TRUE
+3585,Gweneth Paltrow,Gwyneth Paltrow,0.941,TRUE
+3588,Joaquim Phoenix,Joaquin Phoenix,0.93,TRUE
+3591,\,Marion Cotillard,0,FALSE
+3594,Oliver Platt,Oliver Platt,1,TRUE
+3597,Bradley Cooper,Bradley Cooper,1,TRUE
+3600,Robert De Niro,Robert De Niro,1,TRUE
+3603,Halie Berry,Halle Berry,0.956,TRUE
+3606,Javier Bardem,Javier Bardem,1,TRUE
+3609,Christopher Plummer,Christopher Plummer,1,TRUE
+3612,David hasselhoff,David Hasselhoff,1,TRUE
+3615,forest witiker,Forest Whitaker,0.84,FALSE
+3618,ewan mcgregor,Ewan McGregor,1,TRUE
+3622,,Albert Finney,0,FALSE
+3625,richard gere,Richard Gere,1,TRUE
+3628,Jim belushi,Jim Belushi,1,TRUE
+3631,William hurt,William Hurt,1,TRUE
+3634,kim bassinger,Kim Basinger,0.868,TRUE
+3637,Kiera knightly ,Keira Knightley,0.893,TRUE
+3640,,Peter Coyote,0,FALSE
+3643,jamie lee Curtis ,Jamie Lee Curtis,1,TRUE
+3644,Meryl Streep ,Meryl Streep,1,TRUE
+3647,John Hawkes ,John Hawkes,1,TRUE
+3650,Clint Eastwood ,Clint Eastwood,1,TRUE
+3653,Angelina Jolie ,Angelina Jolie,1,TRUE
+3656,Elijah wood ,Elijah Wood,1,TRUE
+3659,PaulNewman,Paul Newman,1,TRUE
+3662,Hugh Grant,Hugh Grant,1,TRUE
+3665,Reese WItherspoon,Reese Witherspoon,1,TRUE
+3571,Michael Fasbender,Michael Fassbender,0.993,TRUE
+3574,Alan Arkin,Alan Arkin,1,TRUE
+3577,Nicole Kiddman,Nicole Kidman,0.993,TRUE
+3580,Francis Mcdormand,Frances McDormand,0.898,TRUE
+3583,Dan Akyroyd,Dan Aykroyd,0.983,TRUE
+3586,Stanley Tucci,Stanley Tucci,1,TRUE
+3589,Christoph Waltz,Christoph Waltz,1,TRUE
+3592,Paul Rudd,Paul Rudd,1,TRUE
+3595,Alan Rickman,Alan Rickman,1,TRUE
+3598,Toni Colette,Toni Collette,0.99,TRUE
+3601,Liv Tyler,Liv Tyler,1,TRUE
+3604,Michael Shannon\,Michael Shannon,0.999,TRUE
+3607,Nathan Lane,Nathan Lane,1,TRUE
+3610,Hugh Grant,Hugh Grant,1,TRUE
+3613,Clive owen,Russell Crowe,0.632,FALSE
+3616,Burt Reynolds ,Burt Reynolds,1,TRUE
+3619,robin Williams,Robin Williams,1,TRUE
+3620,ethan hawk,Ethan Hawke,0.842,FALSE
+3623,Sylvester Stalone ,Sylvester Stallone,0.992,TRUE
+3626,dustin Hoffman ,Dustin Hoffman,1,TRUE
+3629,robert Redford ,Robert Redford,1,TRUE
+3632,Amy Adams ,Amy Adams,1,TRUE
+3635,Toni colette,Toni Collette,0.951,TRUE
+3638,drew Barrymore ,Drew Barrymore,1,TRUE
+3641,Harrison ford,Harrison Ford,1,TRUE
+3645,Demi Moore ,Demi Moore,1,TRUE
+3648,John c reily,John C. Reilly,0.903,TRUE
+3651,Malcolm MacDowell ,Malcolm McDowell,0.981,TRUE
+3654,Woody allen,Woody Allen,1,TRUE
+3657,Brooke shields ,Brooke Shields,1,TRUE
+3658,,Kathy Bates,0,FALSE
+3661,Matt Daemon,Matt Damon,0.989,TRUE
+3664,Will Smith,Will Smith,1,TRUE
+3666,COlin Firth,Colin Firth,1,TRUE
+3667,ALan Rickman,Alan Rickman,1,TRUE
+3668,Nicole Kidman,Nicole Kidman,1,TRUE
+3669,Mark Wahlberg,Mark Wahlberg,1,TRUE
+3670,Kevin James,Kevin James,1,TRUE
+3671,Martin Sheen,Martin Sheen,1,TRUE
+3672,Jonah Hill,Jonah Hill,1,TRUE
+3673,Helen Mirren,Helen Mirren,1,TRUE
+3674,Roy Schnider,Roy Scheider,0.964,TRUE
+3675,,Renee Zellweger,0,FALSE
+3676,Morgan Freeman,Morgan Freeman,1,TRUE
+3677,Patricia Arquette,Patricia Arquette,1,TRUE
+3678,Owen Wilson,Owen Wilson,1,TRUE
+3679,Sharon Stone,Sharon Stone,1,TRUE
+3680,Glenn Close,Glenn Close,1,TRUE
+3681,Zack Galafanakis,Zach Galifianakis,0.898,TRUE
+3682,Robert Duval,Robert Duvall,0.998,TRUE
+3683,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+3684,Charlise Theron,Charlize Theron,0.973,TRUE
+3685,Peter Gallagher,Peter Gallagher,1,TRUE
+3686,Daryl Hannah,Daryl Hannah,1,TRUE
+3687,Adrien Brody,Adrien Brody,1,TRUE
+3688,Rachel Mcadams,Rachel McAdams,1,TRUE
+3689,Anette Benning,Annette Bening,0.937,TRUE
+3690,Liv Tyler,Liv Tyler,1,TRUE
+3691,Emma Watson,Emma Watson,1,TRUE
+3692,Keane Reeves,Keanu Reeves,0.923,TRUE
+3693,Marion Cotilard,Marion Cotillard,0.995,TRUE
+3694,Peter Sarsguard,Peter Sarsgaard,0.988,TRUE
+3695,Kelly McDonald,Kelly MacDonald,0.963,TRUE
+3696,John Cusack,John Cusack,1,TRUE
+3697,Kate Hudson,Kate Hudson,1,TRUE
+3698,Steve Buscemi,Steve Buscemi,1,TRUE
+3699,Laura Dean,Laura Dern,0.987,TRUE
+3700,Scarlett’s Johansen,Scarlett Johansson,0.913,TRUE
+3701,Jeremy Irons,Jeremy Irons,1,TRUE
+3702,Ben Kingsly,Ben Kingsley,0.995,TRUE
+3703,,Will Ferrell,0,FALSE
+3704,Francis Mcdormand,Frances McDormand,0.898,TRUE
+3705,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+3706,Bradley Cooper,Bradley Cooper,1,TRUE
+3707,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+3708,Paul Giamatti,Paul Giamatti,1,TRUE
+3709,Tom WIlkenson,Tom Wilkinson,0.937,TRUE
+3713,James Gandolfini,James Gandolfini,1,TRUE
+3716,Billy Crystal,Billy Crystal,1,TRUE
+3719,Kyle Mcglaughlan,Kyle MacLachlan,0.889,TRUE
+3722,Patricia Arquette,Patricia Arquette,1,TRUE
+3725,Jake Gyllanhaal,Jake Gyllenhaal,0.973,TRUE
+3728,Alfred Molina,Alfred Molina,1,TRUE
+3731,Viggo Mortenson,Viggo Mortensen,0.994,TRUE
+3734,Christoph Wal,Christoph Waltz,0.994,TRUE
+3737,Ralph Finnes,Ralph Fiennes,0.979,TRUE
+3740,Rene Zelwegger,Renee Zellweger,0.875,TRUE
+3743,Ryan Gosling,Ryan Gosling,1,TRUE
+3746,Minnie Driver,Minnie Driver,1,TRUE
+3749,Peter Sarsguard,Peter Sarsgaard,0.988,TRUE
+3752,Mel Gibson,Mel Gibson,1,TRUE
+3755,Jim Carrey,Jim Carrey,1,TRUE
+3757,Joseph Gordon Levitt,Joseph Gordon-Levitt,0.988,TRUE
+3762,Blythe Danner,Blythe Danner,1,TRUE
+3765,Woddy Allen,Woody Allen,0.95,TRUE
+3768,Elijah Wood,Elijah Wood,1,TRUE
+3771,Tracy Ullman,Tracey Ullman,0.982,TRUE
+3774,Michael Douglas,Michael Douglas,1,TRUE
+3775,Brad Pitt,Brad Pitt,1,TRUE
+3778,Halle Berrie,Halle Berry,0.986,TRUE
+3784,Chris Rock ,Chris Rock,1,TRUE
+3787,Alan Rickman ,Alan Rickman,1,TRUE
+3790,Marisa Tomei ,Marisa Tomei,1,TRUE
+3793,Guy peirce ,Guy Pearce,0.9,TRUE
+3796,John Turturro,John Turturro,1,TRUE
+3799,Peter Gallagher ,Peter Gallagher,1,TRUE
+3802,Willem Dafoe ,Willem Dafoe,1,TRUE
+3804,Francis Macdonald,Seth Rogen,0.381,FALSE
+3807,Owen Wilson ,Owen Wilson,1,TRUE
+3809,Kate Winslet ,Russell Crowe,0.456,FALSE
+3811,Jeremy irons ,Jeremy Irons,1,TRUE
+3814,Sean Penn ,Sean Penn,1,TRUE
+3817,Andy Garcia ,Andy Garcia,1,TRUE
+3820,Arnold Schwarzenegger ,Arnold Schwarzenegger,1,TRUE
+3823,Keano reeves ,Keanu Reeves,0.908,TRUE
+3826,Julianne Moore ,Julianne Moore,1,TRUE
+3829,Russell Crowe ,Russell Crowe,1,TRUE
+3832,Juliette binoche ,Juliette Binoche,1,TRUE
+3835,Garry Oldman ,Gary Oldman,0.961,TRUE
+3838,Kevin  Costner ,Kevin Costner,1,TRUE
+3841,Michael Douglas ,Michael Douglas,1,TRUE
+3844,Marisa Tomei ,Marisa Tomei,1,TRUE
+3847,Kieffer Sutherland ,Kiefer Sutherland,0.972,TRUE
+3850,Peirce Brosnan ,Pierce Brosnan,0.957,TRUE
+3853,Jack black ,Jack Black,1,TRUE
+3856,Uma Thurman ,Uma Thurman,1,TRUE
+3859,Jonney depp,Johnny Depp,0.871,TRUE
+3861,Gary sineese ,Gary Sinise,0.877,TRUE
+3864,Jodie u,Jodie Foster,0.893,TRUE
+3867,Billy crystal ,Billy Crystal,1,TRUE
+3870,Willem Dafoe ,Willem Dafoe,1,TRUE
+3873,Kristin Scott Thomas ,Kristin Scott Thomas,1,TRUE
+3876,Bridgett fonda ,Bridget Fonda,0.951,TRUE
+3879,Bradley Cooper ,Bradley Cooper,1,TRUE
+3882,Jake Gyllenhaal ,Jake Gyllenhaal,1,TRUE
+3885,Halle berrie ,Halle Berry,0.912,TRUE
+3888,Benicio del torro ,Benicio Del Toro,0.936,TRUE
+3891,Nicholas cage ,Nicholas Cage,1,TRUE
+3893,Kevin Costner,Kevin Costner,1,TRUE
+3897,Liev Schreiber,Liev Schreiber,1,TRUE
+3900,Mike Myers,Mike Myers,1,TRUE
+3710,Paul Damo,Paul Dano,0.978,TRUE
+3714,Alan Alda,Alan Alda,1,TRUE
+3717,Juliette Binoche,Juliette Binoche,1,TRUE
+3720,Burt Reynolds,Burt Reynolds,1,TRUE
+3723,Helen Hunt,Helen Hunt,1,TRUE
+3726,Rickey Gervais,Ricky Gervais,0.946,TRUE
+3729,Roger Moore,Roger Moore,1,TRUE
+3732,Brooke Shields,Brooke Shields,1,TRUE
+3735,Maggie Gyllenhaal,Maggie Gyllenhaal,1,TRUE
+3738,Ryan Reynolds,Ryan Reynolds,1,TRUE
+3741,Ellen Barkin,Ellen Barkin,1,TRUE
+3744,Emily Blunt,Emily Blunt,1,TRUE
+3747,John Malcovitch,John Malkovich,0.944,TRUE
+3750,Amanda Peet,Amanda Peet,1,TRUE
+3753,Alan Arkin,Alan Arkin,1,TRUE
+3758,Michelle Phiffer,Michelle Pfeiffer,0.957,TRUE
+3759,Michael Keaton,Michael Keaton,1,TRUE
+3760,Jackie Chan,Jackie Chan,1,TRUE
+3763,Richard Gere,Richard Gere,1,TRUE
+3766,Antonio Banderas,Antonio Banderas,1,TRUE
+3769,Sally Fields,Sally Fields,1,TRUE
+3772,John Travolta,John Travolta,1,TRUE
+3776,Jeff Bridges,Jeff Bridges,1,TRUE
+3779,Leonardo De Caprio,Leonardo DiCaprio,0.956,TRUE
+3781,Paul Dano ,Paul Dano,1,TRUE
+3782,Rosanna Arquette ,Rosanna Arquette,1,TRUE
+3785,,Kathy Bates,0,FALSE
+3788,Selma Hayek ,Salma Hayek,0.83,FALSE
+3791,Edward Norton ,Edward Norton,1,TRUE
+3794,Gabriel Byrne ,Gabriel Byrne,1,TRUE
+3797,Penelope cruise ,Penelope Cruz,0.932,TRUE
+3800,James makevoy ,James McAvoy,0.884,TRUE
+3803,Francis Macdonald,Frances McDormand,0.853,TRUE
+3805,Meg Ryan ,Meg Ryan,1,TRUE
+3808,Kate Winslet ,Kate Winslet,1,TRUE
+3810,Zach Galifianakis ,Zach Galifianakis,1,TRUE
+3812,Blair underwood ,Blair Underwood,1,TRUE
+3815,Gwyneth Paltrow ,Gwyneth Paltrow,1,TRUE
+3818,Morgen Freeman ,Morgan Freeman,0.912,TRUE
+3821,Ed burns,Ed Burns,1,TRUE
+3824,Alan Rickman ,Alan Rickman,1,TRUE
+3827,Christoph waltz,Christoph Waltz,1,TRUE
+3830,Danny glover ,Danny Glover,1,TRUE
+3833,William hurt ,William Hurt,1,TRUE
+3836,Sean Connery ,Sean Connery,1,TRUE
+3839,Viggo Mortensen ,Viggo Mortensen,1,TRUE
+3842,Rosanna Arquette ,Rosanna Arquette,1,TRUE
+3845,Robert Duval ,Robert Duvall,0.996,TRUE
+3848,Tobey McGuire ,Tobey Maguire,0.939,TRUE
+3851,Naomi wstts,Naomi Watts,0.928,TRUE
+3854,Donald Sutherland ,Donald Sutherland,1,TRUE
+3857,Steve Martin ,Steve Martin,1,TRUE
+3860,Lindsay Lohan ,Lindsay Lohan,1,TRUE
+3862,Kevin Spacey,Kevin Spacey,1,TRUE
+3865,Burt Reynolds ,Burt Reynolds,1,TRUE
+3868,Glenn close,Glenn Close,1,TRUE
+3871,Sandra bullock ,Sandra Bullock,1,TRUE
+3874,Roy Schider ,Roy Scheider,0.964,TRUE
+3877,David ducovney ,David Duchovny,0.931,TRUE
+3880,Liv Tyler ,Liv Tyler,1,TRUE
+3883,Robin Williams ,Robin Williams,1,TRUE
+3886,Anthony Quinn ,Anthony Quinn,1,TRUE
+3889,Kathleen Turner ,Kathleen Turner,1,TRUE
+3894,Elizabeth Shue,Elisabeth Shue,0.963,TRUE
+3895,Sam Worthington,Sam Worthington,1,TRUE
+3898,Catherine Zeta Jones,Catherine Zeta-Jones,0.99,TRUE
+3711,Paul Dano,Paul Dano,1,TRUE
+3712,Holly Hunter,Holly Hunter,1,TRUE
+3715,Jeff Daniels,Jeff Daniels,1,TRUE
+3718,Albert Finney,Albert Finney,1,TRUE
+3721,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+3724,Rob Lowe,Rob Lowe,1,TRUE
+3727,Javier Bardem,Javier Bardem,1,TRUE
+3730,Kathlene Turner,Kathleen Turner,0.987,TRUE
+3733,Dan Akyroyd,Dan Aykroyd,0.983,TRUE
+3736,Hugh Grant,Hugh Grant,1,TRUE
+3739,Adrien Brody,Adrien Brody,1,TRUE
+3742,Peirce Brosnan,Pierce Brosnan,0.978,TRUE
+3745,Lucy Liu,Lucy Liu,1,TRUE
+3748,Ellen Page,Ellen Page,1,TRUE
+3751,Bill Murray,Bill Murray,1,TRUE
+3754,Will Farrel,Will Ferrell,0.94,TRUE
+3756,Hugh Jackman,Hugh Jackman,1,TRUE
+3761,Ben Afleck,Ben Affleck,0.986,TRUE
+3764,Joe Pesci,Joe Pesci,1,TRUE
+3767,Martin Sheen,Martin Sheen,1,TRUE
+3770,Angelina Jolie,Angelina Jolie,1,TRUE
+3773,Laura Linney,Laura Linney,1,TRUE
+3777,Val Kilmer,Val Kilmer,1,TRUE
+3780,Merryl Streep,Meryl Streep,0.916,TRUE
+3783,Al Pacino ,Al Pacino,1,TRUE
+3786,Jamie Lee Curtis ,Jamie Lee Curtis,1,TRUE
+3789,Chris Cooper ,Chris Cooper,1,TRUE
+4022,,Jason Bateman,0,FALSE
+3792,Goldie Hawn ,Goldie Hawn,1,TRUE
+3795,Jane fonda ,Jane Fonda,1,TRUE
+3798,Roy Schider ,Roy Scheider,0.964,TRUE
+3801,Emma stone ,Emma Stone,1,TRUE
+3806,Liam Neeson ,Liam Neeson,1,TRUE
+3813,Candice Bergen ,Candice Bergen,1,TRUE
+3816,Elijah wood ,Elijah Wood,1,TRUE
+3819,Paul rudd,Paul Rudd,1,TRUE
+3822,Jamie bell,Jamie Bell,1,TRUE
+3825,Brad Pitt ,Brad Pitt,1,TRUE
+3828,Daniel Radcliffe ,Daniel Radcliffe,1,TRUE
+3831,Jim belushi ,Jim Belushi,1,TRUE
+3834,,Albert Finney,0,FALSE
+3837,Danny devito,Danny DeVito,1,TRUE
+3840,Jim Carey ,Jim Carrey,0.98,TRUE
+3843,David Hasselhoff ,David Hasselhoff,1,TRUE
+3846,Woody allen,Woody Allen,1,TRUE
+3849, Bill Pullman ,Bill Pullman,1,TRUE
+3852,Bill Cosby ,Bill Cosby,1,TRUE
+3855,Patricia Arquette ,Patricia Arquette,1,TRUE
+3858,Jeffrey  Wright ,Jeffrey Wright,1,TRUE
+3863,Chris Rock ,Chris Rock,1,TRUE
+3866,Jennifer Lopez ,Jennifer Lopez,1,TRUE
+3869,David spade,David Spade,1,TRUE
+3872,Sigourney weaver ,Sigourney Weaver,1,TRUE
+3875,Michael Shannon ,Michael Shannon,1,TRUE
+3878,Timothy Dalton ,Timothy Dalton,1,TRUE
+3881,Jeremy Renner ,Jeremy Renner,1,TRUE
+3884,Jack Nicholson ,Jack Nicholson,1,TRUE
+3887,Hellen hayes,Helen Hunt,0.775,FALSE
+3890,Beau bridges ,Beau Bridges,1,TRUE
+3892,Nicholas cage ,Matthew Broderick,0.483,FALSE
+3896,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+3899,Edward Norton,Edward Norton,1,TRUE
+3901,,Mary-Louise Parker,0,FALSE
+3902,Mel Gibsen,Mel Gibson,0.987,TRUE
+3903,Paul Newman,Paul Newman,1,TRUE
+3904,Josh Brolin,Josh Brolin,1,TRUE
+3905,Andrien Brodey,Adrien Brody,0.904,TRUE
+3906,Tom Hanks,Tom Hanks,1,TRUE
+3907,Jude Law,Jude Law,1,TRUE
+3908,Dennis Hopper,Dennis Hopper,1,TRUE
+3909,John C. Reilly,John C. Reilly,1,TRUE
+3910,Greg Kineer,Greg Kinnear,0.971,TRUE
+3911,Goldie Hawn,Goldie Hawn,1,TRUE
+3912,Harrison Ford,Harrison Ford,1,TRUE
+3913,Helen Mirren,Helen Mirren,1,TRUE
+3914,Drew Barrymore,Drew Barrymore,1,TRUE
+3915,Tobey Mcguire,Tobey Maguire,0.976,TRUE
+3916,Greg Kinnear,Greg Kinnear,1,TRUE
+3917,Peter Coyote,Peter Coyote,1,TRUE
+3920,Jon Hamm,Jon Hamm,1,TRUE
+3923,Danny GLover,Danny Glover,1,TRUE
+3926,Bill Pullman,Bill Pullman,1,TRUE
+3929,Bill Murray,Bill Murray,1,TRUE
+3932,Colin Firth,Colin Firth,1,TRUE
+3935,Harrison Ford,Harrison Ford,1,TRUE
+3938,Donald Sutherland,Donald Sutherland,1,TRUE
+3941,Nicole Kiddman,Nicole Kidman,0.993,TRUE
+3944,Sam Worthington,Sam Worthington,1,TRUE
+3947,George Clooney,George Clooney,1,TRUE
+3950,Francis Mcdormand,Frances McDormand,0.898,TRUE
+3953,Judy Dench,Judi Dench,0.953,TRUE
+3956,ellen Degeneris,Ellen Degeneres,0.813,FALSE
+3959,Sean Connery,Sean Connery,1,TRUE
+3962,Tom Hans,Tom Hanks,0.989,TRUE
+3965,David Hasslehoff,David Hasselhoff,0.992,TRUE
+3968,Bill Cosby,Bill Cosby,1,TRUE
+3971,Dan Akyroyd,Dan Aykroyd,0.983,TRUE
+3974,Benecio Del Toro,Benicio Del Toro,0.93,TRUE
+3977,Tom Hardy,Tom Hardy,1,TRUE
+3980,John Leguzamo,John Leguizamo,0.991,TRUE
+3983,Jennifer Connely,Jennifer Connelly,0.998,TRUE
+3986,Dennis Hopper,Dennis Hopper,1,TRUE
+3989,Seth Rogen,Seth Rogen,1,TRUE
+3992,Gabriel Burns,Gabriel Byrne,0.968,TRUE
+3995,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+3998,Kim Bassinger,Kim Basinger,0.988,TRUE
+4001,Catherine Keener,Catherine Keener,1,TRUE
+4004,Jodie Foster,Jodie Foster,1,TRUE
+4007,Tim Blake Nelson,Tim Blake Nelson,1,TRUE
+4010,Alfred Molina,Alfred Molina,1,TRUE
+4015,Hope Davis ,Hope Davis,1,TRUE
+4018,Robin Williams ,Robin Williams,1,TRUE
+4021,Daryl Hannah ,Daryl Hannah,1,TRUE
+4024,Tom Wilkinson ,Tom Wilkinson,1,TRUE
+4027,Chris Cooper ,Chris Cooper,1,TRUE
+4030,Ethan Hawke ,Ethan Hawke,1,TRUE
+4033,Denzel Washington ,Denzel Washington,1,TRUE
+4036,Mark Ruffalo ,Mark Ruffalo,1,TRUE
+4039,Joe Pesci ,Joe Pesci,1,TRUE
+4044,Phillip Seymour Hoffman ,Philip Seymour Hoffman,0.977,TRUE
+4045,Danny devito,Danny DeVito,1,TRUE
+4046,Jonah hill,Jonah Hill,1,TRUE
+4048,Joseph Gordon Levitt ,Joseph Gordon-Levitt,0.982,TRUE
+4050,Rob Schneider ,Rob Schneider,1,TRUE
+4054,Goldie Hawn ,Goldie Hawn,1,TRUE
+4057,Miranda Richardson ,Miranda Richardson,1,TRUE
+4060,Christopher plummer ,Christopher Plummer,1,TRUE
+4063,Jennifer Connely ,Jennifer Connelly,0.995,TRUE
+4066,Barbara Hershey ,Barbara Hershey,1,TRUE
+4069,Albert finney ,Brian Cox,0.493,FALSE
+4072,Clive Owen ,Clive Owen,1,TRUE
+4075,Orlando Bloom ,Orlando Bloom,1,TRUE
+4079,Richard gere ,Richard Gere,1,TRUE
+4098,Brendan Frazier ,Brendan Fraser,0.973,TRUE
+4123,Jodie foster ,Jodie Foster,1,TRUE
+4125,Clive Owen,Clive Owen,1,TRUE
+4127,Katherin turner ,Kathleen Turner,0.867,TRUE
+4129,Christopher Plummer ,Christopher Plummer,1,TRUE
+4139,James Gandolfini ,James Gandolfini,1,TRUE
+4141,Antonio Banderas ,Antonio Banderas,1,TRUE
+4143,Mel Gibson ,Mel Gibson,1,TRUE
+4145,Sam Worthington ,Sam Worthington,1,TRUE
+4147,Elizabeth Perkins ,Elizabeth Perkins,1,TRUE
+3918,Charlie Sheen,Charlie Sheen,1,TRUE
+3921,Andie Macdowel,Andie MacDowell,0.973,TRUE
+3924,Mickey Rourke,Mickey Rourke,1,TRUE
+3927,Kevin Bacon,Kevin Bacon,1,TRUE
+3930,Mira Sorvino,Mira Sorvino,1,TRUE
+3933,Ed Burns,Ed Burns,1,TRUE
+3936,Samuel Jackson,Samuel L. Jackson,0.965,TRUE
+3939,Sarah Jesica Parker,Mary-Louise Parker,0.683,FALSE
+3942,Michelle Pfeiffer,Michelle Pfeiffer,1,TRUE
+3945,Kurt Russel,Kurt Russell,0.998,TRUE
+3948,Antonio Banderias,Antonio Banderas,0.997,TRUE
+3951,Laura Dern,Laura Dern,1,TRUE
+3954,Peter Sarsguard,Peter Sarsgaard,0.988,TRUE
+3957,Russel Crowe,Russell Crowe,0.986,TRUE
+3960,Adam Sandler,Adam Sandler,1,TRUE
+3963,Marion Cottilard,Marion Cotillard,0.984,TRUE
+3966,Michael J. Foxx,Michael J. Fox,0.999,TRUE
+3969,Dennis Leary,Denis Leary,0.979,TRUE
+3972,Blythe Danner,Blythe Danner,1,TRUE
+3975,Lindsay Lohan,Lindsay Lohan,1,TRUE
+3978,Sam Shepard,Sam Shepard,1,TRUE
+3981,Jude Law,Jude Law,1,TRUE
+3984,Jerry Lewis,Jerry Lewis,1,TRUE
+3987,Forest Whitiker,Forest Whitaker,0.988,TRUE
+3990,Alec baldwin,Alec Baldwin,1,TRUE
+3993,James Mcavoy,James McAvoy,1,TRUE
+3996,Jamie Lee Curtis,Jamie Lee Curtis,1,TRUE
+3999,Sarah Jessica Parker,Sarah Jessica Parker,1,TRUE
+4002,Ben Stiller,Ben Stiller,1,TRUE
+4005,Jack Nicholsen,Jack Nicholson,0.993,TRUE
+4008,Colin Farrell,Colin Farrell,1,TRUE
+4011,,Will Ferrell,0,FALSE
+4013,Billy crystal ,Billy Crystal,1,TRUE
+4016,Rachel macadams,Rachel McAdams,0.909,TRUE
+4019,Alan Alda ,Alan Alda,1,TRUE
+4025,Jon voight,Jon Voight,1,TRUE
+4028,Bill Cosby ,Bill Cosby,1,TRUE
+4031,,Kelly MacDonald,0,FALSE
+4034,Jennifer Jason Leigh ,Jennifer Jason Leigh,1,TRUE
+4037,Steve Martin ,Steve Martin,1,TRUE
+4040,Elijah wood ,Elijah Wood,1,TRUE
+4042,Chris Rock,Chris Rock,1,TRUE
+4047,Robert Downey Jr,Robert Downey Jr.,0.999,TRUE
+4055,Harrison Ford ,Harrison Ford,1,TRUE
+4058,Martin sheen ,Martin Sheen,1,TRUE
+4061,Anette Benning ,Annette Bening,0.919,TRUE
+4064,Tracy Ullman ,Tracey Ullman,0.964,TRUE
+4067,Gene Hackman ,Gene Hackman,1,TRUE
+4070,Peter cayote,Peter Coyote,0.928,TRUE
+4073,Danny glover ,Danny Glover,1,TRUE
+4076,Hugh Grant ,Hugh Grant,1,TRUE
+4080,Amy Adams ,Amy Adams,1,TRUE
+4099,Barbara Hershey,Barbara Hershey,1,TRUE
+4122,Paul Rudd ,Paul Rudd,1,TRUE
+4124,Glenn close,Glenn Close,1,TRUE
+4126,Rene Russo,Rene Russo,1,TRUE
+4128,Naomi Watts ,Naomi Watts,1,TRUE
+4130,Sigourney weaver,Sigourney Weaver,1,TRUE
+4140,Liv Tyler ,Liv Tyler,1,TRUE
+4142,Paul rudd,Paul Rudd,1,TRUE
+4144,Al Pacino ,Al Pacino,1,TRUE
+4146,Josh Brolin ,Josh Brolin,1,TRUE
+4148,Seth Rogan ,Seth Rogen,0.974,TRUE
+3919,Larua Linney,Laura Linney,0.977,TRUE
+3922,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+3925,Robin Williams,Robin Williams,1,TRUE
+3928,Toni Colette,Toni Collette,0.99,TRUE
+3931,Reese Witherspoon,Reese Witherspoon,1,TRUE
+3934,Kevin Costner,Kevin Costner,1,TRUE
+3937,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+3940,Martin Sheen,Martin Sheen,1,TRUE
+3943,Jane Fonda,Jane Fonda,1,TRUE
+3946,John Voight,Jon Voight,0.975,TRUE
+3949,Clive Owen,Clive Owen,1,TRUE
+3952,Jeremy Irons,Jeremy Irons,1,TRUE
+3955,Don Cheadle,Don Cheadle,1,TRUE
+3958,Meg Ryan,Meg Ryan,1,TRUE
+3961,Oliver Platt,Oliver Platt,1,TRUE
+3964,Paul Giamatti,Paul Giamatti,1,TRUE
+3967,Gary Sinease,Gary Sinise,0.96,TRUE
+3970,Brad Pitt,Brad Pitt,1,TRUE
+3973,Richard Gere,Richard Gere,1,TRUE
+3976,Brooke Shileds,Brooke Shields,0.993,TRUE
+3979,Steve Buschemi,Steve Buscemi,0.993,TRUE
+3982,Jill Clayburg,Jill Clayburgh,0.998,TRUE
+3985,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+3988,Nick Nolte,Nick Nolte,1,TRUE
+3991,Rickeh Gervais,Ricky Gervais,0.928,TRUE
+3994,Jesica Chastain,Jessica Chastain,0.911,TRUE
+3997,Billy Crystal,Billy Crystal,1,TRUE
+4000,Mike Myers,Mike Myers,1,TRUE
+4003,Jake Gylenhaal,Jake Gyllenhaal,0.967,TRUE
+4006,Ewan McGreggor,Ewan McGregor,0.995,TRUE
+4009,Penelope Cruz,Penelope Cruz,1,TRUE
+4012,Emily Blunt,Emily Blunt,1,TRUE
+4014,Alan arkin,Alan Arkin,1,TRUE
+4017,Andy Garcia ,Andy Garcia,1,TRUE
+4020,Elliot Gould ,Elliott Gould,0.972,TRUE
+4023,George Lopez ,George Lopez,1,TRUE
+4026,Jeff bridges ,Jeff Bridges,1,TRUE
+4029,Christopher Walken ,Christopher Walken,1,TRUE
+4032,Judy Dench ,Judi Dench,0.932,TRUE
+4035,Steven sigal,Steven Seagal,0.923,TRUE
+4038,Paul Giamatti ,Paul Giamatti,1,TRUE
+4041,Burt Reynolds,Burt Reynolds,1,TRUE
+4043,Laura linney,Laura Linney,1,TRUE
+4049,Guy peirce ,Guy Pearce,0.9,TRUE
+4051,Patricia Arquette ,Patricia Arquette,1,TRUE
+4052,Jack black ,Jack Black,1,TRUE
+4053,Halle berrie ,Halle Berry,0.912,TRUE
+4056,John c Reilly ,John C. Reilly,0.939,TRUE
+4059,Macaulay calkin ,Macaulay Culkin,0.953,TRUE
+4062,Anna Paquin ,Anna Paquin,1,TRUE
+4065,Elizabeth Shue ,Elisabeth Shue,0.945,TRUE
+4068,Mira sorvino ,Mira Sorvino,1,TRUE
+4071,Emma watson,Emma Watson,1,TRUE
+4074,George Clooney ,George Clooney,1,TRUE
+4077,Eddie Murphy ,Eddie Murphy,1,TRUE
+4078,Dennis hopper ,Dennis Hopper,1,TRUE
+4081,Kevin James,Kevin James,1,TRUE
+4082,Bill Murray ,Bill Murray,1,TRUE
+4083,Cameron Diaz ,Cameron Diaz,1,TRUE
+4084,Rob Lowe ,Rob Lowe,1,TRUE
+4085,Peter gallagher,Peter Gallagher,1,TRUE
+4086,Winona Ryder,Winona Ryder,1,TRUE
+4087,Sean penn,Sean Penn,1,TRUE
+4088,Kevin costner,Kevin Costner,1,TRUE
+4089,Malcolm Mcdowel,Malcolm McDowell,0.976,TRUE
+4090,John cusack,John Cusack,1,TRUE
+4091,John Malkovich ,John Malkovich,1,TRUE
+4092,Robert Downey jr. ,Robert Downey Jr.,1,TRUE
+4093,Christian slater,Christian Slater,1,TRUE
+4094,Jack black,Jack Black,1,TRUE
+4095,Holly hunters ,Holly Hunter,0.943,TRUE
+4096,William hurt ,William Hurt,1,TRUE
+4097,Cathy bates,Kathy Bates,0.879,TRUE
+4100,Dennis Miller ,Dennis Miller,1,TRUE
+4101,Rosanna arquette,Rosanna Arquette,1,TRUE
+4102,Robert ducal,Robert Duvall,0.939,TRUE
+4103,Jennifer connely ,Jennifer Connelly,0.963,TRUE
+4105,Ben afleck ,Ben Affleck,0.923,TRUE
+4107,Benecio del toro,Benicio Del Toro,0.857,TRUE
+4109,Jimmy smits,Jimmy Smits,1,TRUE
+4111,Catherin keener ,Catherine Keener,0.935,TRUE
+4113,Joaquin Phoenix ,Joaquin Phoenix,1,TRUE
+4115,Geoffrey rush,Geoffrey Rush,1,TRUE
+4117,Mackauly calkin ,Macaulay Culkin,0.892,TRUE
+4119,Eva mendes ,Eva Mendes,1,TRUE
+4121,,Mary-Louise Parker,0,FALSE
+4132,Sean penn,Sean Penn,1,TRUE
+4134,Jeremy renner,Jeremy Renner,1,TRUE
+4136,Woody Allen ,Woody Allen,1,TRUE
+4138,Mickey Rourke ,Mickey Rourke,1,TRUE
+4104,Steven degas,Steven Seagal,0.923,TRUE
+4106,Julia roberts ,Julia Roberts,1,TRUE
+4108,Tulsa swinton,Tilda Swinton,0.858,TRUE
+4110,Michelle phiffer ,Michelle Pfeiffer,0.922,TRUE
+4112,Kevin spacey,Kevin Spacey,1,TRUE
+4114,,Jonah Hill,0,FALSE
+4116,Peter o’toole,Peter O'toole,0.898,TRUE
+4118,Billy crystal,Billy Crystal,1,TRUE
+4120,Donald sutherland,Donald Sutherland,1,TRUE
+4131,Cameron diaz,Cameron Diaz,1,TRUE
+4133,Jeff goldblum ,Jeff Goldblum,1,TRUE
+4135,Kiefer Sutherland ,Kiefer Sutherland,1,TRUE
+4137,Ed Harris ,Ed Harris,1,TRUE
+4149,Ryan gossling,Ryan Gosling,0.951,TRUE
+4150,Elendig DeGeneres ,Ellen Degeneres,0.872,TRUE
+4151,Jessica Chastain ,Jessica Chastain,1,TRUE
+4152,Mary steinburgen ,Mary Steenburgen,0.879,TRUE
+4153,Andie MacDowell ,Andie MacDowell,1,TRUE
+4154,Laura dern ,Laura Dern,1,TRUE
+4155,Ben stiller ,Ben Stiller,1,TRUE
+4156,Bradley Cooper ,Bradley Cooper,1,TRUE
+4157,Chevy chase,Chevy Chase,1,TRUE
+4158,James woods ,James Woods,1,TRUE
+4159,Leonardo de caprio ,Leonardo DiCaprio,0.898,TRUE
+4160,Juliette binoche ,Juliette Binoche,1,TRUE
+4161,Bill Murray ,Bill Murray,1,TRUE
+4162,Cathrine Turner ,Kathleen Turner,0.794,FALSE
+4163,David Dukovney,David Duchovny,0.959,TRUE
+4164,Kyle McGlaughlan,Kyle MacLachlan,0.889,TRUE
+4165,Zack Galafanakis,Zach Galifianakis,0.898,TRUE
+4166,Nick Nolte,Nick Nolte,1,TRUE
+4167,Demi Moore,Demi Moore,1,TRUE
+4168,Javier Bardem,Javier Bardem,1,TRUE
+4169,Jennifer Jason Lee,Jennifer Jason Leigh,0.99,TRUE
+4170,Rene Zelwegger,Renee Zellweger,0.875,TRUE
+4171,Mary Steinbergen,Mary Steenburgen,0.968,TRUE
+4172,Bill Cosbby,Bill Cosby,0.994,TRUE
+4173,Minnie Driver,Minnie Driver,1,TRUE
+4174,Jason Lopez,George Lopez,0.645,FALSE
+4175,Collin Farrel,Colin Farrell,0.961,TRUE
+4176,Daniel Craig,Daniel Craig,1,TRUE
+4177,Charlise Theron,Charlize Theron,0.973,TRUE
+4178,Merly Streep,Meryl Streep,0.979,TRUE
+4179,Jeff Goldblum,Jeff Goldblum,1,TRUE
+4180,Forest Witaker,Forest Whitaker,0.99,TRUE
+4181,,Albert Finney,0,FALSE
+4182,Liv Tyler,Liv Tyler,1,TRUE
+4183,Jamie Bell,Jamie Bell,1,TRUE
+4184,Helen MIrren,Helen Mirren,1,TRUE
+4185,Danny Devito,Danny DeVito,1,TRUE
+4186,Mickey Rhourke,Mickey Rourke,0.99,TRUE
+4187,Ellen Degeneris,Ellen Degeneres,0.994,TRUE
+4188,Orlando Bloom,Orlando Bloom,1,TRUE
+4189,,Cate Blanchett,0,FALSE
+4190,Alfred Molina,Alfred Molina,1,TRUE
+4191,Keifer Sutherland,Kiefer Sutherland,0.982,TRUE
+4192,Antonio Banderas,Antonio Banderas,1,TRUE
+4193,David Schwimmer,David Schwimmer,1,TRUE
+4194,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+4195,Kim Bassinger,Kim Basinger,0.988,TRUE
+4196,Amy Adams,Amy Adams,1,TRUE
+4197,Sam Worthington,Sam Worthington,1,TRUE
+4198,Drew Barrymore,Drew Barrymore,1,TRUE
+4199,Edward Norton,Edward Norton,1,TRUE
+4200,Philip Seymour Hoffman,Philip Seymour Hoffman,1,TRUE
+4201,Jon Voight,Jon Voight,1,TRUE
+4202,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+4203,Paul Giamatti,Paul Giamatti,1,TRUE
+4204,Michael Douglas,Michael Douglas,1,TRUE
+4205,Elliot Gould,Elliott Gould,0.986,TRUE
+4206,Cate Winslet,Kate Winslet,0.944,TRUE
+4207,Julianne Moore,Julianne Moore,1,TRUE
+4208,Alan Arkinb,Alan Arkin,0.997,TRUE
+4209,Scarlet Johanson,Scarlett Johansson,0.977,TRUE
+4210,Goldie Hawn,Goldie Hawn,1,TRUE
+4211,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+4237,Robert Duval,Robert Duvall,0.998,TRUE
+4239,Jill Clayburg,Jill Clayburgh,0.998,TRUE
+4241,Alec Baldwin,Alec Baldwin,1,TRUE
+4243,Denzel Washington,Denzel Washington,1,TRUE
+4245,Christian bale,Christian Slater,0.958,TRUE
+4247,Eddie Murphy,Eddie Murphy,1,TRUE
+4249,Sam Worthington,Sam Worthington,1,TRUE
+4251,Rene Zellweger,Renee Zellweger,0.914,TRUE
+4253,Stanley TUcci,Stanley Tucci,1,TRUE
+4255,Michael J. Fox,Michael J. Fox,1,TRUE
+4257,Vince Vaughn,Vince Vaughn,1,TRUE
+4259,Brian COx,Ian Holm,0.569,FALSE
+4352,Helen hunt ,Helen Hunt,1,TRUE
+4354,Bill Pullman ,Bill Pullman,1,TRUE
+4356,Mira sorvino ,Mira Sorvino,1,TRUE
+4358,Joan Cusack ,Joan Cusack,1,TRUE
+4360,Roger Moore ,Roger Moore,1,TRUE
+4362,Burt Reynolds ,Burt Reynolds,1,TRUE
+4363,Steve Buscemi,Steve Buscemi,1,TRUE
+4365,Rosanna Arquette,Rosanna Arquette,1,TRUE
+4367,Reese Witherspoon,Reese Witherspoon,1,TRUE
+4369,Tracy Ullman,Tracey Ullman,0.982,TRUE
+4371,Francis Mcdormand,Frances McDormand,0.898,TRUE
+4373,,Tim Blake Nelson,0,FALSE
+4375,Anna Paquin,Anna Paquin,1,TRUE
+4377,Julia Roberts,Julia Roberts,1,TRUE
+4379,Drew Barrimore,Drew Barrymore,0.983,TRUE
+4381,Glenn Close,Glenn Close,1,TRUE
+4383,Bill Cosby,Bill Cosby,1,TRUE
+4385,Paul Giamatti,Paul Giamatti,1,TRUE
+4387,Peter Ghallagher,Peter Gallagher,0.963,TRUE
+4389,Stanley Tucci,Stanley Tucci,1,TRUE
+4391,Mira Sorvino,Mira Sorvino,1,TRUE
+4393,Rob Schnider,Rob Schneider,0.979,TRUE
+4395,Ian Holm,Ian Holm,1,TRUE
+4397,Debra Winger,Debra Winger,1,TRUE
+4399,Christian Bale,Christian Bale,1,TRUE
+4401,Robin Williams,Robin Williams,1,TRUE
+4403,David Ducovny,David Duchovny,0.991,TRUE
+4405,Michael Fasbender,Michael Fassbender,0.993,TRUE
+4212,Issabella Rosselini,Isabella Rossellini,0.969,TRUE
+4213,Forest Wittaker,Forest Whitaker,0.979,TRUE
+4214,Lucy Liu,Lucy Liu,1,TRUE
+4215,Anthony Quinn,Anthony Quinn,1,TRUE
+4216,Antonio Banderous,Antonio Banderas,0.989,TRUE
+4217,Jeff Bridges,Jeff Bridges,1,TRUE
+4218,Andie Mcdowel,Andie MacDowell,0.951,TRUE
+4219,Kate Winslett,Kate Winslet,0.998,TRUE
+4220,Alan Rickman,Alan Rickman,1,TRUE
+4221,Ben Stiller,Ben Stiller,1,TRUE
+4222,Jennifer Aniston,Jennifer Aniston,1,TRUE
+4223,Chris Cooper,Chris Cooper,1,TRUE
+4224,Frank Langella,Frank Langella,1,TRUE
+4225,Lindsay lohan,Lindsay Lohan,1,TRUE
+4226,Harrison Ford,Harrison Ford,1,TRUE
+4227,Jeremy Renner,Jeremy Renner,1,TRUE
+4228,Jeff Goldblum,Jeff Goldblum,1,TRUE
+4229,James Macevoy,James McAvoy,0.964,TRUE
+4230,Rene Russo,Rene Russo,1,TRUE
+4231,Christopher Plummer,Christopher Plummer,1,TRUE
+4232,Isabella Rosselini,Isabella Rossellini,0.996,TRUE
+4233,Kevin Spacey,Kevin Spacey,1,TRUE
+4234,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+4235,Liam Neeson,Liam Neeson,1,TRUE
+4236,,Jonah Hill,0,FALSE
+4238,Ellen Page ,Ellen Page,1,TRUE
+4240,Antony Hopkins,Anthony Hopkins,0.982,TRUE
+4242,Jeremy Irons,Jeremy Irons,1,TRUE
+4244,TOmmy Lee Jones,Tommy Lee Jones,1,TRUE
+4246,Debora Winger,Debra Winger,0.98,TRUE
+4248,Ethan Hawks,Ethan Hawke,0.994,TRUE
+4250,Jim Carrey,Jim Carrey,1,TRUE
+4252,John C. Reilly,John C. Reilly,1,TRUE
+4254,Angelina Jolie,Angelina Jolie,1,TRUE
+4256,Roy Schnider,Roy Scheider,0.964,TRUE
+4258,Jon VOight,Jon Voight,1,TRUE
+4260,Tim Robbins,Tim Robbins,1,TRUE
+4261,Meryl Streep,Meryl Streep,1,TRUE
+4262,Timothy Dalton,Timothy Dalton,1,TRUE
+4263,Kate HUdson,Kate Hudson,1,TRUE
+4264,Mark Ruffalo,Mark Ruffalo,1,TRUE
+4265,Dustin Hoffman,Dustin Hoffman,1,TRUE
+4266,Michael Keaton,Michael Keaton,1,TRUE
+4267,Bradley Cooper,Bradley Cooper,1,TRUE
+4268,Naomi Watts,Naomi Watts,1,TRUE
+4269,Clink Eastwood,Clint Eastwood,0.929,TRUE
+4270,Natalie Portman,Natalie Portman,1,TRUE
+4271,Drew Barrymore,Drew Barrymore,1,TRUE
+4272,,Joe Pesci,0,FALSE
+4273,Sarah Jessica Parker,Sarah Jessica Parker,1,TRUE
+4274,Malcolm McDowell,Malcolm McDowell,1,TRUE
+4275,Ben Affleck,Ben Affleck,1,TRUE
+4276,Emily Watson,Emma Watson,0.849,FALSE
+4277,Jeff Daniels,Jeff Daniels,1,TRUE
+4278,Sidney Poitier,Sidney Poitier,1,TRUE
+4279,John Hawkes,John Hawkes,1,TRUE
+4280,Hugh Grant,Hugh Grant,1,TRUE
+4281,Gary Oldman,Gary Oldman,1,TRUE
+4282,David Spade,David Spade,1,TRUE
+4283,Bruce Willis,Bruce Willis,1,TRUE
+4284,Rob Schnider,Rob Schneider,0.979,TRUE
+4285,Brook Shields,Brooke Shields,0.952,TRUE
+4286,Orlando Bloom,Orlando Bloom,1,TRUE
+4287,Christian Bale,Christian Bale,1,TRUE
+4288,Chevy Chase,Chevy Chase,1,TRUE
+4289,Helen Miron,Helen Mirren,0.979,TRUE
+4290,Steven Segal,Steven Seagal,0.984,TRUE
+4291,Holly. Hunter,Holly Hunter,0.984,TRUE
+4292,Jane Fonda,Jane Fonda,1,TRUE
+4293,Kenneth Brannaugh,Kenneth Branagh,0.988,TRUE
+4294,Paul Rudd,Paul Rudd,1,TRUE
+4295,Jack Black,Jack Black,1,TRUE
+4296,Rosie Perez,Rosie Perez,1,TRUE
+4297,Sharon Stone,Sharon Stone,1,TRUE
+4298,Donald Sutherland,Donald Sutherland,1,TRUE
+4299,Will Smith,Will Smith,1,TRUE
+4300,Dennis Leary,Denis Leary,0.979,TRUE
+4302,Scarlett Johansson,Scarlett Johansson,1,TRUE
+4304,Dennis HOpper,Dennis Hopper,1,TRUE
+4306,John Cusack,John Cusack,1,TRUE
+4308,Jonny Depp,Johnny Depp,0.975,TRUE
+4310,Daniel Day-Lewis,Daniel Day-Lewis,1,TRUE
+4312,Kirstin Dunst,Kirsten Dunst,0.968,TRUE
+4314,Sidney Poitier ,Sidney Poitier,1,TRUE
+4316,Steven Segal ,Steven Seagal,0.976,TRUE
+4318,Will Smith ,Will Smith,1,TRUE
+4320,Jamie Foxx ,Jamie Foxx,1,TRUE
+4322,Jamie bell ,Jamie Bell,1,TRUE
+4324,Gary senise ,Gary Sinise,0.873,TRUE
+4326,Maggie Gyllenhaal ,Maggie Gyllenhaal,1,TRUE
+4328,Keano reeves ,Keanu Reeves,0.908,TRUE
+4330,Dennis Miller ,Dennis Miller,1,TRUE
+4332,Richard gere ,Richard Gere,1,TRUE
+4334,Antonio Banderas ,Antonio Banderas,1,TRUE
+4336,Chris Cooper ,Chris Cooper,1,TRUE
+4338,Jill clayberg ,Jill Clayburgh,0.908,TRUE
+4340,Elizabeth Perkins ,Elizabeth Perkins,1,TRUE
+4342,Minnie driver ,Minnie Driver,1,TRUE
+4344,Sharon stone ,Sharon Stone,1,TRUE
+4346,Kyle Mclaughlin ,Kyle MacLachlan,0.841,FALSE
+4348,Forest Whittaker ,Forest Whitaker,0.986,TRUE
+4350,Geoffrey rush ,Geoffrey Rush,1,TRUE
+4301,NIcole Kidman,Nicole Kidman,1,TRUE
+4303,Vanessa Redgrave,Vanessa Redgrave,1,TRUE
+4305,Emma Thompson,Emma Thompson,1,TRUE
+4307,Gabriel Byrne,Gabriel Byrne,1,TRUE
+4309,Jennifer Lawrence,Jennifer Lawrence,1,TRUE
+4311,Ryan Reynolds,Ryan Reynolds,1,TRUE
+4313,James woods ,James Woods,1,TRUE
+4315,Cate Blanchett ,Cate Blanchett,1,TRUE
+4317,Angelina Jolie ,Angelina Jolie,1,TRUE
+4319,Philip Seymour Hoffman ,Philip Seymour Hoffman,1,TRUE
+4321,Dennis leary ,Denis Leary,0.918,TRUE
+4323,Liam Neeson ,Liam Neeson,1,TRUE
+4325,Peter Gallagher ,Peter Gallagher,1,TRUE
+4327,Nathan lane ,Nathan Lane,1,TRUE
+4329,David Schwimmer ,David Schwimmer,1,TRUE
+4331,Sissy spaseck ,Sissy Spacek,0.926,TRUE
+4333,,Mark Ruffalo,0,FALSE
+4335,Helen Mirren ,Helen Mirren,1,TRUE
+4337,Juliette binoche ,Juliette Binoche,1,TRUE
+4339,Sigourney weaver ,Sigourney Weaver,1,TRUE
+4341,Jennifer Lawrence ,Jennifer Lawrence,1,TRUE
+4343,Edward Norton ,Edward Norton,1,TRUE
+4345,Samuel L Jackson ,Samuel L. Jackson,0.979,TRUE
+4347,Orlando Bloom ,Orlando Bloom,1,TRUE
+4349,Zack Galifianakis ,Zach Galifianakis,0.953,TRUE
+4351,Adam Sandler ,Adam Sandler,1,TRUE
+4353,Arnold Schwarzenegger ,Arnold Schwarzenegger,1,TRUE
+4355,Vigo Mortensen ,Viggo Mortensen,0.964,TRUE
+4357,Meg Ryan ,Meg Ryan,1,TRUE
+4359,Bruce Willis ,Bruce Willis,1,TRUE
+4361,Peirce Brosnan ,Pierce Brosnan,0.957,TRUE
+4364,Kevin James,Kevin James,1,TRUE
+4366,Eliott Gould,Elliott Gould,0.978,TRUE
+4368,Sam WOrthington,Sam Worthington,1,TRUE
+4370,Denzel Washington,Denzel Washington,1,TRUE
+4372,Judy Dench,Judi Dench,0.953,TRUE
+4374,Daniel Radcliffe,Daniel Radcliffe,1,TRUE
+4376,Nicholas Cage,Nicholas Cage,1,TRUE
+4378,Ben Affleck,Ben Affleck,1,TRUE
+4380,Sissy Spacek,Sissy Spacek,1,TRUE
+4382,Kevin Spacey,Kevin Spacey,1,TRUE
+4384,George Lopez,George Lopez,1,TRUE
+4386,Jude Law,Jude Law,1,TRUE
+4388,Juaqim Pheonix,Joaquin Phoenix,0.841,FALSE
+4390,Jennifer Jason Leigh,Jennifer Jason Leigh,1,TRUE
+4392,Peirce Brosnan,Pierce Brosnan,0.978,TRUE
+4394,Angelina Jolie,Angelina Jolie,1,TRUE
+4396,Leonardo De Caprio,Leonardo DiCaprio,0.956,TRUE
+4398,Kate Hudson,Kate Hudson,1,TRUE
+4400,Kristin Scott Thomas,Kristin Scott Thomas,1,TRUE
+4402,Jesica Chastain,Jessica Chastain,0.911,TRUE
+4404,Julianne Moore,Julianne Moore,1,TRUE
+4406,Allan Arkin,Alan Arkin,0.975,TRUE
+4407,David Spade,David Spade,1,TRUE
+4408,Jamie Bell,Jamie Bell,1,TRUE
+4409,Willem Dafoe,Willem Dafoe,1,TRUE
+4410,Tom Hanks,Tom Hanks,1,TRUE
+4411,Jeffery Wright,Jeffrey Wright,0.983,TRUE
+4412,Eddie Murphy\,Eddie Murphy,0.998,TRUE
+4413,Tom Arnold,Tom Arnold,1,TRUE
+4414,Jeremy Irons,Jeremy Irons,1,TRUE
+4415,Arnold Schwartzenegger,Arnold Schwarzenegger,0.994,TRUE
+4416,Ryan Reynolds,Ryan Reynolds,1,TRUE
+4417,Donald Sutherland\,Donald Sutherland,0.999,TRUE
+4418,Zach Galifinakis,Zach Galifianakis,0.986,TRUE
+4419,Candice Bergan,Candice Bergen,0.993,TRUE
+4420,jill clayburg,Jill Clayburgh,0.877,TRUE
+4421,Sally Fields,Sally Fields,1,TRUE
+4422,Billy Crystal,Billy Crystal,1,TRUE
+4423,David Schwimmer,David Schwimmer,1,TRUE
+4424,Tom Hardy,Tom Hardy,1,TRUE
+4425,Liev Schriber,Liev Schreiber,0.982,TRUE
+4426,Forest Whittiker,Forest Whitaker,0.98,TRUE
+4427,John Travolta,John Travolta,1,TRUE
+4428,Steven Segal,Steven Seagal,0.984,TRUE
+4429,Blair Underwood,Blair Underwood,1,TRUE
+4430,Cathlene Turner,Kathleen Turner,0.932,TRUE
+4431,Tom Wilkenson,Tom Wilkinson,0.98,TRUE
+4432,Toni Colette,Toni Collette,0.99,TRUE
+4433,Bridget Fonda,Bridget Fonda,1,TRUE
+4434,Daryl Hannah,Daryl Hannah,1,TRUE
+4435,Beau Bridges,Beau Bridges,1,TRUE
+4436,Mary Steinburgen,Mary Steenburgen,0.946,TRUE
+4437,Vince Vaughn,Vince Vaughn,1,TRUE
+4438,Danny Devito,Danny DeVito,1,TRUE
+4439,Jimmy Smits,Jimmy Smits,1,TRUE
+4440,Dan Akyroyd,Dan Aykroyd,0.983,TRUE
+4441,Christoph Waltz,Christoph Waltz,1,TRUE
+4442,Javier Bardem,Javier Bardem,1,TRUE
+4443,John C. Reilly,John C. Reilly,1,TRUE
+4444,Clint Eastwood,Clint Eastwood,1,TRUE
+4445,Josh Brolin,Josh Brolin,1,TRUE
+4446,Chris Rock,Chris Rock,1,TRUE
+4447,Brad Pitt,Brad Pitt,1,TRUE
+4448,Paul Rudd,Paul Rudd,1,TRUE
+4449,John Cusack,John Cusack,1,TRUE
+4450,Penelope Cruise,Penelope Cruz,0.982,TRUE
+4451,Morgen Friedman,Morgan Freeman,0.912,TRUE
+4452,Paul Newman,Paul Newman,1,TRUE
+4453,Martin Lawrence,Martin Lawrence,1,TRUE
+4454,Gweneth Paltro,Gwyneth Paltrow,0.919,TRUE
+4456,Laura Dern,Laura Dern,1,TRUE
+4458,Samuel L. Jackson,Samuel L. Jackson,1,TRUE
+4460,Anette Benning,Annette Bening,0.937,TRUE
+4462,Daniel Craigt,Daniel Craig,0.998,TRUE
+4486,Brooke Shields ,Brooke Shields,1,TRUE
+4488,Goldie Hawn ,Goldie Hawn,1,TRUE
+4490,David Hasselhoff ,David Hasselhoff,1,TRUE
+4492,Candice bergen,Candice Bergen,1,TRUE
+4494,Ben Affleck ,Ben Affleck,1,TRUE
+4496,Kinney ,Johnny Depp,0.656,FALSE
+4498,Oliver Platt ,Oliver Platt,1,TRUE
+4500,Paul Newman ,Paul Newman,1,TRUE
+4502,Peter sarsguard,Peter Sarsgaard,0.931,TRUE
+4504,Alan arkin ,Alan Arkin,1,TRUE
+4506,David ducovney ,David Duchovny,0.931,TRUE
+4508,Jeremy irons ,Jeremy Irons,1,TRUE
+4510,Andie MacDowell ,Andie MacDowell,1,TRUE
+4512,Helena bonham Carter ,Helena Bonham Carter,1,TRUE
+4455,Brooke Shields,Brooke Shields,1,TRUE
+4457,Robert Duva.,Robert Duvall,0.988,TRUE
+4459,Clive Owen,Clive Owen,1,TRUE
+4461,Albert Brooks,Albert Brooks,1,TRUE
+4463,Uma Thurman ,Uma Thurman,1,TRUE
+4464,Holly hunter ,Holly Hunter,1,TRUE
+4465,Tim Robbins ,Tim Robbins,1,TRUE
+4466,Catherine keener ,Catherine Keener,1,TRUE
+4467,George leguizamo ,John Leguizamo,0.701,FALSE
+4468,Martin Lawrence ,Martin Lawrence,1,TRUE
+4469,Rosanna Arquette ,Rosanna Arquette,1,TRUE
+4470,Tim Blake Nelson ,Tim Blake Nelson,1,TRUE
+4471,Marry steinbergen,Mary Steenburgen,0.898,TRUE
+4472,Peter og.,Peter O'toole,0.877,TRUE
+4473,Ed burns,Ed Burns,1,TRUE
+4474,Julianne Moore ,Julianne Moore,1,TRUE
+4475,Beau bridges,Beau Bridges,1,TRUE
+4476,Judy dench,Judi Dench,0.907,TRUE
+4477,Albert finney ,Albert Finney,1,TRUE
+4478,Kate Hudson ,Kate Hudson,1,TRUE
+4479,Roy scheider ,Roy Scheider,1,TRUE
+4480,Christian bale,Christian Slater,0.958,TRUE
+4481,Alfred molina,Alfred Molina,1,TRUE
+4482,Kiefer Sutherland ,Kiefer Sutherland,1,TRUE
+4483,Mel Gibson,Mel Gibson,1,TRUE
+4484,Helen hunt ,Hope Davis,0.524,FALSE
+4485,Paul Giamatti ,Paul Giamatti,1,TRUE
+4487,Jeff goldblum ,Jeff Goldblum,1,TRUE
+4489,Michelle Pfeiffer ,Michelle Pfeiffer,1,TRUE
+4491,Jennifer Collins ,Jennifer Connelly,0.95,TRUE
+4493,Adrian Brody ,Adrien Brody,0.945,TRUE
+4495,,Ellen Page,0,FALSE
+4497,Marion cottilard ,Marion Cotillard,0.941,TRUE
+4499,Daniel day lewis,Daniel Day-Lewis,0.93,TRUE
+4501,Kenneth brannaugh,Kenneth Branagh,0.957,TRUE
+4503,Brendan Frasier ,Brendan Fraser,0.99,TRUE
+4505,Emma Thompson ,Emma Thompson,1,TRUE
+4507,Steve Buscemi ,Steve Buscemi,1,TRUE
+4509,Kirsten dunst ,Kirsten Dunst,1,TRUE
+4511,Malcolm McDonald ,Malcolm McDowell,0.959,TRUE
+4513,Billy crystal ,Billy Crystal,1,TRUE
+4514,Laura dern ,Laura Dern,1,TRUE
+4515,Micheal keaton ,Michael Keaton,0.931,TRUE
+4516,Judy dench ,Judi Dench,0.885,TRUE
+4517,,Gene Hackman,0,FALSE
+4518,,Kenneth Branagh,0,FALSE
+4519,Jon hamm,Jon Hamm,1,TRUE
+4520,Javier bardem ,Javier Bardem,1,TRUE
+4521,Robert Downey jr,Robert Downey Jr.,0.989,TRUE
+4522,Woody allen,Woody Allen,1,TRUE
+4523,Tommy Lee jones ,Tommy Lee Jones,1,TRUE
+4524,Maggie jylenhaal ,Maggie Gyllenhaal,0.928,TRUE
+4525,Kyle McGlaghlan,Kyle MacLachlan,0.903,TRUE
+4526,William hurt,William Hurt,1,TRUE
+4527,Jude law,Jude Law,1,TRUE
+4528,Oliver platt ,Oliver Platt,1,TRUE
+4529,Candice Bergen,Candice Bergen,1,TRUE
+4530,Vince vaughn,Vince Vaughn,1,TRUE
+4531,John cusack ,John Cusack,1,TRUE
+4532,Michael fassbender ,Michael Fassbender,1,TRUE
+4533,Paul Rudd ,Paul Rudd,1,TRUE
+4534,David hasseloff,David Hasselhoff,0.959,TRUE
+4535,Danny devito ,Danny DeVito,1,TRUE
+4536,Sandra bullock ,Sandra Bullock,1,TRUE
+4537,Mike myers,Mike Myers,1,TRUE
+4538,Ben affleck,Ben Affleck,1,TRUE
+4539,Sam Worthington ,Sam Worthington,1,TRUE
+4540,Brook shields,Brooke Shields,0.917,TRUE
+4541,Gary oldman ,Gary Oldman,1,TRUE
+4542,John c. Reilly ,John C. Reilly,1,TRUE
+4543,Jeff Daniels,Jeff Daniels,1,TRUE
+4544,Tea leoni ,Tea Leoni,1,TRUE
+4545,Nicole Kidman ,Nicole Kidman,1,TRUE
+4546,Alan Alda ,Alan Alda,1,TRUE
+4547,Tim Blake Nelson ,Tim Blake Nelson,1,TRUE
+4548,Sharon stone ,Sharon Stone,1,TRUE
+4550,Sygourney weaver,Sigourney Weaver,0.855,TRUE
+4552,David spade,David Spade,1,TRUE
+4554,Ian holm ,Ian Holm,1,TRUE
+4556,Cristoph waltz,Christoph Waltz,0.865,TRUE
+4558,Gary sinease ,Gary Sinise,0.877,TRUE
+4560,Denzel Washington ,Denzel Washington,1,TRUE
+4562,Julian Moore ,Julianne Moore,0.926,TRUE
+4564,Roger Moore ,Roger Moore,1,TRUE
+4566,Meg Ryan,Meg Ryan,1,TRUE
+4568,Andie macdowell,Andie MacDowell,1,TRUE
+4570,Paul Rudd,Paul Rudd,1,TRUE
+4572,Jeffrey Wright ,Jeffrey Wright,1,TRUE
+4574,Adrien Brody,Adrien Brody,1,TRUE
+4549,Chris Cooper ,Chris Cooper,1,TRUE
+4551,Mary steenburgen ,Mary Steenburgen,1,TRUE
+4553,Elen barkin,Ellen Barkin,0.928,TRUE
+4555,Elizabeth Perkins ,Elizabeth Perkins,1,TRUE
+4557,Ryan gosling ,Ryan Gosling,1,TRUE
+4559,Mary Louise parker,Mary-Louise Parker,0.894,TRUE
+4561,Gabriel Byrne ,Gabriel Byrne,1,TRUE
+4563,Elen page ,Ellen Page,0.893,TRUE
+4565,Keira knightly ,Keira Knightley,0.947,TRUE
+4567,Luv Tyler,Liv Tyler,0.933,TRUE
+4569,Sam Worthington ,Sam Worthington,1,TRUE
+4571,mark wahlberg,Mark Wahlberg,1,TRUE
+4573,Jamie Foxc,Jamie Foxx,0.993,TRUE
+4575,Morgan frieman ,Morgan Freeman,0.939,TRUE
