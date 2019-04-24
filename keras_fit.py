@@ -47,14 +47,15 @@ def generate_model(filename):
     # print(target)
     # print(np.argmax(target[0]))
     model = Sequential()
-    model.add(Dense(30, activation='relu', input_shape = (n_cols,)))
-    model.add(Dense(30, activation='relu', input_shape = (n_cols,)))
+    model.add(Dense(50, activation='relu', input_shape = (n_cols,)))
+#    model.add(Dense(26, activation='relu', input_shape = (n_cols,)))
     model.add(Dense(2, activation='softmax'))
     model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
-    early_stopping_monitor = EarlyStopping(patience=2)
+    early_stopping_monitor = EarlyStopping(patience=3)
 
-    model.fit(predictors, target, callbacks=[early_stopping_monitor], validation_split=0.3, epochs=10)
+    model.fit(predictors, target, callbacks=[early_stopping_monitor], validation_split=0.3, epochs=20)
+    # model.fit(predictors, target, validation_split=0.1, epochs=20)
     # print(model.summary())
     model.save(filename+'.h5')
     return model
@@ -63,48 +64,55 @@ def read_model(filename):
     model = load_model(filename)
     return model
 
+def validate(filename, correct=False):
+    df = pd.read_csv(test_filename)
+
+    incorrect = 0
+    for index, row in df.iterrows():
+        answer = row.answer
+        correct_answer = row.correct_answer
+        x, score = convert_answer(answer, correct_answer)
+        # print('Converted Answer: {}'.format(x))
+        X = pd.DataFrame([x])
+        results = model.predict(pd.DataFrame(X))
+        # print("Prediction Raw: Shape:{} value: {}".format(results.shape, results))
+        prediction = np.argmax(results, axis=1)
+        prob = results[0][1] * 100
+        pred = prediction[0]
+        if pred == 0:
+            incorrect += 1
+        #     if correct:
+        #         print("{}. Answer: {} - prob: {} - score: {}".format(pred, answer, round(prob, 2), score))
+        # else:
+        #     if not correct:
+        #         print("{}. Answer: {} - prob: {} - score: {}".format(pred, answer, round(prob, 2), score))
+        if index % 1000 == 0:
+            print(index)
+
+    total = df.shape[0]
+    correct_pct = ((total - incorrect) / total) * 100
+    print("Total: {} - Incorrect: {} - pct: {}".format(total, incorrect, correct_pct))
+    # print(categories.iloc[prediction[0]])
+
 # filename = 'misspellings_dl'
-filename = 'adam_sandler_other'
+# filename = 'adam_sandler_other'
+# filename = 'adam_sandler_other_30_0.1.h5'
+filename = 'adam_sandler_dl'
+
 target_file = 'actors.csv'
-# model = read_model(filename+'.csv.h5')
+# model = read_model(filename)
 model = generate_model(filename+'.csv')
-
-# df, dftest_x, dftest_y = get_data(filename+'.csv')
-
-# results = model.predict(dftest_x)
-# print(df_results.info())
-# print(results[0:3,:])
-# print(np.argmax(results, axis=1))
 
 categories = get_target_lookup(target_file)
 
 # x = convert_answer('Adam Sandler','Adam Sandler')
 test_filename = 'misspellings_adam_sandler.csv'
-# test_filename = 'misspellings_as_test.csv'
-df = pd.read_csv(test_filename)
+validate(test_filename, True)
 
-incorrect = 0
-for index, row in df.iterrows():
-    answer = row.answer
-    correct_answer = row.correct_answer
-    x, score = convert_answer(answer, correct_answer)
-    # print('Converted Answer: {}'.format(x))
-    X = pd.DataFrame([x])
-    results = model.predict(pd.DataFrame(X))
-    # print("Prediction Raw: Shape:{} value: {}".format(results.shape, results))
-    prediction = np.argmax(results, axis=1)
-    prob = results[0][1] * 100
-    pred = prediction[0]
-    if pred == 0:
-        print("{}. Answer: {} - prob: {} - score: {}".format(pred, answer, round(prob, 2), score))
-        incorrect += 1
-    if index % 1000 == 0:
-        print(index)
+test_filename = 'misspellings_as_test.csv'
+validate(test_filename)
 
 
-total = df.shape[0]
-correct_pct = ((total - incorrect) / total) * 100
-print("Total: {} - Incorrect: {} - pct: {}".format(total, incorrect, correct_pct))
-# print(categories.iloc[prediction[0]])
+
 
 # 65.0,100.0,97.0,109.0,32.0,83.0,97.0,110.0,100.0,108.0,101.0,114.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,100.0,0.0,Adam Sandler,Adam Sandler,1.0,1.0
