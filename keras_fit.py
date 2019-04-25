@@ -40,21 +40,27 @@ def generate_model(filename):
     df = pd.read_csv(filename)
 
     predictors = df.drop(['target','answer', 'correct_answer', 'score', 'target_as'], axis=1)
-    target = to_categorical(df.target_as)
+    # target = to_categorical(df.target_as)
+    target = df.target_as
     n_cols = predictors.shape[1]
     print("Predictor Columns: {}".format(n_cols))
     # print(df.target.iloc[0])
     # print(target)
     # print(np.argmax(target[0]))
     model = Sequential()
-    model.add(Dense(50, activation='relu', input_shape = (n_cols,)))
-#    model.add(Dense(26, activation='relu', input_shape = (n_cols,)))
-    model.add(Dense(2, activation='softmax'))
-    model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+    model.add(Dense(20, activation='relu', input_shape = (n_cols,)))
+    model.add(Dense(20, activation='relu'))
+    #model.add(Dense(2, activation='softmax'))
+    model.add(Dense(1, activation='sigmoid'))
+
+    # model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+    # model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+    model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
 
     early_stopping_monitor = EarlyStopping(patience=3)
 
-    model.fit(predictors, target, callbacks=[early_stopping_monitor], validation_split=0.3, epochs=20)
+    # model.fit(predictors, target, callbacks=[early_stopping_monitor], validation_split=0.3, epochs=20, verbose=1)
+    model.fit(predictors, target, callbacks=[early_stopping_monitor], epochs=20, verbose=1)
     # model.fit(predictors, target, validation_split=0.1, epochs=20)
     # print(model.summary())
     model.save(filename+'.h5')
@@ -74,11 +80,13 @@ def validate(filename, correct=False):
         x, score = convert_answer(answer, correct_answer)
         # print('Converted Answer: {}'.format(x))
         X = pd.DataFrame([x])
-        results = model.predict(pd.DataFrame(X))
+        results = model.predict_classes(pd.DataFrame(X))
         # print("Prediction Raw: Shape:{} value: {}".format(results.shape, results))
-        prediction = np.argmax(results, axis=1)
-        prob = results[0][1] * 100
-        pred = prediction[0]
+        # prediction = np.argmax(results, axis=1)
+        # prob = results[0][1] * 100
+        # pred = prediction[0]
+        pred = results[0][0]
+
         if pred == 0:
             incorrect += 1
         #     if correct:
@@ -97,10 +105,11 @@ def validate(filename, correct=False):
 # filename = 'misspellings_dl'
 # filename = 'adam_sandler_other'
 # filename = 'adam_sandler_other_30_0.1.h5'
-filename = 'adam_sandler_dl'
+filename = 'adam_sandler_bin_dl'
 
 target_file = 'actors.csv'
-# model = read_model(filename)
+# model = read_model(filename+'_20.h5')
+
 model = generate_model(filename+'.csv')
 
 categories = get_target_lookup(target_file)
