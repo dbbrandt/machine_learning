@@ -17,3 +17,12 @@
 
 # Virtual Environment (VENV)
 /venv/*
+
+# Package testing
+/Packages/*
+
+# Model files
+/data/*.xgb
+
+# Generated data files
+/data/*_dl.csv
