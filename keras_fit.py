@@ -15,7 +15,6 @@ from tensorflow import set_random_seed
 from xgboost import XGBClassifier
 import joblib
 
-
 def convert_answer( answer, correct_answer, max_size=24) :
     "Convert a string to an array of ascii charactor ordinal values with fuzzy match score appended"
     converted = []
@@ -182,11 +181,7 @@ filename = 'data/predict_actor'
 
 category_filename = 'data/actors'
 
-test_cases = [['Paul Dano', 'Paul Dano'],
-              ['Hope Davis', 'Hope Davis'],
-              ['Jude Law', 'Jude Law'],
-              ['Amy Adams', 'Amy Adams'],
-              ['Amie Adams', 'Amy Adams'],
+test_cases = [['Amie Adams', 'Amy Adams'],
               ['Michael Fox', 'Michael J. Fox'],
               ['Minny Driver', 'Minnie Driver'],
               ['BLair Underwood', 'Blair Underwood'],
